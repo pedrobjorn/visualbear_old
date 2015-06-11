@@ -1,0 +1,38 @@
+---
+component: navbar
+---
+<!-- Fixed navbar -->
+<nav class="navmenu navmenu-fixed-right offcanvas" role="navigation">
+
+<ul id="links">
+    <li{{#if this.isCurrentPage}} class="active "{{/if}}>
+      <a href="#jumbo"  data-toggle="offcanvas" >Home</a>
+    </li>
+    <li{{#if this.isCurrentPage}} class="active"{{/if}}>
+      <a href="#work"  data-toggle="offcanvas" >Work</a>
+    </li>
+    <li{{#if this.isCurrentPage}} class="active"{{/if}}>
+      <a href="#about"  data-toggle="offcanvas" >About</a>
+    </li>
+    <li{{#if this.isCurrentPage}} class="active"{{/if}}>
+      <a href="#contact"  data-toggle="offcanvas" >Contact</a>
+    </li>
+  </ul>
+</nav>
+<div class=" navbar  navbar-fixed-top  col-sm-12" role="navigation">
+  <li class="col-md-6 ">
+    <a class="navbar-brand" href="index.html">
+      <img src="assets/img/icons/logo_default_transparent.svg" alt="home">
+    </a>
+    <!--{{#withSort pages "data.sortOrder"}}-->
+    <!-- {{/withSort}}-->
+  </li>
+  <li class="col-md-6  ">
+<button type="button"  class="btn vb-btn  cmn-toggle-switch__htx pull-right" data-toggle="offcanvas" data-target=".navmenu">
+  <span>toggle menu</span>
+</button>
+   <!-- <button type="button" class="btn vb-btn pull-right" data-toggle="offcanvas" data-target=".navmenu">
+    <i class="fa fa-bars fa-lg"></i>
+    </button>-->
+  </li>
+</div>

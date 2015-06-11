@@ -1,0 +1,43 @@
+@import "helpers/variables";
+@import "helpers/mixins";
+
+footer{
+  font-family:$vb-body-font-family;
+  font-size:8px;
+}
+
+footer {
+  position:relative;
+  bottom:0;
+  width:100%;
+  height:32px;
+  padding:16px 0;
+  p {
+    margin: 0;
+  }
+}
+
+//>1200px
+@media(min-width:$break-large) {
+
+}
+
+//1200px< & >767px
+@media(max-width:$break-large)and(min-width:$break-medium)  {
+
+}
+
+//767px< & >480px
+@media(max-width:$break-medium)and(min-width:$break-small) {
+
+}
+
+//480px< & >320px
+@media(max-width:$break-small)and(min-width:$break-tiny) {
+
+}
+
+//320px<
+@media(max-width:$break-tiny) {
+
+}

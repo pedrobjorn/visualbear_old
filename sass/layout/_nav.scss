@@ -1,0 +1,109 @@
+@import "helpers/variables";
+@import "helpers/mixins";
+
+header,
+body,
+section {
+    width: 100%;
+}
+
+nav.offcanvas {
+  margin-top:64px;
+    width: 356px;
+    z-index: 9999;
+    background-color: $vb-grey;
+    border: solid $vb-grey;
+    li{
+      font-size:$base-h2-size;
+      font-weight: $light;
+      text-align: center;
+        &:hover {
+          cursor:pointer;
+          background-color: $vb-primary;
+        }
+      }
+      a{
+          text-decoration: none;
+          color:#fff;
+      }
+      #close{
+        padding: 8px 16px;
+        background-color: $vb-grey;
+        .fa-close{
+          font-size: 36px;
+        }
+      }
+      #links{
+
+      }
+}
+
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+
+.navbar {
+    z-index: 1;
+    width: 100%;
+    .fa-bars {
+        font-size: 36px;
+    }
+    height: 64px;
+    padding: 8px;
+    background-color: $vb-grey;
+    .dropdown-menu li {
+        &:hover {
+            background-color: $vb-primary;
+        }
+    }
+}
+
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+    background-color: $vb-primary;
+    color: $vb-grey;
+}
+
+.navbar-brand {
+    padding: 0;
+}
+
+//>1200px
+@media (min-width: $break-large) {}
+
+//1200px< & >767px
+@media (max-width: $break-large) and (min-width: $break-medium) {}
+
+//767px< & >480px
+@media (max-width: $break-medium) and (min-width: $break-small) {
+    nav.offcanvas {
+      li{
+      text-align: center;
+        &:hover {
+          background-color: $vb-primary;
+        }
+      }
+      a{
+          text-decoration: none;
+          color:#fff;
+      }
+        width: 100%;
+        z-index: 9999;
+        background-color: $vb-grey;
+        border: solid $vb-grey;
+    }
+}
+
+//480px< & >320px
+@media (max-width: $break-small) and (min-width: $break-tiny) {
+    nav.offcanvas {
+        width: 100%;
+        z-index: 9999;
+        background-color: $vb-grey;
+        border: solid $vb-grey;
+    }
+}
+
+//320px<
+@media (max-width: $break-tiny) {}

@@ -1,0 +1,74 @@
+@import "helpers/variables";
+@import "helpers/mixins";
+
+html,
+body {
+    background-color: $vb-grey;
+}
+
+li {
+    list-style-type: none;
+}
+
+::-moz-selection {
+    text-shadow: none;
+    background: #fcfcfc;
+    background-color: none;
+}
+
+::selection {
+    text-shadow: none;
+    background: #fcfcfc;
+    background-color: none;
+}
+
+img::selection {
+    background: transparent;
+}
+
+img::-moz-selection {
+    background: transparent;
+}
+
+body {
+    webkit-tap-highlight-color: transparentize($vb-light, 0.8);
+}
+
+span {
+    display: block;
+}
+
+img {
+    width: 100%;
+}
+
+li#center-justified {
+    text-align: center;
+}
+
+li#left-justified {
+    text-align: justified-left;
+}
+
+.thin {
+    font-weight: $light;
+}
+
+.bold {
+    font-weight: $bold;
+}
+
+//>1200px
+@media (min-width: $break-large) {}
+
+//1200px< & >767px
+@media (max-width: $break-large) and (min-width: $break-medium) {}
+
+//767px< & >480px
+@media (max-width: $break-medium) and (min-width: $break-small) {}
+
+//480px< & >320px
+@media (max-width: $break-small) and (min-width: $break-tiny) {}
+
+//320px<
+@media (max-width: $break-tiny) {}

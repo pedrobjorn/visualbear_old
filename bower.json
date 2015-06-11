@@ -1,0 +1,10 @@
+{
+  "name": "granditudewebsite",
+  "version": "0.1.0",
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "fontawesome": "~4.3.0",
+    "jquery": "~2.1.3"
+  },
+  "private": true
+}

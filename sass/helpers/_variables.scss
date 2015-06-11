@@ -1,0 +1,53 @@
+//Colours
+$vb-primary		: #fb0042 !default;
+$vb-secondary	: #f6a900 !default;
+$vb-grey		: #39393D !default;
+$vb-light		: #fff !default;
+$vb-active		: #f6cc00  !default;
+
+//Fonts
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:300,400,500);
+
+$vb-body-font-family	: "Ubuntu", Arial, sans-serif;
+
+
+$shadow: 1px 1px 4px #000;
+// Base Font
+$base-font-size: 20px;
+$base-h2-size: 28px;
+$base-line-height: 1.35;
+$big-line-height: 3;
+
+// Mobile Font
+$mobile-font-size: 18px;
+$mobile-h2-size: 24px;
+$mobile-line-height: 1.55;
+$mobileBig-line-height: 2.5;
+
+// Fixed Font
+$fixed-font-family: monospace;
+$fixed-font-size: 85%;
+$fixed-line-height: $base-line-height;
+
+
+$font-color             : #333;
+
+// Font weights
+$light	:200;
+$medium :400;
+$bold	:500;
+
+$icon-font-path : '../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/';
+$fa-font-path	: '../bower_components/font-awesome/fonts';
+
+
+//Proportions
+$base-nav-padding-constant: 8px 0 8px 0;
+$mobile-nav-padding-constant: 8px 24px 11.5px 24px;
+
+
+// Media Queries
+$break-tiny: 320px;
+$break-small: 480px;
+$break-medium: 767px;
+$break-large: 1200px;
