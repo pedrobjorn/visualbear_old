@@ -29,3 +29,5 @@ node_modules
 .sass-cache*
 
 /dist/**
+../visualbear.sublime-project
+../visualbear.sublime-workspace
