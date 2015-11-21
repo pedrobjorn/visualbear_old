@@ -10,6 +10,8 @@ lib-cov
 
 .out
 
+.DS_Store
+
 .pid
 *.gz
 
