@@ -1,13 +1,11 @@
 # Require any additional compass plugins here.
 
 # Set this to the root of your project when deployed:
-http_path = "dist"
-css_dir = "dist/assets/css"
+http_path = "src"
+css_dir = "src/assets/css"
 sass_dir = "sass"
-images_dir = "dist/assets/img"
 javascripts_dir = "dist/assets/js"
 
-add_import_path "bower_components/Bootflat/bootflat/scss"
 add_import_path "bower_components/bootstrap-sass/assets/stylesheets"
 add_import_path "bower_components/fontawesome/scss"
 

@@ -1,0 +1,10 @@
+{
+  "name": "boilerplate-bootstrap",
+  "version": "0.2.5",
+  "main": [
+    "tasks/replacements.js"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0"
+  }
+}

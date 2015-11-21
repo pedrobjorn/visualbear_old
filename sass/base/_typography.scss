@@ -3,11 +3,11 @@
 
 html,
 body {
-  font-family: $vb-body-font-family;
-  color: $vb-light;
-  font-weight: $medium;
-  font-size:$base-font-size;
-  line-height: $base-line-height;
+    font-family: $vb-body-font-family;
+    color: $vb-light;
+    font-weight: $medium;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
 }
 
 h1,
@@ -16,68 +16,340 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 16px 0 8px 0;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-weight: $bold;
-  line-height: 1.5em;
+    letter-spacing: 1px;
+    font-weight: $medium;
 }
 
 a {
-  color: $vb-light;
-  text-decoration: none;
-  &:hover,
-  &:focus {
-  text-decoration: none;
-    color: none;
-  }
+    color: $vb-primary;
+    // text-decoration: underline;
+    &:hover,
+    &:focus {
+        text-decoration: none;
+        color: $vb-light;
+        background-color: $vb-primary;
+    }
 }
 
-li#center-justified{
-  text-align:center;
-}
-li#left-justified{
-  text-align:justified-left;
-}
-.thin{
-  font-weight:$light;
-}
-.bold{
-  font-weight:$bold;
+nav.offcanvas {
+    text-transform: uppercase;
+    font-weight: $light;
+    a {
+        &:hover,
+        &:focus {
+            color: $vb-light;
+        }
+    }
 }
 
-.title{
-  margin: 0;
+.highlight {
+    font-weight: $medium;
+    padding-bottom: 4px;
+    //text-decoration: underline;
+    &:hover,
+    &:focus {
+        box-shadow: 8px 0 0 $vb-primary, -8px 0 0 $vb-primary;
+        color: $vb-light;
+        text-decoration: none;
+        background-color: $vb-primary;
+        //text-decoration: underline;
+
+    }
 }
 
-//>1200px
-@media(min-width:$break-large) {
-
-
+.emphasis {
+    font-weight: $medium;
+    color: #fff;
 }
 
+li#center-justified {
+    text-align: center;
+}
+
+li#left-justified {
+    text-align: justified-left;
+}
+
+.thin {
+    font-weight: $light;
+}
+
+.bold {
+    font-weight: $bold;
+}
+
+.title {
+    margin: 0;
+}
+
+// @media (min-width: $break-huge) {
+
+//     .gallery-text {
+//         font-weight: $light;
+//         font-size: $medium-2k-size;
+//         line-height: $medium-line-height;
+//     }
+//     #about-text, #contact-text {
+//         font-size: $small-font-size;
+//         line-height: $base-line-height;
+//     }
+//     .text-block {
+//         padding: 48px;
+//         font-size: 4em;
+//         .subtitle {
+//             font-size:0.5em;
+//             font-weight: $light;
+//         }
+//     }
+//     .text-container {
+//         width:900px;
+//         margin:auto;
+//         font-weight: $light;
+//     }
+// }
+@media (min-width: $break-huge) {
+    h1 {
+        font-size: 3.6em;
+    }
+    h3 {
+        font-size: $base-h3-size;
+    }
+    .gallery-text {
+        font-weight: $light;
+        font-size: $base-font-size;
+        line-height: $medium-line-height;
+    }
+    #about-text, #contact-text {
+        font-size: $base-font-size;
+        line-height: $base-line-height;
+    }
+    .light {
+        font-weight: $light;
+    }
+    .text-block {
+        padding: 16px;
+    }
+    .header-block {
+        .subtitle {
+            font-weight: $light;
+            font-size: 0.8em;
+        }
+    }
+    .text-container {
+        width: 900px;
+        margin: auto;
+        font-weight: $light;
+    }
+}
+
+@media (max-width: $break-huge) and (min-width: $break-large) {
+    h1 {
+        font-size: 3.6em;
+    }
+    h3 {
+        font-size: $base-h3-size;
+    }
+    .gallery-text {
+        font-weight: $light;
+        font-size: $base-font-size;
+        line-height: $medium-line-height;
+    }
+    #about-text, #contact-text {
+        font-size: $base-font-size;
+        line-height: $base-line-height;
+    }
+    .light {
+        font-weight: $light;
+    }
+    .light {
+        font-weight: $light;
+    }
+    .text-block {
+        padding: 16px;
+    }
+    .header-block {
+        .subtitle {
+            font-weight: $light;
+        }
+    }
+    .text-container {
+        width: 900px;
+        margin: auto;
+        font-weight: $light;
+    }
+}
+
+@media (max-width: $break-large) and (min-width: $break-big) {
+    h1 {
+        font-size: 3.6em;
+    }
+    h3 {
+        font-size: $base-h3-size;
+    }
+    .gallery-text {
+        font-weight: $light;
+        font-size: $base-font-size;
+        line-height: $medium-line-height;
+    }
+    #about-text, #contact-text {
+        font-size: $base-font-size;
+        line-height: $medium-line-height;
+    }
+    .light {
+        font-weight: $light;
+    }
+    .text-block {
+        padding: 16px;
+    }
+    .header-block {
+        .subtitle {
+            font-weight: $light;
+            font-size: 0.8em;
+        }
+    }
+    .text-container {
+        width: 900px;
+        margin: auto;
+        font-weight: $light;
+    }
+}
 
 //1200px< & >767px
-@media(max-width:$break-large)and(min-width:$break-medium)  {
-
+@media (max-width: $break-big) and (min-width: $break-medium) {
+    h1 {
+        font-size: 3em;
+    }
+    h3 {
+        font-size: $base-h3-size;
+    }
+    .gallery-text {
+        font-weight: $light;
+        font-size: $middle-font-size;
+        line-height: $medium-line-height;
+    }
+    #about-text, #contact-text {
+        font-size: $base-font-size;
+        line-height: $base-line-height;
+    }
+    .light {
+        font-weight: $light;
+    }
+    .text-block {
+        padding: 16px;
+    }
+    .header-block {
+        .subtitle {
+            font-weight: $light;
+            font-size: 0.8em;
+        }
+    }
+    .text-container {
+        padding: 0 64px;
+        max-width: 900px;
+        margin: auto;
+        font-weight: $light;
+    }
 }
-
 
 //767px< & >480px
-@media(max-width:$break-medium)and(min-width:$break-small) {
-
-
+@media (max-width: $break-medium) and (min-width: $break-small) {
+    h1 {
+        font-size: $mobile-h1-size;
+    }
+    h3 {
+        font-size: $mobile-h3-size;
+    }
+    .gallery-text {
+        font-weight: $light;
+        font-size: $mobile-font-size;
+        line-height: $medium-line-height;
+    }
+    #about-text, #contact-text {
+        font-size: $mobile-font-size;
+        line-height: $base-line-height;
+    }
+    .light {
+        font-weight: $light;
+    }
+    .text-block {
+        padding: 8px;
+    }
+    .header-block {
+        .subtitle {
+            font-size: 0.8em;
+        }
+    }
+    .text-container {
+        padding: 0 32px;
+        font-weight: $light;
+    }
 }
 
-
 //480px< & >320px
-@media(max-width:$break-small)and(min-width:$break-tiny) {
-
-
+@media (max-width: $break-small) and (min-width: $break-tiny) {
+    h1 {
+        font-size: $mobile-h1-size;
+    }
+    h3 {
+        font-size: $mobile-h3-size;
+    }
+    .gallery-text {
+        font-weight: $light;
+        font-size: $mobile-font-size;
+        line-height: $medium-line-height;
+    }
+    #about-text, #contact-text {
+        font-size: $mobile-font-size;
+        line-height: $base-line-height;
+    }
+    .light {
+        font-weight: $light;
+    }
+    .text-block {
+        padding: 8px;
+    }
+    .header-block {
+        .subtitle {
+            font-size: 0.8em;
+        }
+    }
+    .text-container {
+        padding: 0 32px;
+        font-weight: $light;
+    }
 }
 
 //320px<
-@media(max-width:$break-tiny) {
-
-
+@media (max-width: $break-tiny) {
+    h1 {
+        font-size: $mobile-h1-size;
+    }
+    h3 {
+        font-size: $mobile-h3-size;
+    }
+    .gallery-text {
+        font-weight: $light;
+        font-size: $mobile-font-size;
+        line-height: $medium-line-height;
+    }
+    #about-text, #contact-text {
+        font-size: $mobile-font-size;
+        line-height: $base-line-height;
+    }
+    .light {
+        font-weight: $light;
+    }
+    .text-block {
+        padding: 8px;
+    }
+    .header-block {
+        .subtitle {
+            font-weight: $light;
+            font-size: 0.75em;
+        }
+    }
+    .text-container {
+        padding: 0 32px;
+        font-weight: $light;
+    }
 }

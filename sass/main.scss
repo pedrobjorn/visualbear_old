@@ -1,6 +1,6 @@
 //Vendor
+
 @import "bootstrap";
-@import "_bootflat";
 @import "font-awesome";
 @import "compass";
 @import "compass/reset";
@@ -15,7 +15,9 @@
 @import "base/typography";
 
 //Components
+@import "components/d3";
 @import "components/buttons";
+@import "components/forms";
 
 //layout
 @import "layout/grid";
@@ -24,3 +26,5 @@
 
 //Pages
 @import "pages/index";
+@import "pages/gallery";
+@import "pages/pages";

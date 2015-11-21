@@ -3,7 +3,9 @@
 
 html,
 body {
-    background-color: $vb-grey;
+    font-size: 1.5em; /* 1 */
+    -webkit-text-size-adjust: 1.5em; /* 2 */
+    -ms-text-size-adjust: 1.5em; /* 2 */
 }
 
 li {

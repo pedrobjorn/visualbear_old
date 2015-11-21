@@ -1,26 +1,53 @@
 //Colours
-$vb-primary		: #fb0042 !default;
-$vb-secondary	: #f6a900 !default;
+$vb-primary       : #ff0033 !default;
+$vb-secondary	: #ff450d !default;
 $vb-grey		: #39393D !default;
-$vb-light		: #fff !default;
+$vb-dark        : #1C1C1C !default;
+$vb-light		: #ebf5ff!default;
 $vb-active		: #f6cc00  !default;
-
-//Fonts
-@import url(http://fonts.googleapis.com/css?family=Ubuntu:300,400,500);
 
 $vb-body-font-family	: "Ubuntu", Arial, sans-serif;
 
-
 $shadow: 1px 1px 4px #000;
 // Base Font
-$base-font-size: 20px;
-$base-h2-size: 28px;
+$small-font-size:0.5em;
+$middle-font-size:1em;
+$base-font-size: 1.3em;
+
+$base-h3-size: 1.18em;
+$base-h2-size: 2em;
+$base-h1-size: 2.5em;
+
+$tiny-2k-size:1.35em;
+$small-2k-size:1.65em;
+$medium-2k-size:2.2em;
+$base-2k-size: 2.7em;
+$big-2k-size: 3.5em;
+
 $base-line-height: 1.35;
+$medium-line-height: 1.5;
 $big-line-height: 3;
 
+
+$lineheight-loose: 3;
+$lineheight-base: 1.35;
+$lineheight-tight: 1.5;
+
+$mobile-lineheight-loose: 2;
+$mobile-lineheight-base: 1;
+$mobile-lineheight-tight: 1.5;
+
+
+
 // Mobile Font
-$mobile-font-size: 18px;
-$mobile-h2-size: 24px;
+$mobile-big-h2-size: 1.6em;
+$mobile-big-h1-size: 2.2em;
+
+$mobile-font-size: 0.75em;
+
+$mobile-h3-size: 0.8em;
+$mobile-h2-size: 1.2em;
+$mobile-h1-size: 1.6em;
 $mobile-line-height: 1.55;
 $mobileBig-line-height: 2.5;
 
@@ -29,11 +56,8 @@ $fixed-font-family: monospace;
 $fixed-font-size: 85%;
 $fixed-line-height: $base-line-height;
 
-
-$font-color             : #333;
-
 // Font weights
-$light	:200;
+$light	:300;
 $medium :400;
 $bold	:500;
 
@@ -41,13 +65,20 @@ $icon-font-path : '../bower_components/bootstrap-sass-official/assets/fonts/boot
 $fa-font-path	: '../bower_components/font-awesome/fonts';
 
 
+
 //Proportions
 $base-nav-padding-constant: 8px 0 8px 0;
 $mobile-nav-padding-constant: 8px 24px 11.5px 24px;
 
+$tile-height-small: 128px;
+$tile-height-medium: 256px;
+$tile-height-big: 512px;
+$tile-height-2k: 768px;
 
 // Media Queries
 $break-tiny: 320px;
 $break-small: 480px;
 $break-medium: 767px;
-$break-large: 1200px;
+$break-big: 960px;
+$break-large: 1279px;
+$break-huge: 2400px;

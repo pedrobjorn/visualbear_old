@@ -1,0 +1,2384 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"imag",
+				"image_container	(gallery_dukebox.hbs)"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pos",
+				"position	(_buttons.scss)"
+			],
+			[
+				"gro",
+				"group	(table.service.js)"
+			],
+			[
+				"tabl",
+				"tableFunctions"
+			],
+			[
+				"selec",
+				"selectVar"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"cline",
+				"clientObj"
+			],
+			[
+				"nodeo",
+				"nodeObj"
+			],
+			[
+				"sune",
+				"subnetObj"
+			],
+			[
+				"owner",
+				"ownerObj"
+			],
+			[
+				"client",
+				"clientObj"
+			],
+			[
+				"paren",
+				"parentObj"
+			],
+			[
+				"parent",
+				"parent=\"parentObj	(dropdown.html)"
+			],
+			[
+				"server",
+				"serverBool"
+			],
+			[
+				"update",
+				"updatedObj"
+			],
+			[
+				"displa",
+				"display	(_dash.scss)"
+			],
+			[
+				"scrol",
+				"scrollit	(table.html)"
+			],
+			[
+				"scroll",
+				"scrollit	(_table.scss)"
+			],
+			[
+				"wid",
+				"width	(table.directive.js)"
+			],
+			[
+				"rel",
+				"relative	(_dash.scss)"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"setres",
+				"setResponseHeaders"
+			],
+			[
+				"subnet",
+				"subnetObj"
+			],
+			[
+				"collapse",
+				"collapseObj"
+			],
+			[
+				"nodet",
+				"nodeTime"
+			],
+			[
+				"tab",
+				"tabActive"
+			],
+			[
+				"tabAc",
+				"tabActivate"
+			],
+			[
+				"pull-left",
+				"pull-left	 bootstrap.css"
+			],
+			[
+				"pull-",
+				"pull-left	 font-awesome.css"
+			],
+			[
+				"submit",
+				"submitDatetime"
+			],
+			[
+				"manual",
+				"manualDate"
+			],
+			[
+				"col-md",
+				"col-md-3	 bootstrap.css"
+			],
+			[
+				"show",
+				"showTimeAdjust"
+			],
+			[
+				"fil",
+				"filter:search"
+			],
+			[
+				"filter",
+				"filters"
+			],
+			[
+				"ngiv",
+				"ng-view	AngularJS"
+			],
+			[
+				"$s",
+				"${1:false"
+			],
+			[
+				"unit",
+				"angular: $sanitize"
+			],
+			[
+				"toggle",
+				"toggleOpen"
+			],
+			[
+				"maxread",
+				"maxReadDone"
+			],
+			[
+				"decimal",
+				"decimalValue"
+			],
+			[
+				"disb",
+				"disable"
+			],
+			[
+				"selected",
+				"selectedNode"
+			],
+			[
+				"selece",
+				"selectedObj"
+			],
+			[
+				"tmp",
+				"tmpObjects"
+			],
+			[
+				"input",
+				"inputId"
+			],
+			[
+				"nodety",
+				"nodeType"
+			],
+			[
+				"creat",
+				"createdObj"
+			],
+			[
+				"sele",
+				"selectedObj"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"selectobj",
+				"selectedObj"
+			],
+			[
+				"clien",
+				"clientId"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"select",
+				"selectObject"
+			],
+			[
+				"ths",
+				"thisObj"
+			],
+			[
+				"clinet",
+				"clientId"
+			],
+			[
+				"object",
+				"objects"
+			],
+			[
+				"add",
+				"addObject"
+			],
+			[
+				"get",
+				"getElement"
+			],
+			[
+				"delete",
+				"deleteElement"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"read",
+				"readElement"
+			],
+			[
+				"obje",
+				"objects"
+			],
+			[
+				"domain",
+				"domainId"
+			],
+			[
+				"schedule",
+				"schedule"
+			],
+			[
+				"font",
+				"fontawesome"
+			],
+			[
+				"mon",
+				"monthsSelect"
+			],
+			[
+				"days",
+				"daysSelect"
+			],
+			[
+				"dates",
+				"datesSelect"
+			],
+			[
+				"remov",
+				"removeItem"
+			],
+			[
+				"p",
+				"properties"
+			],
+			[
+				"data",
+				"dataMenu"
+			],
+			[
+				"proper",
+				"propertyMenu"
+			],
+			[
+				"property",
+				"propertyView"
+			],
+			[
+				"Day",
+				"Days:2,3,5,7,10,24,24,46,23,41,23,12,42"
+			],
+			[
+				"con",
+				"controllers"
+			],
+			[
+				"attr",
+				"attr"
+			],
+			[
+				"accord",
+				"accordionMenu"
+			],
+			[
+				"todo",
+				"todos"
+			],
+			[
+				"post",
+				"post"
+			],
+			[
+				"Clien",
+				"ClientList"
+			],
+			[
+				"limit",
+				"limitTo:2"
+			],
+			[
+				"iscol",
+				"isCollapsedSubnet"
+			],
+			[
+				"iscoll",
+				"isCollapsedInput"
+			],
+			[
+				"display",
+				"displayVar"
+			],
+			[
+				"form",
+				"form-group	 bootstrap.min.css"
+			],
+			[
+				"parens",
+				"parentSelect"
+			],
+			[
+				"max",
+				"maxRead"
+			],
+			[
+				"selecte",
+				"selectedVal"
+			],
+			[
+				"ng",
+				"ngModel"
+			],
+			[
+				"wr",
+				"break-word"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"maxRea",
+				"maxRange"
+			],
+			[
+				"click",
+				"clickCount"
+			],
+			[
+				"node",
+				"nodeType"
+			],
+			[
+				"disable",
+				"disableItem"
+			],
+			[
+				"disabl",
+				"disableItem"
+			],
+			[
+				"is",
+				"isActive"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"col-",
+				"col-xs-2	 bootstrap.css"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"inpuT",
+				"Input"
+			],
+			[
+				"this",
+				"thisObj"
+			],
+			[
+				"multi",
+				"multiApp"
+			],
+			[
+				"col",
+				"col-md-11	 bootstrap.css"
+			],
+			[
+				"left",
+				"pull-left	 bootstrap.css"
+			],
+			[
+				"nav",
+				"navbar	 bootstrap.css"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"properti",
+				"propertyView"
+			],
+			[
+				"remove",
+				"removeObj"
+			],
+			[
+				"toggl",
+				"toggleOpen"
+			],
+			[
+				"Sub",
+				"Subnet2"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"app",
+				"angularTutApp"
+			],
+			[
+				"localt",
+				"localStorageService"
+			],
+			[
+				"things",
+				"thingsInStore"
+			],
+			[
+				"ad",
+				"addTodo"
+			],
+			[
+				"ponto",
+				"ponto1-1"
+			],
+			[
+				"grand",
+				"granditude-light"
+			],
+			[
+				"grandi",
+				"granditude-light"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sass/pages/_gallery.scss",
+			"settings":
+			{
+				"buffer_size": 9499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/helpers/_mixins.scss",
+			"settings":
+			{
+				"buffer_size": 486,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/partials/work.hbs",
+			"settings":
+			{
+				"buffer_size": 1806,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/pages/gallery_dukebox.hbs",
+			"settings":
+			{
+				"buffer_size": 1038,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/pages/gallery_adhops.hbs",
+			"settings":
+			{
+				"buffer_size": 1037,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/pages/gallery_lynx.hbs",
+			"settings":
+			{
+				"buffer_size": 1053,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/pages/gallery_visualbear.hbs",
+			"settings":
+			{
+				"buffer_size": 1050,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/pages/gallery_sos.hbs",
+			"settings":
+			{
+				"buffer_size": 1052,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/pages/gallery_copafeel.hbs",
+			"settings":
+			{
+				"buffer_size": 1046,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/layout/_grid.scss",
+			"settings":
+			{
+				"buffer_size": 1810,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/helpers/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 1507,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/pages/_index.scss",
+			"settings":
+			{
+				"buffer_size": 5299,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/partials/jumbo.hbs",
+			"settings":
+			{
+				"buffer_size": 786,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scripts/ui.js",
+			"settings":
+			{
+				"buffer_size": 2240,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/main.scss",
+			"settings":
+			{
+				"buffer_size": 430,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/pages/resume.hbs",
+			"settings":
+			{
+				"buffer_size": 298,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/layout/_nav.scss",
+			"settings":
+			{
+				"buffer_size": 4178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/partials/navbar-fixed-top.hbs",
+			"settings":
+			{
+				"buffer_size": 1388,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/layouts/default.hbs",
+			"settings":
+			{
+				"buffer_size": 2266,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/components/_buttons.scss",
+			"settings":
+			{
+				"buffer_size": 5505,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.rb",
+			"settings":
+			{
+				"buffer_size": 1000,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/base/_typography.scss",
+			"settings":
+			{
+				"buffer_size": 3028,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "bea",
+		"selected_items":
+		[
+			[
+				"bea",
+				"SassBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"HTML",
+				"HTMLBeautify"
+			],
+			[
+				"java",
+				"Javascript Beautify"
+			],
+			[
+				"git mer",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git commit",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git fetch",
+				"Git: Fetch"
+			],
+			[
+				"git fe",
+				"Git: Fetch"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"pull cu",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git quic",
+				"Git: Quick Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"gif",
+				"Git: Add Current File"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"jslin",
+				"JSLint"
+			],
+			[
+				"fetch",
+				"Git: Fetch"
+			],
+			[
+				"trimm",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"trim",
+				"Trimmer: Collapse lines."
+			],
+			[
+				"align",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"JSHINT",
+				"JSHint"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"PACK",
+				"Package Control: Remove Package"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"set",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"jshintify: show errors list for current line"
+			],
+			[
+				"jshin",
+				"JSHint"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"angular ",
+				"AngularJS: Toggle - Disable All Completions"
+			],
+			[
+				"rebuild",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"gitgutter",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal	",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet:usr/bin/env",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"box",
+				"Snippet: box-shadow+"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 195.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/visualbear/Work/Fun/Web/visualbear",
+		"/Users/visualbear/Work/Fun/Web/visualbear/bower_components",
+		"/Users/visualbear/Work/Fun/Web/visualbear/bower_components/bootflat",
+		"/Users/visualbear/Work/Fun/Web/visualbear/bower_components/bootflat/js",
+		"/Users/visualbear/Work/Fun/Web/visualbear/sass",
+		"/Users/visualbear/Work/Fun/Web/visualbear/sass/base",
+		"/Users/visualbear/Work/Fun/Web/visualbear/sass/components",
+		"/Users/visualbear/Work/Fun/Web/visualbear/sass/helpers",
+		"/Users/visualbear/Work/Fun/Web/visualbear/sass/layout",
+		"/Users/visualbear/Work/Fun/Web/visualbear/sass/pages",
+		"/Users/visualbear/Work/Fun/Web/visualbear/src",
+		"/Users/visualbear/Work/Fun/Web/visualbear/src/assets",
+		"/Users/visualbear/Work/Fun/Web/visualbear/src/content",
+		"/Users/visualbear/Work/Fun/Web/visualbear/src/scripts",
+		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates",
+		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/assets",
+		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/layouts",
+		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/pages",
+		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/partials"
+	],
+	"file_history":
+	[
+		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/pages/gallery.html",
+		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/pages/index.hbs",
+		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/pages/gallery_visualbear.hbs",
+		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/pages/gallery_copafeel.hbs",
+		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/pages/gallery_adhops.html",
+		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/partials/work.hbs",
+		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/partials/jumbo.hbs",
+		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/pages/work.hbs",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/package.json",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/table/table.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/table/table.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/table/table.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/scss/partials/_table.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/sales/optimisation/optimisation.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/.gitignore",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/Gruntfile.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/index.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/scss/modules/_mixins.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/ECOMDashboard/ec-web/src/main/java/com/granditude/ec/web/PriceController.java",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/MEGACON Dashboard/multilog/src/main/java/se/megacon/multilog/web/MultilogController.java",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/MEGACON Dashboard/multilog/src/test/java/se/megacon/multilog/db/TestMemoryDB.java",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/.gitignore",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/.jshintrc",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/services/sessions.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/table/table.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/partials/_table.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/dash/template/dash.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/table/grPagination.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/partials/_forms.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/bower_components/angular-smart-table/dist/smart-table.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/partials/_dash.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/table/table.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/table/table.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/app.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/account.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/activate/activate.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/activate/activate.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/login/login.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/login/login.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/logout/logout.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/logout/logout.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/password/password.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/password/password.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/password/password.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/register/register.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/register/register.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/reset/finish/reset.finish.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/reset/finish/reset.finish.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/reset/request/reset.request.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/reset/request/reset.request.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/sessions/sessions.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/sessions/sessions.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/settings/settings.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/settings/settings.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/admin.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/audits/audits.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/audits/audits.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/configuration/configuration.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/configuration/configuration.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/docs/docs.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/health/health.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/health/health.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/logs/logs.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/logs/logs.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/metrics/metrics.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/metrics/metrics.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/dash/dash.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/entities/entity.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/error/error.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/main/main.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/main/main.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/admin/audits.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/admin/configuration.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/admin/logs.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/admin/monitoring.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/auth.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/authority.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/principal.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/provider/auth.session.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/services/account.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/services/activate.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/services/password.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/services/register.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/dash/dash.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/form/form.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/form/pager.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/form/pagination.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/language/language.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/language/language.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/navbar/navbar.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/navbar/navbar.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/sidepanel/sidepanel.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/user/user.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/util/base64.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/util/parse-links.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/util/truncate.filter.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/test/javascript/spec/app/account/health/healthControllerSpec.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/modules/_variables.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/main.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/partials/_typography.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/test/javascript/spec/app/account/login/loginControllerSpec.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/test/javascript/spec/app/account/password/passwordControllerSpec.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/test/javascript/spec/app/account/password/passwordDirectiveSpec.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/test/javascript/spec/app/account/sessions/sessionsControllerSpec.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/test/javascript/spec/app/account/settings/settingsControllerSpec.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/test/javascript/spec/components/auth/authServicesSpec.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/Gruntfile.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/main.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/app.constants.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/assets/styles/main.css",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/index.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/table/grPaginationBig.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/table/grPagination_big.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/table/grPagination.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/form/pagination.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/bower_components/angular-smart-table/src/smart-table.module.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/node_modules/generator-jhipster/app/templates/src/main/webapp/scripts/components/form/_pagination.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/table/templates/pagination.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/bower_components/angular-smart-table/src/stPagination.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/partials/_base.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/modules/_all.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/D3/d3.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/navbar/template/navbar.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/bower_components/angu-fixed-header-table/angu-fixed-header-table.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/modules/_variable.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/navbar/template/table.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/dash/dash.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/D3/d3.directive.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.scss",
+			"*.js",
+			"*",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.html",
+			"*.scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    .image_container{\n    	border-top:solid 4px  $vb-primary;\n      	border-bottom: solid 4px $vb-primary;\n    }",
+			"            #dukebox {\n                @include background-image(\"../img/work/thumbs/gallery_thumb_adhops_short.jpg\");\n            }",
+			"            #visualbear {\n                @include background-image(\"../img/work/thumbs/gallery_thumb_adhops_short.jpg\");\n            }",
+			"            #lynx {\n                @include background-image(\"../img/work/thumbs/gallery_thumb_adhops_short.jpg\");\n            }",
+			"            #sos {\n                @include background-image(\"../img/work/thumbs/gallery_thumb_adhops_short.jpg\");\n            }",
+			"                &:hover,\n                &:focus {\n                    background-color: red;\n                }",
+			"border-bottom: solid 2px $vb-primary;",
+			"\n\n      				border-bottom: solid 2px $vb-primary;",
+			"\n      			border-bottom: solid 1px $vb-primary;",
+			"border-bottom",
+			"			#sos{\n				@include background-image(\"../img/work/thumbs/gallery_thumb_adhop.jpg\");\n			}",
+			"				#sos{\n					@include background-image(\"../img/work/thumbs/gallery_thumb_sos.jpg\");\n				}",
+			"				#sos{\n					@include background-image(\"../img/work/thumbs/gallery_thumb_adhop.jpg\");\n				}",
+			"			#lynx{\n				@include background-image(\"../img/work/thumbs/gallery_thumb_adhop.jpg\");\n			}",
+			"			#visualbear{\n				@include background-image(\"../img/work/thumbs/gallery_thumb_adhop.jpg\");\n			}",
+			"			#dukebox{\n				@include background-image(\"../img/work/thumbs/gallery_thumb_adhop.jpg\");\n			}",
+			"col-lg-4 ",
+			"background-image:url",
+			"_barbus",
+			"barbus",
+			"gallery_thumb_adhops_short",
+			"../img/work/thumbs/splash_visualbear_transparent_icon.png",
+			"site",
+			"adhoc",
+			"sm",
+			"barbus",
+			"class='span-tile'",
+			"@extend .section;",
+			"@extend .section",
+			"background-color:red;",
+			"background-color:blue;",
+			"height:$tile-height-medium;",
+			"height:400px;",
+			"site/splash_visualbear_transparent_icon.png",
+			"src=\"\" alt=\"\"",
+			"img",
+			"article#splash",
+			"font-weight",
+			"font-size",
+			"font-weight",
+			"selectionObject",
+			"priceTable",
+			"addcolumn",
+			"doonce",
+			"row",
+			"scope",
+			"$fa-version",
+			"hiddenTableColumns",
+			"hiddencolumns",
+			"k",
+			"0.85em",
+			"input",
+			"dark",
+			"fonts",
+			"bower_components",
+			"font-awesome",
+			"ui-grid-cell",
+			"18",
+			"edit",
+			"ui-grid-cell",
+			"build",
+			"concat",
+			"wiredep",
+			"font-awesome",
+			"guiprice",
+			"5t",
+			"inheritVal",
+			"inherit",
+			"getschedule",
+			"month",
+			"parentObj",
+			"parent",
+			"parentObj",
+			"parent-obj",
+			"parentObj",
+			"parent-obj",
+			"parentObj",
+			"gets",
+			"setschedule",
+			"$scope.parentObj",
+			"getschedule",
+			"listenonce",
+			"$scope.months.months",
+			"$scope.parentObj.months.months",
+			"$scope.months.months",
+			"getschedule",
+			"schedule",
+			"getschedule",
+			"cleanUpFunc",
+			"getschedule",
+			"setschedule",
+			"retrieveSchedule",
+			"schedule",
+			"retrieve",
+			"input",
+			"localhost",
+			"multilog",
+			"$scope.client",
+			"client",
+			"$scope.client",
+			"update",
+			"menufactory.select",
+			"select",
+			"get",
+			"clientobj",
+			"client",
+			"obtain",
+			"datetime",
+			"obtainNode",
+			"obtain",
+			"principal",
+			"console.log",
+			"console.oog",
+			"grandapp",
+			"grandappApp",
+			"HEAD",
+			"css",
+			"main.css",
+			"displayedCollection",
+			"pagination.html",
+			"uigridService",
+			"smartTableService",
+			"smartTable",
+			"table",
+			".directive(\"table\"",
+			".directive('table'",
+			"table",
+			"angular"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    .image_container{\n    	border-top:solid 4px  $vb-primary;\n      	border-bottom: solid 4px $vb-primary;\n   \n      		height:300px; }",
+			"            #dukebox {\n                @include background-image(\"../img/work/thumbs/gallery_thumb_dukebox_short.jpg\");\n            }",
+			"            #visualbear {\n                @include background-image(\"../img/work/thumbs/gallery_thumb_visualbear_short.jpg\");\n            }",
+			"            #sos {\n                @include background-image(\"../img/work/thumbs/gallery_thumb_lynx_short.jpg\");\n            }",
+			"            #sos {\n                @include background-image(\"../img/work/thumbs/gallery_thumb_sos_short.jpg\");\n            }",
+			"",
+			"border",
+			"				#sos{\n					@include background-image(\"../img/work/thumbs/gallery_thumb_sos_short.jpg\");\n				}",
+			"				#sos{\n					@include background-image(\"../img/work/thumbs/gallery_thumb_sos.jpg\");\n				}",
+			"			#lynx{\n				@include background-image(\"../img/work/thumbs/gallery_thumb_lynx.jpg\");\n			}",
+			"			#visualbear{\n				@include background-image(\"../img/work/thumbs/gallery_thumb_visualbear.jpg\");\n			}",
+			"			#dukebox{\n				@include background-image(\"../img/work/thumbs/gallery_thumb_visualbear.jpg\");\n			}",
+			"			#dukebox{\n				@include background-image(\"../img/work/thumbs/gallery_thumb_dukebox.jpg\");\n			}",
+			"col-lg-12 ",
+			"col-lg-12",
+			"@include background-image",
+			"_copafeel",
+			"copafeel",
+			"gallery_thumb_adhop",
+			"../img/work/thumbs/gallery_thumb_adhops_short.jpg",
+			"work/thumbs",
+			"adhop",
+			"md",
+			"",
+			"height:auto;",
+			"",
+			"icon/left_arrow.png",
+			"",
+			"span",
+			"#splash",
+			"$table-font-size",
+			"ownerObj",
+			"bleh-obj",
+			"$scope.parentObj.months.months",
+			"grandappApp",
+			"grandapp",
+			"uigrid",
+			" ",
+			"right\" rotate-flip=\"!isCollapsedClient\"",
+			"",
+			"dateForm",
+			"scope",
+			"$scope",
+			"ng-model",
+			"quick-ng-repeat",
+			"",
+			"blur='submit'",
+			"blur='ignore'",
+			"blur='cancel'",
+			"blur='ignore'",
+			"blur='cancel'",
+			"blur='submit'",
+			"form",
+			",node,object)",
+			"clientOpen",
+			"",
+			"subnet",
+			"node",
+			"$scope.subnet",
+			"$scope.node",
+			"isCollapsedNode",
+			"isCollapsedSubnet",
+			"parent-obj='subnet'",
+			"parent-obj='node'",
+			"id='node'",
+			"id='subnet'",
+			"nodes",
+			"subnets",
+			"$scope.nodes",
+			"$scope.subnets",
+			"nodeType",
+			"$scope.selectedObj",
+			"removeObject",
+			")",
+			"(",
+			"selectObject",
+			"ServerFactory",
+			"===",
+			"+ owner.type +'.'+ owner.id",
+			"+ owner.type +'.'+owner.id ",
+			"{{parentObj.id}} {{parentObj.type}}",
+			"owner.id +'.'+owner.type",
+			"owner.id)",
+			",parentObj,",
+			"{{parentObj.id}}",
+			"owner.id",
+			"parentObj",
+			"parentObj.id",
+			"btn-app-small",
+			"None",
+			"All",
+			"parent-obj",
+			"parentObj.type",
+			"parentobj.type",
+			"minute",
+			"open: false,                    schedule:{\n                        name:'',\n                        month:[],\n                        date:[],\n                        day:[],\n                        hour:[],\n                        minutes:[]\n                    },",
+			"                        name:'',\n                        month:[],\n                        date:[],\n                        day:[],\n                        hour:[],\n                        minutes:[]",
+			"",
+			"open:true",
+			"><i class=\"fa fa-caret-right\"></i><",
+			"><i class=\"fa fa-times\"></i><",
+			"<i class=\"fa fa-times\"></i>",
+			"'removeItem(\"{{obj.type}}\"",
+			"propertyMenu",
+			"'",
+			"object",
+			"obj",
+			"",
+			"dataCreate",
+			"dataRead",
+			"ui-view=\"dropdown\"",
+			"propertyMenu.view.dropdown",
+			"}\"",
+			"\"{",
+			"'",
+			"Save",
+			"</input> ",
+			"<input ",
+			"<input",
+			"-",
+			"name",
+			"Install",
+			"Instal",
+			"outClick",
+			"ng-attr-id",
+			"property",
+			"multiLog",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sass/pages/_gallery.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4103,
+								4103
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2249.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sass/helpers/_mixins.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								396,
+								396
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/templates/partials/work.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/templates/pages/gallery_dukebox.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1038,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								99
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/templates/pages/gallery_adhops.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/templates/pages/gallery_lynx.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								117
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/templates/pages/gallery_visualbear.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1050,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/templates/pages/gallery_sos.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/templates/pages/gallery_copafeel.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1046,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "sass/layout/_grid.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1599,
+								1555
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1164.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "sass/helpers/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1481,
+								1481
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "sass/pages/_index.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2105,
+								2105
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1132.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "src/templates/partials/jumbo.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								327,
+								327
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "src/scripts/ui.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								972,
+								976
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 158.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "sass/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								427
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "src/templates/pages/resume.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "sass/layout/_nav.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "src/templates/partials/navbar-fixed-top.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 138.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "src/templates/layouts/default.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1711,
+								1711
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "sass/components/_buttons.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2136,
+								2136
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 164.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "config.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "sass/base/_typography.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3028,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1708,
+								1708
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2114.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 58.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 35.0
+	},
+	"pinned_build_system": "",
+	"project": "visualbear.sublime-project",
+	"replace":
+	{
+		"height": 216.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"multlilogcontr",
+				"main/java/se/megacon/multilog/web/MultilogController.java"
+			],
+			[
+				"pagination.html",
+				"src/main/webapp/scripts/components/form/pagination.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
