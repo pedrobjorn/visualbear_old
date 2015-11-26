@@ -1,33 +1,35 @@
 //Colours
-$vb-primary       : #ff0033 !default;
-$vb-secondary	: #ff450d !default;
-$vb-grey		: #39393D !default;
-$vb-dark        : #1C1C1C !default;
-$vb-light		: #ebf5ff!default;
-$vb-active		: #f6cc00  !default;
+$vb-primary: #ff0033 !default;
+$vb-secondary: #ff450d !default;
+$vb-grey: #39393D !default;
+$vb-dark: #1C1C1C !default;
+$vb-light: #ebf5ff !default;
+$vb-active: #f6cc00 !default;
 
-$vb-body-font-family	: "Ubuntu", Arial, sans-serif;
+$vb-body-font-family: "Ubuntu", Arial, sans-serif;
+$icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/";
+$fa-font-path: "../bower_components/font-awesome/fonts";
 
 $shadow: 1px 1px 4px #000;
+
 // Base Font
-$small-font-size:0.5em;
-$middle-font-size:1em;
+$small-font-size: 0.5em;
+$middle-font-size: 1em;
 $base-font-size: 1.3em;
 
 $base-h3-size: 1.18em;
 $base-h2-size: 2em;
 $base-h1-size: 2.5em;
 
-$tiny-2k-size:1.35em;
-$small-2k-size:1.65em;
-$medium-2k-size:2.2em;
+$tiny-2k-size: 1.35em;
+$small-2k-size: 1.65em;
+$medium-2k-size: 2.2em;
 $base-2k-size: 2.7em;
 $big-2k-size: 3.5em;
 
 $base-line-height: 1.35;
 $medium-line-height: 1.5;
 $big-line-height: 3;
-
 
 $lineheight-loose: 3;
 $lineheight-base: 1.35;
@@ -37,13 +39,11 @@ $mobile-lineheight-loose: 2;
 $mobile-lineheight-base: 1;
 $mobile-lineheight-tight: 1.5;
 
-
-
 // Mobile Font
 $mobile-big-h2-size: 1.6em;
 $mobile-big-h1-size: 2.2em;
 
-$mobile-font-size: 0.75em;
+$mobile-font-size: 0.9em;
 
 $mobile-h3-size: 0.8em;
 $mobile-h2-size: 1.2em;
@@ -57,14 +57,9 @@ $fixed-font-size: 85%;
 $fixed-line-height: $base-line-height;
 
 // Font weights
-$light	:300;
-$medium :400;
-$bold	:500;
-
-$icon-font-path : '../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/';
-$fa-font-path	: '../bower_components/font-awesome/fonts';
-
-
+$light: 300;
+$medium: 400;
+$bold: 500;
 
 //Proportions
 $base-nav-padding-constant: 8px 0 8px 0;

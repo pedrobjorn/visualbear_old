@@ -66,10 +66,14 @@ $("#aboutLink").click(function() {
     }, 750);
 });
 
-$("#contactLink").click(function() {
+$("#contactLink, #contactLink2").click(function() {
     $('html, body').animate({
         scrollTop: $("#contact-text").offset().top
     }, 750);
+});
+
+$(window).scroll(function(){
+    console.log( ($('#about-text').offset().top < $(this).height() + $(this).scrollTop()) || ($('#about-text').height > $(this).height() + $(this).scrollTop())) ;
 });
 
 function linkFinder(hash){

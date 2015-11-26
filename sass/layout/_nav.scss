@@ -40,12 +40,15 @@ nav.offcanvas {
         font-size: $base-font-size;
         font-weight: $light;
         text-align: center;
+        border: 2px solid $vb-dark;
+        border-left:0px;
+        border-right:0px;
         &:hover,
         &:focus {
             cursor: pointer;
             background-color: $vb-primary;
         }
-    }
+        }
     a {
         text-decoration: none;
         color: $vb-light;
@@ -338,10 +341,6 @@ nav.offcanvas {
         font-size: $base-font-size;
             font-weight: $light;
             text-align: center;
-            &:hover,
-            &:focus {
-                opacity: 0.5;
-            }
         }
         a {
             text-decoration: none;
@@ -410,10 +409,6 @@ nav.offcanvas {
         font-size: $base-font-size;
             font-weight: $light;
             text-align: center;
-            &:hover,
-            &:focus {
-                opacity: 0.5;
-            }
         }
         a {
             text-decoration: none;
@@ -479,10 +474,6 @@ nav.offcanvas {
         .icon {
             float: left;
             width: auto;
-            &:hover,
-            &:focus {
-                opacity: 0.5;
-            }
         }
     }
     .navbar-brand {

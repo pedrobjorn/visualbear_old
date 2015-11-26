@@ -5,9 +5,10 @@ html,
 body {
     font-family: $vb-body-font-family;
     color: $vb-light;
-    font-weight: $medium;
+    font-weight: $light;
     font-size: $base-font-size;
     line-height: $base-line-height;
+
 }
 
 h1,
@@ -70,11 +71,7 @@ li#left-justified {
     text-align: justified-left;
 }
 
-.thin {
-    font-weight: $light;
-}
-
-.bold {
+b {
     font-weight: $bold;
 }
 

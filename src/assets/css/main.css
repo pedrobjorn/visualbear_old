@@ -11577,12 +11577,12 @@ html,
 body {
   font-family: "Ubuntu", Arial, sans-serif;
   color: #ebf5ff;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 1.3em;
   line-height: 1.35;
 }
 
-/* line 13, ../../../sass/base/_typography.scss */
+/* line 14, ../../../sass/base/_typography.scss */
 h1,
 h2,
 h3,
@@ -11593,33 +11593,33 @@ h6 {
   font-weight: 400;
 }
 
-/* line 23, ../../../sass/base/_typography.scss */
+/* line 24, ../../../sass/base/_typography.scss */
 a {
   color: #ff0033;
 }
-/* line 26, ../../../sass/base/_typography.scss */
+/* line 27, ../../../sass/base/_typography.scss */
 a:hover, a:focus {
   text-decoration: none;
   color: #ebf5ff;
   background-color: #ff0033;
 }
 
-/* line 34, ../../../sass/base/_typography.scss */
+/* line 35, ../../../sass/base/_typography.scss */
 nav.offcanvas {
   text-transform: uppercase;
   font-weight: 300;
 }
-/* line 38, ../../../sass/base/_typography.scss */
+/* line 39, ../../../sass/base/_typography.scss */
 nav.offcanvas a:hover, nav.offcanvas a:focus {
   color: #ebf5ff;
 }
 
-/* line 45, ../../../sass/base/_typography.scss */
+/* line 46, ../../../sass/base/_typography.scss */
 .highlight {
   font-weight: 400;
   padding-bottom: 4px;
 }
-/* line 49, ../../../sass/base/_typography.scss */
+/* line 50, ../../../sass/base/_typography.scss */
 .highlight:hover, .highlight:focus {
   box-shadow: 8px 0 0 #ff0033, -8px 0 0 #ff0033;
   color: #ebf5ff;
@@ -11627,78 +11627,73 @@ nav.offcanvas a:hover, nav.offcanvas a:focus {
   background-color: #ff0033;
 }
 
-/* line 60, ../../../sass/base/_typography.scss */
+/* line 61, ../../../sass/base/_typography.scss */
 .emphasis {
   font-weight: 400;
   color: #fff;
 }
 
-/* line 65, ../../../sass/base/_typography.scss */
+/* line 66, ../../../sass/base/_typography.scss */
 li#center-justified {
   text-align: center;
 }
 
-/* line 69, ../../../sass/base/_typography.scss */
+/* line 70, ../../../sass/base/_typography.scss */
 li#left-justified {
   text-align: justified-left;
 }
 
-/* line 73, ../../../sass/base/_typography.scss */
-.thin {
-  font-weight: 300;
-}
-
-/* line 77, ../../../sass/base/_typography.scss */
-.bold {
+/* line 74, ../../../sass/base/_typography.scss */
+b {
   font-weight: 500;
 }
 
-/* line 81, ../../../sass/base/_typography.scss */
+/* line 78, ../../../sass/base/_typography.scss */
 .title {
   margin: 0;
 }
 
 @media (min-width: 2400px) {
-  /* line 111, ../../../sass/base/_typography.scss */
+  /* line 108, ../../../sass/base/_typography.scss */
   h1 {
     font-size: 3.6em;
   }
 
-  /* line 114, ../../../sass/base/_typography.scss */
+  /* line 111, ../../../sass/base/_typography.scss */
   h3 {
     font-size: 1.18em;
   }
 
-  /* line 117, ../../../sass/base/_typography.scss */
+  /* line 114, ../../../sass/base/_typography.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 1.3em;
     line-height: 1.5;
   }
 
-  /* line 122, ../../../sass/base/_typography.scss */
+  /* line 119, ../../../sass/base/_typography.scss */
   #about-text, #contact-text {
     font-size: 1.3em;
     line-height: 1.35;
   }
 
-  /* line 126, ../../../sass/base/_typography.scss */
+  /* line 123, ../../../sass/base/_typography.scss */
   .light {
     font-weight: 300;
   }
 
-  /* line 129, ../../../sass/base/_typography.scss */
+  /* line 126, ../../../sass/base/_typography.scss */
   .text-block {
     padding: 16px;
   }
 
-  /* line 133, ../../../sass/base/_typography.scss */
+  /* line 130, ../../../sass/base/_typography.scss */
   .header-block .subtitle {
     font-weight: 300;
     font-size: 0.8em;
   }
 
-  /* line 138, ../../../sass/base/_typography.scss */
+  /* line 135, ../../../sass/base/_typography.scss */
   .text-container {
     width: 900px;
     margin: auto;
@@ -11706,27 +11701,32 @@ li#left-justified {
   }
 }
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 146, ../../../sass/base/_typography.scss */
+  /* line 143, ../../../sass/base/_typography.scss */
   h1 {
     font-size: 3.6em;
   }
 
-  /* line 149, ../../../sass/base/_typography.scss */
+  /* line 146, ../../../sass/base/_typography.scss */
   h3 {
     font-size: 1.18em;
   }
 
-  /* line 152, ../../../sass/base/_typography.scss */
+  /* line 149, ../../../sass/base/_typography.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 1.3em;
     line-height: 1.5;
   }
 
-  /* line 157, ../../../sass/base/_typography.scss */
+  /* line 154, ../../../sass/base/_typography.scss */
   #about-text, #contact-text {
     font-size: 1.3em;
     line-height: 1.35;
+  }
+
+  /* line 158, ../../../sass/base/_typography.scss */
+  .light {
+    font-weight: 300;
   }
 
   /* line 161, ../../../sass/base/_typography.scss */
@@ -11735,21 +11735,16 @@ li#left-justified {
   }
 
   /* line 164, ../../../sass/base/_typography.scss */
-  .light {
-    font-weight: 300;
-  }
-
-  /* line 167, ../../../sass/base/_typography.scss */
   .text-block {
     padding: 16px;
   }
 
-  /* line 171, ../../../sass/base/_typography.scss */
+  /* line 168, ../../../sass/base/_typography.scss */
   .header-block .subtitle {
     font-weight: 300;
   }
 
-  /* line 175, ../../../sass/base/_typography.scss */
+  /* line 172, ../../../sass/base/_typography.scss */
   .text-container {
     width: 900px;
     margin: auto;
@@ -11757,46 +11752,46 @@ li#left-justified {
   }
 }
 @media (max-width: 1279px) and (min-width: 960px) {
-  /* line 183, ../../../sass/base/_typography.scss */
+  /* line 180, ../../../sass/base/_typography.scss */
   h1 {
     font-size: 3.6em;
   }
 
-  /* line 186, ../../../sass/base/_typography.scss */
+  /* line 183, ../../../sass/base/_typography.scss */
   h3 {
     font-size: 1.18em;
   }
 
-  /* line 189, ../../../sass/base/_typography.scss */
+  /* line 186, ../../../sass/base/_typography.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 1.3em;
     line-height: 1.5;
   }
 
-  /* line 194, ../../../sass/base/_typography.scss */
+  /* line 191, ../../../sass/base/_typography.scss */
   #about-text, #contact-text {
     font-size: 1.3em;
     line-height: 1.5;
   }
 
-  /* line 198, ../../../sass/base/_typography.scss */
+  /* line 195, ../../../sass/base/_typography.scss */
   .light {
     font-weight: 300;
   }
 
-  /* line 201, ../../../sass/base/_typography.scss */
+  /* line 198, ../../../sass/base/_typography.scss */
   .text-block {
     padding: 16px;
   }
 
-  /* line 205, ../../../sass/base/_typography.scss */
+  /* line 202, ../../../sass/base/_typography.scss */
   .header-block .subtitle {
     font-weight: 300;
     font-size: 0.8em;
   }
 
-  /* line 210, ../../../sass/base/_typography.scss */
+  /* line 207, ../../../sass/base/_typography.scss */
   .text-container {
     width: 900px;
     margin: auto;
@@ -11804,46 +11799,46 @@ li#left-justified {
   }
 }
 @media (max-width: 960px) and (min-width: 767px) {
-  /* line 219, ../../../sass/base/_typography.scss */
+  /* line 216, ../../../sass/base/_typography.scss */
   h1 {
     font-size: 3em;
   }
 
-  /* line 222, ../../../sass/base/_typography.scss */
+  /* line 219, ../../../sass/base/_typography.scss */
   h3 {
     font-size: 1.18em;
   }
 
-  /* line 225, ../../../sass/base/_typography.scss */
+  /* line 222, ../../../sass/base/_typography.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 1em;
     line-height: 1.5;
   }
 
-  /* line 230, ../../../sass/base/_typography.scss */
+  /* line 227, ../../../sass/base/_typography.scss */
   #about-text, #contact-text {
     font-size: 1.3em;
     line-height: 1.35;
   }
 
-  /* line 234, ../../../sass/base/_typography.scss */
+  /* line 231, ../../../sass/base/_typography.scss */
   .light {
     font-weight: 300;
   }
 
-  /* line 237, ../../../sass/base/_typography.scss */
+  /* line 234, ../../../sass/base/_typography.scss */
   .text-block {
     padding: 16px;
   }
 
-  /* line 241, ../../../sass/base/_typography.scss */
+  /* line 238, ../../../sass/base/_typography.scss */
   .header-block .subtitle {
     font-weight: 300;
     font-size: 0.8em;
   }
 
-  /* line 246, ../../../sass/base/_typography.scss */
+  /* line 243, ../../../sass/base/_typography.scss */
   .text-container {
     padding: 0 64px;
     max-width: 900px;
@@ -11852,136 +11847,136 @@ li#left-justified {
   }
 }
 @media (max-width: 767px) and (min-width: 480px) {
-  /* line 256, ../../../sass/base/_typography.scss */
+  /* line 253, ../../../sass/base/_typography.scss */
   h1 {
     font-size: 1.6em;
   }
 
-  /* line 259, ../../../sass/base/_typography.scss */
+  /* line 256, ../../../sass/base/_typography.scss */
   h3 {
     font-size: 0.8em;
   }
 
-  /* line 262, ../../../sass/base/_typography.scss */
+  /* line 259, ../../../sass/base/_typography.scss */
   .gallery-text {
     font-weight: 300;
-    font-size: 0.75em;
+    font-size: 0.9em;
     line-height: 1.5;
   }
 
-  /* line 267, ../../../sass/base/_typography.scss */
+  /* line 264, ../../../sass/base/_typography.scss */
   #about-text, #contact-text {
-    font-size: 0.75em;
+    font-size: 0.9em;
     line-height: 1.35;
   }
 
-  /* line 271, ../../../sass/base/_typography.scss */
+  /* line 268, ../../../sass/base/_typography.scss */
   .light {
     font-weight: 300;
   }
 
-  /* line 274, ../../../sass/base/_typography.scss */
+  /* line 271, ../../../sass/base/_typography.scss */
   .text-block {
     padding: 8px;
   }
 
-  /* line 278, ../../../sass/base/_typography.scss */
+  /* line 275, ../../../sass/base/_typography.scss */
   .header-block .subtitle {
     font-size: 0.8em;
   }
 
-  /* line 282, ../../../sass/base/_typography.scss */
+  /* line 279, ../../../sass/base/_typography.scss */
   .text-container {
     padding: 0 32px;
     font-weight: 300;
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 290, ../../../sass/base/_typography.scss */
+  /* line 287, ../../../sass/base/_typography.scss */
   h1 {
     font-size: 1.6em;
   }
 
-  /* line 293, ../../../sass/base/_typography.scss */
+  /* line 290, ../../../sass/base/_typography.scss */
   h3 {
     font-size: 0.8em;
   }
 
-  /* line 296, ../../../sass/base/_typography.scss */
+  /* line 293, ../../../sass/base/_typography.scss */
   .gallery-text {
     font-weight: 300;
-    font-size: 0.75em;
+    font-size: 0.9em;
     line-height: 1.5;
   }
 
-  /* line 301, ../../../sass/base/_typography.scss */
+  /* line 298, ../../../sass/base/_typography.scss */
   #about-text, #contact-text {
-    font-size: 0.75em;
+    font-size: 0.9em;
     line-height: 1.35;
   }
 
-  /* line 305, ../../../sass/base/_typography.scss */
+  /* line 302, ../../../sass/base/_typography.scss */
   .light {
     font-weight: 300;
   }
 
-  /* line 308, ../../../sass/base/_typography.scss */
+  /* line 305, ../../../sass/base/_typography.scss */
   .text-block {
     padding: 8px;
   }
 
-  /* line 312, ../../../sass/base/_typography.scss */
+  /* line 309, ../../../sass/base/_typography.scss */
   .header-block .subtitle {
     font-size: 0.8em;
   }
 
-  /* line 316, ../../../sass/base/_typography.scss */
+  /* line 313, ../../../sass/base/_typography.scss */
   .text-container {
     padding: 0 32px;
     font-weight: 300;
   }
 }
 @media (max-width: 320px) {
-  /* line 324, ../../../sass/base/_typography.scss */
+  /* line 321, ../../../sass/base/_typography.scss */
   h1 {
     font-size: 1.6em;
   }
 
-  /* line 327, ../../../sass/base/_typography.scss */
+  /* line 324, ../../../sass/base/_typography.scss */
   h3 {
     font-size: 0.8em;
   }
 
-  /* line 330, ../../../sass/base/_typography.scss */
+  /* line 327, ../../../sass/base/_typography.scss */
   .gallery-text {
     font-weight: 300;
-    font-size: 0.75em;
+    font-size: 0.9em;
     line-height: 1.5;
   }
 
-  /* line 335, ../../../sass/base/_typography.scss */
+  /* line 332, ../../../sass/base/_typography.scss */
   #about-text, #contact-text {
-    font-size: 0.75em;
+    font-size: 0.9em;
     line-height: 1.35;
   }
 
-  /* line 339, ../../../sass/base/_typography.scss */
+  /* line 336, ../../../sass/base/_typography.scss */
   .light {
     font-weight: 300;
   }
 
-  /* line 342, ../../../sass/base/_typography.scss */
+  /* line 339, ../../../sass/base/_typography.scss */
   .text-block {
     padding: 8px;
   }
 
-  /* line 346, ../../../sass/base/_typography.scss */
+  /* line 343, ../../../sass/base/_typography.scss */
   .header-block .subtitle {
     font-weight: 300;
     font-size: 0.75em;
   }
 
-  /* line 351, ../../../sass/base/_typography.scss */
+  /* line 348, ../../../sass/base/_typography.scss */
   .text-container {
     padding: 0 32px;
     font-weight: 300;
@@ -13175,46 +13170,41 @@ html {
   box-sizing: inherit;
 }
 
-/* line 15, ../../../sass/layout/_grid.scss */
-body {
-  margin-top: 48px;
-}
-
-/* line 20, ../../../sass/layout/_grid.scss */
+/* line 16, ../../../sass/layout/_grid.scss */
 .section .col-md-4, .section .col-sm-12 {
   padding: 0;
   margin: 0;
 }
-/* line 24, ../../../sass/layout/_grid.scss */
+/* line 20, ../../../sass/layout/_grid.scss */
 .section .row {
   padding: 0;
   margin: 0;
 }
 
-/* line 30, ../../../sass/layout/_grid.scss */
+/* line 26, ../../../sass/layout/_grid.scss */
 .outer-container {
   display: table;
   width: 100%;
   height: 100vh;
 }
-/* line 34, ../../../sass/layout/_grid.scss */
+/* line 30, ../../../sass/layout/_grid.scss */
 .outer-container .inner-container {
   display: table-cell;
   vertical-align: middle;
 }
-/* line 38, ../../../sass/layout/_grid.scss */
+/* line 34, ../../../sass/layout/_grid.scss */
 .outer-container .inner-container .text-container {
   margin-left: auto;
   margin-right: auto;
 }
 
 @media (min-width: 2400px) {
-  /* line 50, ../../../sass/layout/_grid.scss */
+  /* line 46, ../../../sass/layout/_grid.scss */
   .outer-container {
     padding: 25vh 0;
   }
 
-  /* line 53, ../../../sass/layout/_grid.scss */
+  /* line 49, ../../../sass/layout/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -13225,19 +13215,19 @@ body {
     padding: 0;
     margin: 0;
   }
-  /* line 62, ../../../sass/layout/_grid.scss */
+  /* line 58, ../../../sass/layout/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 71, ../../../sass/layout/_grid.scss */
+  /* line 67, ../../../sass/layout/_grid.scss */
   .outer-container {
     padding: 15vh 0;
   }
 
-  /* line 74, ../../../sass/layout/_grid.scss */
+  /* line 70, ../../../sass/layout/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -13248,19 +13238,19 @@ body {
     padding: 0;
     margin: 0;
   }
-  /* line 83, ../../../sass/layout/_grid.scss */
+  /* line 79, ../../../sass/layout/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 1279px) and (min-width: 767px) {
-  /* line 93, ../../../sass/layout/_grid.scss */
+  /* line 89, ../../../sass/layout/_grid.scss */
   .outer-container {
     padding: 15vh 0;
   }
 
-  /* line 96, ../../../sass/layout/_grid.scss */
+  /* line 92, ../../../sass/layout/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -13269,19 +13259,19 @@ body {
     padding: 0;
     margin: 0;
   }
-  /* line 103, ../../../sass/layout/_grid.scss */
+  /* line 99, ../../../sass/layout/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 767px) and (min-width: 480px) {
-  /* line 112, ../../../sass/layout/_grid.scss */
+  /* line 108, ../../../sass/layout/_grid.scss */
   .outer-container {
     padding: 10vh 0;
   }
 
-  /* line 115, ../../../sass/layout/_grid.scss */
+  /* line 111, ../../../sass/layout/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -13290,19 +13280,19 @@ body {
     padding: 0;
     margin: 0;
   }
-  /* line 122, ../../../sass/layout/_grid.scss */
+  /* line 118, ../../../sass/layout/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 131, ../../../sass/layout/_grid.scss */
+  /* line 127, ../../../sass/layout/_grid.scss */
   .outer-container {
     padding: 4vh 0;
   }
 
-  /* line 134, ../../../sass/layout/_grid.scss */
+  /* line 130, ../../../sass/layout/_grid.scss */
   .section {
     min-height: 100vh;
     max-height: 100%;
@@ -13311,19 +13301,19 @@ body {
     margin: 0;
     border-bottom: solid 4px #ff0033;
   }
-  /* line 141, ../../../sass/layout/_grid.scss */
+  /* line 137, ../../../sass/layout/_grid.scss */
   .section .text-container {
     padding-top: 64px;
     padding-bottom: 64px;
   }
 }
 @media (max-width: 320px) {
-  /* line 150, ../../../sass/layout/_grid.scss */
+  /* line 146, ../../../sass/layout/_grid.scss */
   .outer-container {
     padding: 3vh 0;
   }
 
-  /* line 153, ../../../sass/layout/_grid.scss */
+  /* line 149, ../../../sass/layout/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -13332,7 +13322,7 @@ body {
     padding: 0;
     margin: 0;
   }
-  /* line 160, ../../../sass/layout/_grid.scss */
+  /* line 156, ../../../sass/layout/_grid.scss */
   .section .text-container {
     padding-top: 64px;
     padding-bottom: 64px;
@@ -13382,81 +13372,84 @@ nav.offcanvas li {
   font-size: 1.3em;
   font-weight: 300;
   text-align: center;
+  border: 2px solid #1C1C1C;
+  border-left: 0px;
+  border-right: 0px;
 }
-/* line 43, ../../../sass/layout/_nav.scss */
+/* line 46, ../../../sass/layout/_nav.scss */
 nav.offcanvas li:hover, nav.offcanvas li:focus {
   cursor: pointer;
   background-color: #ff0033;
 }
-/* line 49, ../../../sass/layout/_nav.scss */
+/* line 52, ../../../sass/layout/_nav.scss */
 nav.offcanvas a {
   text-decoration: none;
   color: #ebf5ff;
 }
-/* line 53, ../../../sass/layout/_nav.scss */
+/* line 56, ../../../sass/layout/_nav.scss */
 nav.offcanvas #close {
   height: 64px;
   padding: 0 16px;
   background-color: #1C1C1C;
   color: #ebf5ff;
 }
-/* line 58, ../../../sass/layout/_nav.scss */
+/* line 61, ../../../sass/layout/_nav.scss */
 nav.offcanvas #close .fa-close {
   font-size: 36px;
 }
-/* line 62, ../../../sass/layout/_nav.scss */
+/* line 65, ../../../sass/layout/_nav.scss */
 nav.offcanvas .social {
   padding: 32px 0;
   margin: auto;
 }
-/* line 63, ../../../sass/layout/_nav.scss */
+/* line 66, ../../../sass/layout/_nav.scss */
 nav.offcanvas .social a {
   width: 48px;
   padding: 0;
   margin: 0;
 }
-/* line 67, ../../../sass/layout/_nav.scss */
+/* line 70, ../../../sass/layout/_nav.scss */
 nav.offcanvas .social a:hover, nav.offcanvas .social a:focus, nav.offcanvas .social a:active {
   background-color: #39393D;
 }
-/* line 74, ../../../sass/layout/_nav.scss */
+/* line 77, ../../../sass/layout/_nav.scss */
 nav.offcanvas .social img {
   width: 48px;
 }
-/* line 79, ../../../sass/layout/_nav.scss */
+/* line 82, ../../../sass/layout/_nav.scss */
 nav.offcanvas .social .icon {
   float: left;
   width: auto;
 }
-/* line 82, ../../../sass/layout/_nav.scss */
+/* line 85, ../../../sass/layout/_nav.scss */
 nav.offcanvas .social .icon:hover, nav.offcanvas .social .icon:focus {
   opacity: 0.5;
 }
 
-/* line 90, ../../../sass/layout/_nav.scss */
+/* line 93, ../../../sass/layout/_nav.scss */
 .navigation > a.active {
   z-index: 999;
   color: #ebf5ff;
 }
-/* line 92, ../../../sass/layout/_nav.scss */
+/* line 95, ../../../sass/layout/_nav.scss */
 .navigation > a.active li {
   background-color: #ff0033;
 }
 
-/* line 98, ../../../sass/layout/_nav.scss */
+/* line 101, ../../../sass/layout/_nav.scss */
 .navigation > a.inactive {
   background-color: #f6cc00;
   color: #ebf5ff;
 }
 
-/* line 103, ../../../sass/layout/_nav.scss */
+/* line 106, ../../../sass/layout/_nav.scss */
 .nav > li > a {
   position: relative;
   display: block;
   padding: 10px 15px;
 }
 
-/* line 109, ../../../sass/layout/_nav.scss */
+/* line 112, ../../../sass/layout/_nav.scss */
 .navbar {
   border-bottom: solid 4px #ff0033;
   z-index: 9998;
@@ -13465,346 +13458,334 @@ nav.offcanvas .social .icon:hover, nav.offcanvas .social .icon:focus {
   padding: 0 8px;
   background-color: #39393D;
 }
-/* line 113, ../../../sass/layout/_nav.scss */
+/* line 116, ../../../sass/layout/_nav.scss */
 .navbar .fa-bars {
   font-size: 36px;
 }
-/* line 120, ../../../sass/layout/_nav.scss */
+/* line 123, ../../../sass/layout/_nav.scss */
 .navbar .dropdown-menu li:hover, .navbar .dropdown-menu li:focus {
   background-color: #ff0033;
   color: #ebf5ff;
 }
 
-/* line 128, ../../../sass/layout/_nav.scss */
+/* line 131, ../../../sass/layout/_nav.scss */
 .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
   background-color: #ff0033;
   color: #ebf5ff;
 }
 
 @media (min-width: 2400px) {
-  /* line 215, ../../../sass/layout/_nav.scss */
+  /* line 218, ../../../sass/layout/_nav.scss */
   ul#links {
     height: 90vh;
   }
 
-  /* line 218, ../../../sass/layout/_nav.scss */
+  /* line 221, ../../../sass/layout/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 
-  /* line 223, ../../../sass/layout/_nav.scss */
+  /* line 226, ../../../sass/layout/_nav.scss */
   .social {
     margin: auto;
   }
-  /* line 224, ../../../sass/layout/_nav.scss */
+  /* line 227, ../../../sass/layout/_nav.scss */
   .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 228, ../../../sass/layout/_nav.scss */
+  /* line 231, ../../../sass/layout/_nav.scss */
   .social a:hover, .social a:focus, .social a:active {
     background-color: #39393D;
   }
-  /* line 234, ../../../sass/layout/_nav.scss */
+  /* line 237, ../../../sass/layout/_nav.scss */
   .social img {
     width: 48px;
   }
-  /* line 239, ../../../sass/layout/_nav.scss */
+  /* line 242, ../../../sass/layout/_nav.scss */
   .social .icon {
     float: left;
     width: auto;
   }
-  /* line 242, ../../../sass/layout/_nav.scss */
+  /* line 245, ../../../sass/layout/_nav.scss */
   .social .icon:hover, .social .icon:focus {
     opacity: 0.5;
   }
 }
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 251, ../../../sass/layout/_nav.scss */
+  /* line 254, ../../../sass/layout/_nav.scss */
   ul#links {
     height: 90vh;
   }
 
-  /* line 254, ../../../sass/layout/_nav.scss */
+  /* line 257, ../../../sass/layout/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 
-  /* line 259, ../../../sass/layout/_nav.scss */
+  /* line 262, ../../../sass/layout/_nav.scss */
   .social {
     margin: auto;
   }
-  /* line 260, ../../../sass/layout/_nav.scss */
+  /* line 263, ../../../sass/layout/_nav.scss */
   .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 264, ../../../sass/layout/_nav.scss */
+  /* line 267, ../../../sass/layout/_nav.scss */
   .social a:hover, .social a:focus, .social a:active {
     background-color: #39393D;
   }
-  /* line 270, ../../../sass/layout/_nav.scss */
+  /* line 273, ../../../sass/layout/_nav.scss */
   .social img {
     width: 48px;
   }
-  /* line 275, ../../../sass/layout/_nav.scss */
+  /* line 278, ../../../sass/layout/_nav.scss */
   .social .icon {
     float: left;
     width: auto;
   }
-  /* line 278, ../../../sass/layout/_nav.scss */
+  /* line 281, ../../../sass/layout/_nav.scss */
   .social .icon:hover, .social .icon:focus {
     opacity: 0.5;
   }
 }
 @media (max-width: 1279px) and (min-width: 767px) {
-  /* line 288, ../../../sass/layout/_nav.scss */
+  /* line 291, ../../../sass/layout/_nav.scss */
   ul#links {
     height: 90vh;
   }
 
-  /* line 291, ../../../sass/layout/_nav.scss */
+  /* line 294, ../../../sass/layout/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 
-  /* line 296, ../../../sass/layout/_nav.scss */
+  /* line 299, ../../../sass/layout/_nav.scss */
   .social {
     margin: auto;
   }
-  /* line 297, ../../../sass/layout/_nav.scss */
+  /* line 300, ../../../sass/layout/_nav.scss */
   .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 301, ../../../sass/layout/_nav.scss */
+  /* line 304, ../../../sass/layout/_nav.scss */
   .social a:hover, .social a:focus, .social a:active {
     background-color: #39393D;
   }
-  /* line 307, ../../../sass/layout/_nav.scss */
+  /* line 310, ../../../sass/layout/_nav.scss */
   .social img {
     width: 48px;
   }
-  /* line 312, ../../../sass/layout/_nav.scss */
+  /* line 315, ../../../sass/layout/_nav.scss */
   .social .icon {
     float: left;
     width: auto;
   }
-  /* line 315, ../../../sass/layout/_nav.scss */
+  /* line 318, ../../../sass/layout/_nav.scss */
   .social .icon:hover, .social .icon:focus {
     opacity: 0.5;
   }
 }
 @media (max-width: 767px) and (min-width: 480px) {
-  /* line 325, ../../../sass/layout/_nav.scss */
+  /* line 328, ../../../sass/layout/_nav.scss */
   ul#links {
     height: 90vh;
   }
 
-  /* line 328, ../../../sass/layout/_nav.scss */
+  /* line 331, ../../../sass/layout/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 
-  /* line 333, ../../../sass/layout/_nav.scss */
+  /* line 336, ../../../sass/layout/_nav.scss */
   nav.offcanvas {
     width: 100%;
     z-index: 9999;
     background-color: #1C1C1C;
     border: none;
   }
-  /* line 334, ../../../sass/layout/_nav.scss */
+  /* line 337, ../../../sass/layout/_nav.scss */
   nav.offcanvas img {
     width: 48px;
   }
-  /* line 337, ../../../sass/layout/_nav.scss */
+  /* line 340, ../../../sass/layout/_nav.scss */
   nav.offcanvas li {
     font-size: 1.3em;
     font-weight: 300;
     text-align: center;
   }
-  /* line 341, ../../../sass/layout/_nav.scss */
-  nav.offcanvas li:hover, nav.offcanvas li:focus {
-    opacity: 0.5;
-  }
-  /* line 346, ../../../sass/layout/_nav.scss */
+  /* line 345, ../../../sass/layout/_nav.scss */
   nav.offcanvas a {
     text-decoration: none;
     color: #fff;
   }
-  /* line 350, ../../../sass/layout/_nav.scss */
+  /* line 349, ../../../sass/layout/_nav.scss */
   nav.offcanvas #close {
     height: 64px;
     padding: 0 16px;
     background-color: #1C1C1C;
     color: #ebf5ff;
   }
-  /* line 355, ../../../sass/layout/_nav.scss */
+  /* line 354, ../../../sass/layout/_nav.scss */
   nav.offcanvas #close .fa-close {
     font-size: 36px;
   }
-  /* line 363, ../../../sass/layout/_nav.scss */
+  /* line 362, ../../../sass/layout/_nav.scss */
   nav.offcanvas .social {
     margin: auto;
   }
-  /* line 364, ../../../sass/layout/_nav.scss */
+  /* line 363, ../../../sass/layout/_nav.scss */
   nav.offcanvas .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 368, ../../../sass/layout/_nav.scss */
+  /* line 367, ../../../sass/layout/_nav.scss */
   nav.offcanvas .social a:hover, nav.offcanvas .social a:focus, nav.offcanvas .social a:active {
     background-color: #39393D;
   }
-  /* line 376, ../../../sass/layout/_nav.scss */
+  /* line 375, ../../../sass/layout/_nav.scss */
   nav.offcanvas .social .icon {
     float: left;
     width: auto;
   }
-  /* line 378, ../../../sass/layout/_nav.scss */
+  /* line 377, ../../../sass/layout/_nav.scss */
   nav.offcanvas .social .icon:last-child:after {
     padding: 32px;
   }
 
-  /* line 385, ../../../sass/layout/_nav.scss */
+  /* line 384, ../../../sass/layout/_nav.scss */
   #links > a.active {
     background-color: #ff0033;
     color: #ebf5ff;
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 393, ../../../sass/layout/_nav.scss */
+  /* line 392, ../../../sass/layout/_nav.scss */
   ul#links {
     height: 84vh;
   }
 
-  /* line 396, ../../../sass/layout/_nav.scss */
+  /* line 395, ../../../sass/layout/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 
-  /* line 401, ../../../sass/layout/_nav.scss */
+  /* line 400, ../../../sass/layout/_nav.scss */
   nav.offcanvas {
     width: 100%;
     z-index: 9999;
     background-color: #1C1C1C;
     border: none;
   }
-  /* line 402, ../../../sass/layout/_nav.scss */
+  /* line 401, ../../../sass/layout/_nav.scss */
   nav.offcanvas img {
     width: 48px;
   }
-  /* line 409, ../../../sass/layout/_nav.scss */
+  /* line 408, ../../../sass/layout/_nav.scss */
   nav.offcanvas li {
     font-size: 1.3em;
     font-weight: 300;
     text-align: center;
   }
   /* line 413, ../../../sass/layout/_nav.scss */
-  nav.offcanvas li:hover, nav.offcanvas li:focus {
-    opacity: 0.5;
-  }
-  /* line 418, ../../../sass/layout/_nav.scss */
   nav.offcanvas a {
     text-decoration: none;
     color: #fff;
   }
-  /* line 422, ../../../sass/layout/_nav.scss */
+  /* line 417, ../../../sass/layout/_nav.scss */
   nav.offcanvas #close {
     height: 64px;
     padding: 0 16px;
     background-color: #1C1C1C;
   }
-  /* line 426, ../../../sass/layout/_nav.scss */
+  /* line 421, ../../../sass/layout/_nav.scss */
   nav.offcanvas #close .fa-close {
     font-size: 36px;
   }
-  /* line 430, ../../../sass/layout/_nav.scss */
+  /* line 425, ../../../sass/layout/_nav.scss */
   nav.offcanvas .social {
     margin: auto;
   }
-  /* line 431, ../../../sass/layout/_nav.scss */
+  /* line 426, ../../../sass/layout/_nav.scss */
   nav.offcanvas .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 435, ../../../sass/layout/_nav.scss */
+  /* line 430, ../../../sass/layout/_nav.scss */
   nav.offcanvas .social a:hover, nav.offcanvas .social a:focus, nav.offcanvas .social a:active {
     background-color: #39393D;
   }
-  /* line 443, ../../../sass/layout/_nav.scss */
+  /* line 438, ../../../sass/layout/_nav.scss */
   nav.offcanvas .social .icon {
     float: left;
     width: auto;
   }
-  /* line 445, ../../../sass/layout/_nav.scss */
+  /* line 440, ../../../sass/layout/_nav.scss */
   nav.offcanvas .social .icon:last-child:after {
     padding: 32px;
   }
 
-  /* line 452, ../../../sass/layout/_nav.scss */
+  /* line 447, ../../../sass/layout/_nav.scss */
   #links > a.active {
     background-color: #ff0033;
     color: #ebf5ff;
   }
 }
 @media (max-width: 320px) {
-  /* line 460, ../../../sass/layout/_nav.scss */
+  /* line 455, ../../../sass/layout/_nav.scss */
   ul#links {
     height: 85vh;
   }
 
-  /* line 463, ../../../sass/layout/_nav.scss */
+  /* line 458, ../../../sass/layout/_nav.scss */
   .social {
     margin: auto;
   }
-  /* line 464, ../../../sass/layout/_nav.scss */
+  /* line 459, ../../../sass/layout/_nav.scss */
   .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 468, ../../../sass/layout/_nav.scss */
+  /* line 463, ../../../sass/layout/_nav.scss */
   .social a:hover, .social a:focus, .social a:active {
     background-color: #39393D;
   }
-  /* line 474, ../../../sass/layout/_nav.scss */
+  /* line 469, ../../../sass/layout/_nav.scss */
   .social img {
     width: 48px;
   }
-  /* line 479, ../../../sass/layout/_nav.scss */
+  /* line 474, ../../../sass/layout/_nav.scss */
   .social .icon {
     float: left;
     width: auto;
   }
-  /* line 482, ../../../sass/layout/_nav.scss */
-  .social .icon:hover, .social .icon:focus {
-    opacity: 0.5;
-  }
 
-  /* line 488, ../../../sass/layout/_nav.scss */
+  /* line 479, ../../../sass/layout/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 }
-/* line 494, ../../../sass/layout/_nav.scss */
+/* line 485, ../../../sass/layout/_nav.scss */
 .canvas-sliding {
   -moz-transition: top 0.6s,left 0.6s,bottom 0.6s,right 0.6s;
   -o-transition: top 0.6s,left 0.6s,bottom 0.6s,right 0.6s;
