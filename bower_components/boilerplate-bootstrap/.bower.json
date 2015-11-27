@@ -1,0 +1,21 @@
+{
+  "name": "boilerplate-bootstrap",
+  "version": "0.2.5",
+  "main": [
+    "tasks/replacements.js"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0"
+  },
+  "homepage": "https://github.com/assemble/boilerplate-bootstrap",
+  "_release": "0.2.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.2.5",
+    "commit": "ff510367184530db736ccd7d232faa20abf2592c"
+  },
+  "_source": "git://github.com/assemble/boilerplate-bootstrap.git",
+  "_target": "~0.2.5",
+  "_originalSource": "boilerplate-bootstrap",
+  "_direct": true
+}

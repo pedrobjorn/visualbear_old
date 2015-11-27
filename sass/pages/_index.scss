@@ -1,0 +1,79 @@
+@import "helpers/variables";
+@import "helpers/mixins";
+
+//>2500px
+@media (min-width: $break-huge) {
+    .jumbo-text {
+        font-weight: $light;
+        font-size: $big-2k-size;
+        text-align: left;
+        width: 900px;
+        margin: 0 auto;
+    }
+}
+
+//2500px< & >1200px
+@media (max-width: $break-huge) and (min-width: $break-large) {
+    .jumbo-text {
+        font-weight: $light;
+        font-size: $big-2k-size;
+        text-align: left;
+        width: 900px;
+        margin: 0 auto;
+    }
+}
+
+//1280px< & >900px
+@media (max-width: $break-large) and (min-width: $break-big) {
+    .jumbo-text {
+        font-weight: $light;
+        font-size: $medium-2k-size;
+        text-align: left;
+        width: 556px;
+        margin: 0 auto;
+    }
+}
+
+//960< & >767px
+@media (max-width: $break-big) and (min-width: $break-medium) {
+    .jumbo-text {
+        font-weight: $light;
+        font-size: $medium-2k-size;
+        text-align: left;
+        width: 556px;
+        margin: 0 auto;
+    }
+}
+
+//767px< & >480px
+@media (max-width: $break-medium) and (min-width: $break-small) {
+    .jumbo-text {
+        font-weight: $light;
+        font-size: $small-2k-size;
+        text-align: left;
+        width: 428px;
+        margin: 0 auto;
+    }
+}
+
+//480px< & >320px
+@media (max-width: $break-small) and (min-width: $break-tiny) {
+    .jumbo-text {
+        font-weight: $light;
+        font-size: $small-2k-size;
+        text-align: left;
+        width: 256px;
+        margin: 0 auto;
+    }
+}
+
+//320px<
+@media (max-width: $break-tiny) {
+    .jumbo-text {
+        font-weight: $light;
+        font-size: $tiny-2k-size;
+        text-align: left;
+        width: 256px;
+        margin: 0 auto;
+    }
+}
