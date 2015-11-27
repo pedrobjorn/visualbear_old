@@ -1,5 +1,5 @@
 
-#visualbear portfolio website
+#visualbear portfolio
 
 <img align="right" height="300" src="src/assets/img/site/splash_visualbear_transparent_icon.png">
 
