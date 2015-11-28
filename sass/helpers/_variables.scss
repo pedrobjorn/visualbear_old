@@ -35,9 +35,6 @@ $lineheight-loose: 3;
 $lineheight-base: 1.35;
 $lineheight-tight: 1.5;
 
-$mobile-lineheight-loose: 2;
-$mobile-lineheight-base: 1;
-$mobile-lineheight-tight: 1.5;
 
 // Mobile Font
 $mobile-big-h2-size: 1.6em;
@@ -48,9 +45,13 @@ $mobile-font-size: 0.9em;
 $mobile-h3-size: 0.8em;
 $mobile-h2-size: 1.2em;
 $mobile-h1-size: 1.6em;
+
+$mobile-lineheight-loose: 2;
+$mobile-lineheight-base: 1;
+$mobile-lineheight-tight: 1.5;
+
 $mobile-line-height: 1.55;
 $mobileBig-line-height: 2.5;
-
 // Fixed Font
 $fixed-font-family: monospace;
 $fixed-font-size: 85%;
