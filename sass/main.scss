@@ -1,4 +1,5 @@
 //Vendor
+
 @import "bootstrap";
 @import "font-awesome";
 @import "compass";
@@ -8,73 +9,10 @@
 //Helpers
 @import "helpers/variables";
 @import "helpers/mixins";
+
 //Base
 @import "base/base";
 @import "base/typography";
-@import "base/icons";
-// @import (less) "reset.css";
-
-
-// @import (less) "forms_buttons.css";
-
-// // layout
-// @import (less) "header.css";
-// @import (less) "woof.css";
-// @import (less) "dialog.css";
-// @import (less) "popover.css";
-// @import (less) "profiler.css";
-// @import (less) "boards_sidebar.css";
-// @import (less) "tabbedpane.css";
-
-// // board
-// @import (less) "board.css";
-// @import (less) "list.css";
-// @import (less) "powerup.css";
-// @import (less) "calendar.css";
-
-// // card
-// @import (less) "card.css";
-// @import (less) "quickCardEditor.css";
-// @import (less) "attachments.css";
-// @import (less) "badges.css";
-// @import (less) "checklists.css";
-// @import (less) "labels.css";
-// @import (less) "datepicker.css";
-// @import (less) "stickers.css";
-
-// // member
-// @import (less) "member.css";
-// @import (less) "announcements.css";
-
-// // organization
-// @import (less) "organization.css";
-
-// // phenom - acions, notifications, invites
-// @import (less) "phenom.css";
-
-// // pages
-// @import (less) "manual.css";
-// @import (less) "account.css";
-// @import (less) "search.css";
-// @import (less) "ads.css";
-
-// // window sizes
-// @import (less) "lg.css";
-// @import (less) "md.css";
-// @import (less) "sm.css";
-// @import (less) "touch.css";
-
-// // utils
-// @import (less) "spinner.css";
-// @import (less) "utils.css";
-// @import (less) "jquery.crop.css";
-// @import (less) "tooltip.css";
-// @import (less) "clipboard.css";
-
-// // print
-// @import (less) "print.css";
-
-
 
 //Components
 @import "components/d3";
@@ -87,6 +25,5 @@
 @import "layout/footer";
 
 //Pages
-@import "pages/index";
 @import "pages/gallery";
 @import "pages/pages";

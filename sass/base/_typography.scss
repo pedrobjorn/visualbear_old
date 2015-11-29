@@ -10,6 +10,7 @@ body {
     line-height: $base-line-height;
 }
 
+h0,
 h1,
 h2,
 h3,
@@ -110,11 +111,26 @@ b {
 //     }
 // }
 @media (min-width: $break-huge) {
+    h0{
+        font-size: $base-h0-size;
+    }
     h1 {
-        font-size: 3.6em;
+        font-size: $base-h1-size;
+    }
+    h2 {
+        font-size: $base-h2-size;
     }
     h3 {
         font-size: $base-h3-size;
+    }
+    h4 {
+        font-size: $base-h4-size;
+    }
+    h5 {
+        font-size: $base-h5-size;
+    }
+    h6 {
+        font-size: $base-h6-size;
     }
     .gallery-text {
         font-weight: $light;
@@ -152,12 +168,28 @@ b {
         width: 900px;
         margin: 0 auto;
     }
+    h0{
+        font-size: $base-h0-size;
+    }
     h1 {
-        font-size: 3.6em;
+        font-size: $base-h1-size;
+    }
+    h2 {
+        font-size: $base-h2-size;
     }
     h3 {
         font-size: $base-h3-size;
     }
+    h4 {
+        font-size: $base-h4-size;
+    }
+    h5 {
+        font-size: $base-h5-size;
+    }
+    h6 {
+        font-size: $base-h6-size;
+    }
+
     .gallery-text {
         font-weight: $light;
         font-size: $base-font-size;
@@ -196,12 +228,28 @@ b {
         width: 556px;
         margin: 0 auto;
     }
+    h0{
+        font-size: $base-h0-size;
+    }
     h1 {
-        font-size: 3.6em;
+        font-size: $base-h1-size;
+    }
+    h2 {
+        font-size: $base-h2-size;
     }
     h3 {
         font-size: $base-h3-size;
     }
+    h4 {
+        font-size: $base-h4-size;
+    }
+    h5 {
+        font-size: $base-h5-size;
+    }
+    h6 {
+        font-size: $base-h6-size;
+    }
+
     .gallery-text {
         font-weight: $light;
         font-size: $base-font-size;
@@ -239,12 +287,28 @@ b {
         width: 556px;
         margin: 0 auto;
     }
+    h0{
+        font-size: $base-h0-size;
+    }
     h1 {
-        font-size: 3em;
+        font-size: $base-h1-size;
+    }
+    h2 {
+        font-size: $base-h2-size;
     }
     h3 {
         font-size: $base-h3-size;
     }
+    h4 {
+        font-size: $base-h4-size;
+    }
+    h5 {
+        font-size: $base-h5-size;
+    }
+    h6 {
+        font-size: $base-h6-size;
+    }
+
     .gallery-text {
         font-weight: $light;
         font-size: $middle-font-size;
@@ -283,12 +347,28 @@ b {
         width: 428px;
         margin: 0 auto;
     }
+    h0{
+        font-size: $mobile-h0-size;
+    }
     h1 {
         font-size: $mobile-h1-size;
+    }
+    h2 {
+        font-size: $mobile-h2-size;
     }
     h3 {
         font-size: $mobile-h3-size;
     }
+    h4 {
+        font-size: $mobile-h4-size;
+    }
+    h5 {
+        font-size: $mobile-h5-size;
+    }
+    h6 {
+        font-size: $mobile-h6-size;
+    }
+
     .gallery-text {
         font-weight: $light;
         font-size: $mobile-font-size;
@@ -324,12 +404,29 @@ b {
         width: 256px;
         margin: 0 auto;
     }
+    h0{
+        font-size: $mobile-h0-size;
+    }
     h1 {
         font-size: $mobile-h1-size;
+    }
+    h2 {
+        font-size: $mobile-h2-size;
     }
     h3 {
         font-size: $mobile-h3-size;
     }
+    h4 {
+        font-size: $mobile-h4-size;
+    }
+    h5 {
+        font-size: $mobile-h5-size;
+    }
+    h6 {
+        font-size: $mobile-h6-size;
+    }
+
+
     .gallery-text {
         font-weight: $light;
         font-size: $mobile-font-size;
@@ -365,12 +462,28 @@ b {
         width: 256px;
         margin: 0 auto;
     }
+    h0{
+        font-size: $mobile-h0-size;
+    }
     h1 {
         font-size: $mobile-h1-size;
+    }
+    h2 {
+        font-size: $mobile-h2-size;
     }
     h3 {
         font-size: $mobile-h3-size;
     }
+    h4 {
+        font-size: $mobile-h4-size;
+    }
+    h5 {
+        font-size: $mobile-h5-size;
+    }
+    h6 {
+        font-size: $mobile-h6-size;
+    }
+
     .gallery-text {
         font-weight: $light;
         font-size: $mobile-font-size;
