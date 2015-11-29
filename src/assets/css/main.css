@@ -11564,7 +11564,7 @@ li#left-justified {
 
 /* line 55, ../../../sass/base/_base.scss */
 .thin {
-  font-weight: 100;
+  font-weight: 300;
 }
 
 /* line 59, ../../../sass/base/_base.scss */
@@ -11577,7 +11577,7 @@ html,
 body {
   font-family: "Ubuntu", Arial, sans-serif;
   color: #ebf5ff;
-  font-weight: 100;
+  font-weight: 300;
   font-size: 1.3em;
   line-height: 1.35;
 }
@@ -11591,7 +11591,7 @@ h4,
 h5,
 h6 {
   letter-spacing: 1px;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 /* line 24, ../../../sass/base/_typography.scss */
@@ -11608,7 +11608,7 @@ a:hover, a:focus {
 /* line 35, ../../../sass/base/_typography.scss */
 nav.offcanvas {
   text-transform: uppercase;
-  font-weight: 100;
+  font-weight: 300;
 }
 /* line 39, ../../../sass/base/_typography.scss */
 nav.offcanvas a:hover, nav.offcanvas a:focus {
@@ -11617,7 +11617,7 @@ nav.offcanvas a:hover, nav.offcanvas a:focus {
 
 /* line 46, ../../../sass/base/_typography.scss */
 .highlight {
-  font-weight: 300;
+  font-weight: 400;
   padding-bottom: 4px;
 }
 /* line 50, ../../../sass/base/_typography.scss */
@@ -11630,7 +11630,7 @@ nav.offcanvas a:hover, nav.offcanvas a:focus {
 
 /* line 61, ../../../sass/base/_typography.scss */
 .emphasis {
-  font-weight: 300;
+  font-weight: 400;
   color: #fff;
 }
 
@@ -11646,7 +11646,7 @@ li#left-justified {
 
 /* line 74, ../../../sass/base/_typography.scss */
 b {
-  font-weight: 500;
+  font-weight: 400;
 }
 
 /* line 78, ../../../sass/base/_typography.scss */
@@ -11655,556 +11655,549 @@ b {
 }
 
 @media (min-width: 2400px) {
-  /* line 114, ../../../sass/base/_typography.scss */
+  /* line 113, ../../../sass/base/_typography.scss */
   h0 {
     font-size: 3.6em;
   }
 
-  /* line 117, ../../../sass/base/_typography.scss */
+  /* line 116, ../../../sass/base/_typography.scss */
   h1 {
     font-size: 2em;
   }
 
-  /* line 120, ../../../sass/base/_typography.scss */
+  /* line 119, ../../../sass/base/_typography.scss */
   h2 {
     font-size: 1.5em;
   }
 
-  /* line 123, ../../../sass/base/_typography.scss */
+  /* line 122, ../../../sass/base/_typography.scss */
   h3 {
     font-size: 1.17em;
   }
 
-  /* line 126, ../../../sass/base/_typography.scss */
+  /* line 125, ../../../sass/base/_typography.scss */
   h4 {
     font-size: 1em;
   }
 
-  /* line 129, ../../../sass/base/_typography.scss */
+  /* line 128, ../../../sass/base/_typography.scss */
   h5 {
     font-size: 0.83em;
   }
 
-  /* line 132, ../../../sass/base/_typography.scss */
+  /* line 131, ../../../sass/base/_typography.scss */
   h6 {
     font-size: 0.75em;
   }
 
-  /* line 135, ../../../sass/base/_typography.scss */
+  /* line 134, ../../../sass/base/_typography.scss */
   .gallery-text {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 1.3em;
     line-height: 1.5;
   }
 
-  /* line 140, ../../../sass/base/_typography.scss */
+  /* line 139, ../../../sass/base/_typography.scss */
   #about-text, #contact-text {
     font-size: 1.3em;
     line-height: 1.35;
   }
 
-  /* line 144, ../../../sass/base/_typography.scss */
+  /* line 143, ../../../sass/base/_typography.scss */
   .semi-bold {
-    font-weight: 300;
+    font-weight: 400;
   }
 
-  /* line 147, ../../../sass/base/_typography.scss */
+  /* line 146, ../../../sass/base/_typography.scss */
   .text-block {
     padding: 16px;
   }
 
-  /* line 151, ../../../sass/base/_typography.scss */
+  /* line 150, ../../../sass/base/_typography.scss */
   .header-block .subtitle {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 0.8em;
   }
 
-  /* line 156, ../../../sass/base/_typography.scss */
+  /* line 155, ../../../sass/base/_typography.scss */
   .text-container {
     width: 900px;
     margin: auto;
-    font-weight: 100;
   }
 }
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 164, ../../../sass/base/_typography.scss */
+  /* line 162, ../../../sass/base/_typography.scss */
   .jumbo-text {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 3.5em;
     text-align: left;
     width: 900px;
     margin: 0 auto;
   }
 
-  /* line 171, ../../../sass/base/_typography.scss */
+  /* line 169, ../../../sass/base/_typography.scss */
   h0 {
     font-size: 3.6em;
   }
 
-  /* line 174, ../../../sass/base/_typography.scss */
+  /* line 172, ../../../sass/base/_typography.scss */
   h1 {
     font-size: 2em;
   }
 
-  /* line 177, ../../../sass/base/_typography.scss */
+  /* line 175, ../../../sass/base/_typography.scss */
   h2 {
     font-size: 1.5em;
   }
 
-  /* line 180, ../../../sass/base/_typography.scss */
+  /* line 178, ../../../sass/base/_typography.scss */
   h3 {
     font-size: 1.17em;
   }
 
-  /* line 183, ../../../sass/base/_typography.scss */
+  /* line 181, ../../../sass/base/_typography.scss */
   h4 {
     font-size: 1em;
   }
 
-  /* line 186, ../../../sass/base/_typography.scss */
+  /* line 184, ../../../sass/base/_typography.scss */
   h5 {
     font-size: 0.83em;
   }
 
-  /* line 189, ../../../sass/base/_typography.scss */
+  /* line 187, ../../../sass/base/_typography.scss */
   h6 {
     font-size: 0.75em;
   }
 
-  /* line 192, ../../../sass/base/_typography.scss */
+  /* line 190, ../../../sass/base/_typography.scss */
   .gallery-text {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 1.3em;
     line-height: 1.5;
   }
 
-  /* line 197, ../../../sass/base/_typography.scss */
+  /* line 195, ../../../sass/base/_typography.scss */
   #about-text, #contact-text {
     font-size: 1.3em;
     line-height: 1.35;
   }
 
-  /* line 201, ../../../sass/base/_typography.scss */
+  /* line 199, ../../../sass/base/_typography.scss */
   .semi-bold {
-    font-weight: 300;
+    font-weight: 400;
   }
 
-  /* line 204, ../../../sass/base/_typography.scss */
+  /* line 202, ../../../sass/base/_typography.scss */
   .text-block {
     padding: 16px;
   }
 
-  /* line 208, ../../../sass/base/_typography.scss */
+  /* line 206, ../../../sass/base/_typography.scss */
   .header-block .subtitle {
-    font-weight: 100;
+    font-weight: 300;
   }
 
-  /* line 212, ../../../sass/base/_typography.scss */
+  /* line 210, ../../../sass/base/_typography.scss */
   .text-container {
     width: 900px;
     margin: auto;
-    font-weight: 100;
   }
 }
 @media (max-width: 1279px) and (min-width: 960px) {
-  /* line 220, ../../../sass/base/_typography.scss */
+  /* line 217, ../../../sass/base/_typography.scss */
   .jumbo-text {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 2.2em;
     text-align: left;
     width: 556px;
     margin: 0 auto;
   }
 
-  /* line 227, ../../../sass/base/_typography.scss */
+  /* line 224, ../../../sass/base/_typography.scss */
   h0 {
     font-size: 3.6em;
   }
 
-  /* line 230, ../../../sass/base/_typography.scss */
+  /* line 227, ../../../sass/base/_typography.scss */
   h1 {
     font-size: 2em;
   }
 
-  /* line 233, ../../../sass/base/_typography.scss */
+  /* line 230, ../../../sass/base/_typography.scss */
   h2 {
     font-size: 1.5em;
   }
 
-  /* line 236, ../../../sass/base/_typography.scss */
+  /* line 233, ../../../sass/base/_typography.scss */
   h3 {
     font-size: 1.17em;
   }
 
-  /* line 239, ../../../sass/base/_typography.scss */
+  /* line 236, ../../../sass/base/_typography.scss */
   h4 {
     font-size: 1em;
   }
 
-  /* line 242, ../../../sass/base/_typography.scss */
+  /* line 239, ../../../sass/base/_typography.scss */
   h5 {
     font-size: 0.83em;
   }
 
-  /* line 245, ../../../sass/base/_typography.scss */
+  /* line 242, ../../../sass/base/_typography.scss */
   h6 {
     font-size: 0.75em;
   }
 
-  /* line 248, ../../../sass/base/_typography.scss */
+  /* line 245, ../../../sass/base/_typography.scss */
   .gallery-text {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 1.3em;
     line-height: 1.5;
   }
 
-  /* line 253, ../../../sass/base/_typography.scss */
+  /* line 250, ../../../sass/base/_typography.scss */
   #about-text, #contact-text {
     font-size: 1.3em;
     line-height: 1.5;
   }
 
-  /* line 257, ../../../sass/base/_typography.scss */
+  /* line 254, ../../../sass/base/_typography.scss */
   .semi-bold {
-    font-weight: 300;
+    font-weight: 400;
   }
 
-  /* line 260, ../../../sass/base/_typography.scss */
+  /* line 257, ../../../sass/base/_typography.scss */
   .text-block {
     padding: 16px;
   }
 
-  /* line 264, ../../../sass/base/_typography.scss */
+  /* line 261, ../../../sass/base/_typography.scss */
   .header-block .subtitle {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 0.8em;
   }
 
-  /* line 269, ../../../sass/base/_typography.scss */
+  /* line 266, ../../../sass/base/_typography.scss */
   .text-container {
     width: 900px;
     margin: auto;
-    font-weight: 100;
   }
 }
 @media (max-width: 960px) and (min-width: 767px) {
-  /* line 278, ../../../sass/base/_typography.scss */
+  /* line 274, ../../../sass/base/_typography.scss */
   .jumbo-text {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 2.2em;
     text-align: left;
     width: 556px;
     margin: 0 auto;
   }
 
-  /* line 285, ../../../sass/base/_typography.scss */
+  /* line 281, ../../../sass/base/_typography.scss */
   h0 {
     font-size: 3.6em;
   }
 
-  /* line 288, ../../../sass/base/_typography.scss */
+  /* line 284, ../../../sass/base/_typography.scss */
   h1 {
     font-size: 2em;
   }
 
-  /* line 291, ../../../sass/base/_typography.scss */
+  /* line 287, ../../../sass/base/_typography.scss */
   h2 {
     font-size: 1.5em;
   }
 
-  /* line 294, ../../../sass/base/_typography.scss */
+  /* line 290, ../../../sass/base/_typography.scss */
   h3 {
     font-size: 1.17em;
   }
 
-  /* line 297, ../../../sass/base/_typography.scss */
+  /* line 293, ../../../sass/base/_typography.scss */
   h4 {
     font-size: 1em;
   }
 
-  /* line 300, ../../../sass/base/_typography.scss */
+  /* line 296, ../../../sass/base/_typography.scss */
   h5 {
     font-size: 0.83em;
   }
 
-  /* line 303, ../../../sass/base/_typography.scss */
+  /* line 299, ../../../sass/base/_typography.scss */
   h6 {
     font-size: 0.75em;
   }
 
-  /* line 306, ../../../sass/base/_typography.scss */
+  /* line 302, ../../../sass/base/_typography.scss */
   .gallery-text {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 1em;
     line-height: 1.5;
   }
 
-  /* line 311, ../../../sass/base/_typography.scss */
+  /* line 307, ../../../sass/base/_typography.scss */
   #about-text, #contact-text {
     font-size: 1.3em;
     line-height: 1.35;
   }
 
-  /* line 315, ../../../sass/base/_typography.scss */
+  /* line 311, ../../../sass/base/_typography.scss */
   .semi-bold {
-    font-weight: 300;
+    font-weight: 400;
   }
 
-  /* line 318, ../../../sass/base/_typography.scss */
+  /* line 314, ../../../sass/base/_typography.scss */
   .text-block {
     padding: 16px;
   }
 
-  /* line 322, ../../../sass/base/_typography.scss */
+  /* line 318, ../../../sass/base/_typography.scss */
   .header-block .subtitle {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 0.8em;
   }
 
-  /* line 327, ../../../sass/base/_typography.scss */
+  /* line 323, ../../../sass/base/_typography.scss */
   .text-container {
     padding: 0 64px;
     max-width: 900px;
     margin: auto;
-    font-weight: 100;
   }
 }
 @media (max-width: 767px) and (min-width: 480px) {
-  /* line 337, ../../../sass/base/_typography.scss */
+  /* line 332, ../../../sass/base/_typography.scss */
   .jumbo-text {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 1.65em;
     text-align: left;
     width: 428px;
     margin: 0 auto;
   }
 
-  /* line 344, ../../../sass/base/_typography.scss */
+  /* line 339, ../../../sass/base/_typography.scss */
   h0 {
     font-size: 2em;
   }
 
-  /* line 347, ../../../sass/base/_typography.scss */
+  /* line 342, ../../../sass/base/_typography.scss */
   h1 {
     font-size: 1.8em;
   }
 
-  /* line 350, ../../../sass/base/_typography.scss */
+  /* line 345, ../../../sass/base/_typography.scss */
   h2 {
     font-size: 1.3em;
   }
 
-  /* line 353, ../../../sass/base/_typography.scss */
+  /* line 348, ../../../sass/base/_typography.scss */
   h3 {
     font-size: 1.1em;
   }
 
-  /* line 356, ../../../sass/base/_typography.scss */
+  /* line 351, ../../../sass/base/_typography.scss */
   h4 {
     font-size: 0.9em;
   }
 
-  /* line 359, ../../../sass/base/_typography.scss */
+  /* line 354, ../../../sass/base/_typography.scss */
   h5 {
     font-size: 0.7em;
   }
 
-  /* line 362, ../../../sass/base/_typography.scss */
+  /* line 357, ../../../sass/base/_typography.scss */
   h6 {
     font-size: 0.6em;
   }
 
-  /* line 365, ../../../sass/base/_typography.scss */
+  /* line 360, ../../../sass/base/_typography.scss */
   .gallery-text {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 0.9em;
     line-height: 1.5;
   }
 
-  /* line 370, ../../../sass/base/_typography.scss */
+  /* line 365, ../../../sass/base/_typography.scss */
   #about-text, #contact-text {
     font-size: 0.9em;
     line-height: 1.35;
   }
 
-  /* line 374, ../../../sass/base/_typography.scss */
+  /* line 369, ../../../sass/base/_typography.scss */
   .semi-bold {
-    font-weight: 300;
+    font-weight: 400;
   }
 
-  /* line 377, ../../../sass/base/_typography.scss */
+  /* line 372, ../../../sass/base/_typography.scss */
   .text-block {
     padding: 8px;
   }
 
-  /* line 381, ../../../sass/base/_typography.scss */
+  /* line 376, ../../../sass/base/_typography.scss */
   .header-block .subtitle {
     font-size: 0.8em;
   }
 
-  /* line 385, ../../../sass/base/_typography.scss */
+  /* line 380, ../../../sass/base/_typography.scss */
   .text-container {
     padding: 0 32px;
-    font-weight: 100;
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 393, ../../../sass/base/_typography.scss */
+  /* line 387, ../../../sass/base/_typography.scss */
   .jumbo-text {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 1.65em;
     text-align: left;
     width: 256px;
     margin: 0 auto;
   }
 
-  /* line 400, ../../../sass/base/_typography.scss */
+  /* line 394, ../../../sass/base/_typography.scss */
   h0 {
     font-size: 2em;
   }
 
-  /* line 403, ../../../sass/base/_typography.scss */
+  /* line 397, ../../../sass/base/_typography.scss */
   h1 {
     font-size: 1.8em;
   }
 
-  /* line 406, ../../../sass/base/_typography.scss */
+  /* line 400, ../../../sass/base/_typography.scss */
   h2 {
     font-size: 1.3em;
   }
 
-  /* line 409, ../../../sass/base/_typography.scss */
+  /* line 403, ../../../sass/base/_typography.scss */
   h3 {
     font-size: 1.1em;
   }
 
-  /* line 412, ../../../sass/base/_typography.scss */
+  /* line 406, ../../../sass/base/_typography.scss */
   h4 {
     font-size: 0.9em;
   }
 
-  /* line 415, ../../../sass/base/_typography.scss */
+  /* line 409, ../../../sass/base/_typography.scss */
   h5 {
     font-size: 0.7em;
   }
 
-  /* line 418, ../../../sass/base/_typography.scss */
+  /* line 412, ../../../sass/base/_typography.scss */
   h6 {
     font-size: 0.6em;
   }
 
-  /* line 421, ../../../sass/base/_typography.scss */
+  /* line 415, ../../../sass/base/_typography.scss */
   .gallery-text {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 0.9em;
     line-height: 1.5;
   }
 
-  /* line 426, ../../../sass/base/_typography.scss */
+  /* line 420, ../../../sass/base/_typography.scss */
   #about-text, #contact-text {
     font-size: 0.9em;
     line-height: 1.35;
   }
 
-  /* line 430, ../../../sass/base/_typography.scss */
+  /* line 424, ../../../sass/base/_typography.scss */
   .semi-bold {
-    font-weight: 300;
+    font-weight: 400;
   }
 
-  /* line 433, ../../../sass/base/_typography.scss */
+  /* line 427, ../../../sass/base/_typography.scss */
   .text-block {
     padding: 8px;
   }
 
-  /* line 437, ../../../sass/base/_typography.scss */
+  /* line 431, ../../../sass/base/_typography.scss */
   .header-block .subtitle {
     font-size: 0.8em;
   }
 
-  /* line 441, ../../../sass/base/_typography.scss */
+  /* line 435, ../../../sass/base/_typography.scss */
   .text-container {
     padding: 0 32px;
-    font-weight: 100;
   }
 }
 @media (max-width: 320px) {
-  /* line 449, ../../../sass/base/_typography.scss */
+  /* line 442, ../../../sass/base/_typography.scss */
   .jumbo-text {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 1.35em;
     text-align: left;
     width: 256px;
     margin: 0 auto;
   }
 
-  /* line 456, ../../../sass/base/_typography.scss */
+  /* line 449, ../../../sass/base/_typography.scss */
   h0 {
     font-size: 2em;
   }
 
-  /* line 459, ../../../sass/base/_typography.scss */
+  /* line 452, ../../../sass/base/_typography.scss */
   h1 {
     font-size: 1.8em;
   }
 
-  /* line 462, ../../../sass/base/_typography.scss */
+  /* line 455, ../../../sass/base/_typography.scss */
   h2 {
     font-size: 1.3em;
   }
 
-  /* line 465, ../../../sass/base/_typography.scss */
+  /* line 458, ../../../sass/base/_typography.scss */
   h3 {
     font-size: 1.1em;
   }
 
-  /* line 468, ../../../sass/base/_typography.scss */
+  /* line 461, ../../../sass/base/_typography.scss */
   h4 {
     font-size: 0.9em;
   }
 
-  /* line 471, ../../../sass/base/_typography.scss */
+  /* line 464, ../../../sass/base/_typography.scss */
   h5 {
     font-size: 0.7em;
   }
 
-  /* line 474, ../../../sass/base/_typography.scss */
+  /* line 467, ../../../sass/base/_typography.scss */
   h6 {
     font-size: 0.6em;
   }
 
-  /* line 477, ../../../sass/base/_typography.scss */
+  /* line 470, ../../../sass/base/_typography.scss */
   .gallery-text {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 0.9em;
     line-height: 1.5;
   }
 
-  /* line 482, ../../../sass/base/_typography.scss */
+  /* line 475, ../../../sass/base/_typography.scss */
   #about-text, #contact-text {
     font-size: 0.9em;
     line-height: 1.35;
   }
 
-  /* line 486, ../../../sass/base/_typography.scss */
+  /* line 479, ../../../sass/base/_typography.scss */
   .semi-bold {
-    font-weight: 300;
+    font-weight: 400;
   }
 
-  /* line 489, ../../../sass/base/_typography.scss */
+  /* line 482, ../../../sass/base/_typography.scss */
   .text-block {
     padding: 8px;
   }
 
-  /* line 493, ../../../sass/base/_typography.scss */
+  /* line 486, ../../../sass/base/_typography.scss */
   .header-block .subtitle {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 0.75em;
   }
 
-  /* line 498, ../../../sass/base/_typography.scss */
+  /* line 491, ../../../sass/base/_typography.scss */
   .text-container {
     padding: 0 32px;
-    font-weight: 100;
   }
 }
 /* line 1, ../../../sass/components/_d3.scss */
@@ -13594,7 +13587,7 @@ nav.offcanvas {
 nav.offcanvas li {
   padding: 16px 0;
   font-size: 1.3em;
-  font-weight: 100;
+  font-weight: 300;
   text-align: center;
   border: 2px solid #1C1C1C;
   border-left: 0px;
@@ -13848,7 +13841,7 @@ nav.offcanvas .social .icon:hover, nav.offcanvas .social .icon:focus {
   /* line 340, ../../../sass/layout/_nav.scss */
   nav.offcanvas li {
     font-size: 1.3em;
-    font-weight: 100;
+    font-weight: 300;
     text-align: center;
   }
   /* line 345, ../../../sass/layout/_nav.scss */
@@ -13924,7 +13917,7 @@ nav.offcanvas .social .icon:hover, nav.offcanvas .social .icon:focus {
   /* line 408, ../../../sass/layout/_nav.scss */
   nav.offcanvas li {
     font-size: 1.3em;
-    font-weight: 100;
+    font-weight: 300;
     text-align: center;
   }
   /* line 413, ../../../sass/layout/_nav.scss */
