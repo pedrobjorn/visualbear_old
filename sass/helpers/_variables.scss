@@ -28,12 +28,12 @@ $base-h6-size: 0.75em;
 
 $tiny-2k-size: 1.35em;
 $small-2k-size: 1.65em;
-$medium-2k-size: 2.2em;
+$semi-bold-2k-size: 2.2em;
 $base-2k-size: 2.7em;
 $big-2k-size: 3.5em;
 
 $base-line-height: 1.35;
-$medium-line-height: 1.5;
+$semi-bold-line-height: 1.5;
 $big-line-height: 3;
 
 $lineheight-loose: 3;
@@ -67,9 +67,9 @@ $fixed-font-size: 85%;
 $fixed-line-height: $base-line-height;
 
 // Font weights
-$light: 300;
-$medium: 400;
 $bold: 500;
+$semi-bold: 300;
+$light: 100;
 
 //Proportions
 $base-nav-padding-constant: 8px 0 8px 0;

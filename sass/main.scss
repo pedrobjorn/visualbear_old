@@ -1,5 +1,4 @@
 //Vendor
-
 @import "bootstrap";
 @import "font-awesome";
 @import "compass";
@@ -7,12 +6,13 @@
 @import "compass/utilities";
 
 //Helpers
-@import "helpers/variables";
-@import "helpers/mixins";
+@import "helpers/variables.scss";
+@import "helpers/mixins.scss";
 
 //Base
 @import "base/base";
 @import "base/typography";
+@import "base/icons";
 
 //Components
 @import "components/d3";

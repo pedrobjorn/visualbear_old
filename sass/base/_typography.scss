@@ -18,7 +18,7 @@ h4,
 h5,
 h6 {
     letter-spacing: 1px;
-    font-weight: $medium;
+    font-weight: $semi-bold;
 }
 
 a {
@@ -44,7 +44,7 @@ nav.offcanvas {
 }
 
 .highlight {
-    font-weight: $medium;
+     font-weight: $semi-bold;
     padding-bottom: 4px;
     //text-decoration: underline;
     &:hover,
@@ -59,7 +59,7 @@ nav.offcanvas {
 }
 
 .emphasis {
-    font-weight: $medium;
+    font-weight: $semi-bold;
     color: #fff;
 }
 
@@ -89,8 +89,8 @@ b {
 // }
 //     .gallery-text {
 //         font-weight: $light;
-//         font-size: $medium-2k-size;
-//         line-height: $medium-line-height;
+//         font-size: $semi-bold-2k-size;
+//         line-height: $semi-bold-line-height;
 //     }
 //     #about-text, #contact-text {
 //         font-size: $small-font-size;
@@ -111,7 +111,7 @@ b {
 //     }
 // }
 @media (min-width: $break-huge) {
-    h0{
+    h0 {
         font-size: $base-h0-size;
     }
     h1 {
@@ -135,14 +135,14 @@ b {
     .gallery-text {
         font-weight: $light;
         font-size: $base-font-size;
-        line-height: $medium-line-height;
+        line-height: $semi-bold-line-height;
     }
     #about-text, #contact-text {
         font-size: $base-font-size;
         line-height: $base-line-height;
     }
-    .light {
-        font-weight: $light;
+    .semi-bold {
+        font-weight: $semi-bold;
     }
     .text-block {
         padding: 16px;
@@ -168,7 +168,7 @@ b {
         width: 900px;
         margin: 0 auto;
     }
-    h0{
+     h0 {
         font-size: $base-h0-size;
     }
     h1 {
@@ -189,21 +189,17 @@ b {
     h6 {
         font-size: $base-h6-size;
     }
-
     .gallery-text {
         font-weight: $light;
         font-size: $base-font-size;
-        line-height: $medium-line-height;
+        line-height: $semi-bold-line-height;
     }
     #about-text, #contact-text {
         font-size: $base-font-size;
         line-height: $base-line-height;
     }
-    .light {
-        font-weight: $light;
-    }
-    .light {
-        font-weight: $light;
+    .semi-bold {
+        font-weight: $semi-bold;
     }
     .text-block {
         padding: 16px;
@@ -223,12 +219,12 @@ b {
 @media (max-width: $break-large) and (min-width: $break-big) {
     .jumbo-text {
         font-weight: $light;
-        font-size: $medium-2k-size;
+        font-size: $semi-bold-2k-size;
         text-align: left;
         width: 556px;
         margin: 0 auto;
     }
-    h0{
+     h0 {
         font-size: $base-h0-size;
     }
     h1 {
@@ -249,18 +245,17 @@ b {
     h6 {
         font-size: $base-h6-size;
     }
-
     .gallery-text {
         font-weight: $light;
         font-size: $base-font-size;
-        line-height: $medium-line-height;
+        line-height: $semi-bold-line-height;
     }
     #about-text, #contact-text {
         font-size: $base-font-size;
-        line-height: $medium-line-height;
+        line-height: $semi-bold-line-height;
     }
-    .light {
-        font-weight: $light;
+    .semi-bold {
+        font-weight: $semi-bold;
     }
     .text-block {
         padding: 16px;
@@ -282,12 +277,12 @@ b {
 @media (max-width: $break-big) and (min-width: $break-medium) {
     .jumbo-text {
         font-weight: $light;
-        font-size: $medium-2k-size;
+        font-size: $semi-bold-2k-size;
         text-align: left;
         width: 556px;
         margin: 0 auto;
     }
-    h0{
+    h0 {
         font-size: $base-h0-size;
     }
     h1 {
@@ -308,18 +303,17 @@ b {
     h6 {
         font-size: $base-h6-size;
     }
-
     .gallery-text {
         font-weight: $light;
         font-size: $middle-font-size;
-        line-height: $medium-line-height;
+        line-height: $semi-bold-line-height;
     }
     #about-text, #contact-text {
         font-size: $base-font-size;
         line-height: $base-line-height;
     }
-    .light {
-        font-weight: $light;
+    .semi-bold {
+        font-weight: $semi-bold;
     }
     .text-block {
         padding: 16px;
@@ -347,7 +341,7 @@ b {
         width: 428px;
         margin: 0 auto;
     }
-    h0{
+    h0 {
         font-size: $mobile-h0-size;
     }
     h1 {
@@ -368,18 +362,17 @@ b {
     h6 {
         font-size: $mobile-h6-size;
     }
-
     .gallery-text {
         font-weight: $light;
         font-size: $mobile-font-size;
-        line-height: $medium-line-height;
+        line-height: $semi-bold-line-height;
     }
     #about-text, #contact-text {
         font-size: $mobile-font-size;
         line-height: $base-line-height;
     }
-    .light {
-        font-weight: $light;
+    .semi-bold {
+        font-weight: $semi-bold;
     }
     .text-block {
         padding: 8px;
@@ -404,7 +397,7 @@ b {
         width: 256px;
         margin: 0 auto;
     }
-    h0{
+    h0 {
         font-size: $mobile-h0-size;
     }
     h1 {
@@ -425,19 +418,17 @@ b {
     h6 {
         font-size: $mobile-h6-size;
     }
-
-
     .gallery-text {
         font-weight: $light;
         font-size: $mobile-font-size;
-        line-height: $medium-line-height;
+        line-height: $semi-bold-line-height;
     }
     #about-text, #contact-text {
         font-size: $mobile-font-size;
         line-height: $base-line-height;
     }
-    .light {
-        font-weight: $light;
+    .semi-bold {
+        font-weight: $semi-bold;
     }
     .text-block {
         padding: 8px;
@@ -462,7 +453,7 @@ b {
         width: 256px;
         margin: 0 auto;
     }
-    h0{
+    h0 {
         font-size: $mobile-h0-size;
     }
     h1 {
@@ -483,18 +474,17 @@ b {
     h6 {
         font-size: $mobile-h6-size;
     }
-
     .gallery-text {
         font-weight: $light;
         font-size: $mobile-font-size;
-        line-height: $medium-line-height;
+        line-height: $semi-bold-line-height;
     }
     #about-text, #contact-text {
         font-size: $mobile-font-size;
         line-height: $base-line-height;
     }
-    .light {
-        font-weight: $light;
+    .semi-bold {
+        font-weight: $semi-bold;
     }
     .text-block {
         padding: 8px;
