@@ -44,7 +44,7 @@ nav.offcanvas {
 }
 
 .highlight {
-     font-weight: $semi-bold;
+    font-weight: $semi-bold;
     padding-bottom: 4px;
     //text-decoration: underline;
     &:hover,
@@ -75,6 +75,10 @@ b {
     font-weight: $semi-bold;
 }
 
+.light {
+    font-weight: $light;
+}
+
 .title {
     margin: 0;
 }
@@ -88,6 +92,7 @@ b {
 //     margin: 0 auto;
 // }
 //     .gallery-text {
+//
 //         font-weight: $light;
 //         font-size: $semi-bold-2k-size;
 //         line-height: $semi-bold-line-height;
@@ -149,7 +154,6 @@ b {
     .header-block {
         .subtitle {
             font-weight: $light;
-            font-size: 0.8em;
         }
     }
     .text-container {
@@ -166,7 +170,7 @@ b {
         width: 900px;
         margin: 0 auto;
     }
-     h0 {
+    h0 {
         font-size: $base-h0-size;
     }
     h1 {
@@ -202,10 +206,8 @@ b {
     .text-block {
         padding: 16px;
     }
-    .header-block {
-        .subtitle {
-            font-weight: $light;
-        }
+    .subtitle {
+        font-weight: $light;
     }
     .text-container {
         width: 900px;
@@ -221,7 +223,7 @@ b {
         width: 556px;
         margin: 0 auto;
     }
-     h0 {
+    h0 {
         font-size: $base-h0-size;
     }
     h1 {
@@ -257,11 +259,8 @@ b {
     .text-block {
         padding: 16px;
     }
-    .header-block {
-        .subtitle {
-            font-weight: $light;
-            font-size: 0.8em;
-        }
+    .subtitle {
+        font-weight: $light;
     }
     .text-container {
         width: 900px;
@@ -314,11 +313,8 @@ b {
     .text-block {
         padding: 16px;
     }
-    .header-block {
-        .subtitle {
-            font-weight: $light;
-            font-size: 0.8em;
-        }
+    .subtitle {
+        font-weight: $light;
     }
     .text-container {
         padding: 0 64px;
@@ -337,25 +333,25 @@ b {
         margin: 0 auto;
     }
     h0 {
-        font-size: $mobile-h0-size;
+        font-size: $base-h0-size;
     }
     h1 {
-        font-size: $mobile-h1-size;
+        font-size: $base-h1-size;
     }
     h2 {
-        font-size: $mobile-h2-size;
+        font-size: $base-h2-size;
     }
     h3 {
-        font-size: $mobile-h3-size;
+        font-size: $base-h3-size;
     }
     h4 {
-        font-size: $mobile-h4-size;
+        font-size: $base-h4-size;
     }
     h5 {
-        font-size: $mobile-h5-size;
+        font-size: $base-h5-size;
     }
     h6 {
-        font-size: $mobile-h6-size;
+        font-size: $base-h6-size;
     }
     .gallery-text {
         font-weight: $light;
@@ -372,10 +368,8 @@ b {
     .text-block {
         padding: 8px;
     }
-    .header-block {
-        .subtitle {
-            font-size: 0.8em;
-        }
+    .subtitle {
+        font-weight: $light;
     }
     .text-container {
         padding: 0 32px;
@@ -427,10 +421,8 @@ b {
     .text-block {
         padding: 8px;
     }
-    .header-block {
-        .subtitle {
-            font-size: 0.8em;
-        }
+    .subtitle {
+        font-weight: $light;
     }
     .text-container {
         padding: 0 32px;
@@ -482,11 +474,8 @@ b {
     .text-block {
         padding: 8px;
     }
-    .header-block {
-        .subtitle {
-            font-weight: $light;
-            font-size: 0.75em;
-        }
+    .subtitle {
+        font-weight: $light;
     }
     .text-container {
         padding: 0 32px;
