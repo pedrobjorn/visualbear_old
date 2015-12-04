@@ -1,0 +1,2488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"toggle",
+				"togglePanel"
+			],
+			[
+				"yaxi",
+				"yAxisG"
+			],
+			[
+				"xaxi",
+				"xAxisG"
+			],
+			[
+				"Diagr",
+				"DiagramUtils"
+			],
+			[
+				"grand",
+				"granditude-light"
+			],
+			[
+				"granditude-medium",
+				"granditude-medium-darker"
+			],
+			[
+				"grandi",
+				"granditude-medium"
+			],
+			[
+				"block",
+				"blockType"
+			],
+			[
+				"offs",
+				"offsetWidth"
+			],
+			[
+				"oldval",
+				"oldValue"
+			],
+			[
+				"SKU",
+				"SKUAvg"
+			],
+			[
+				"stor",
+				"storeData"
+			],
+			[
+				"grandu",
+				"granditude-medium"
+			],
+			[
+				"tab",
+				"tabindex	Attr"
+			],
+			[
+				"hover",
+				"hoverover	(linechart.directive.js)"
+			],
+			[
+				"granditude-m",
+				"granditude-medium-darker"
+			],
+			[
+				"operation",
+				"operationType"
+			],
+			[
+				"expressi",
+				"expressionLoop	(querycreator.service.js)"
+			],
+			[
+				"expression",
+				"expressionId"
+			],
+			[
+				"yyyy",
+				"yyyymmdd	(querycreator.directive.js)"
+			],
+			[
+				"selected",
+				"selectedIndex"
+			],
+			[
+				"express",
+				"expressionLoop	(querycreator.service.js)"
+			],
+			[
+				"options",
+				"optionsSelections"
+			],
+			[
+				"selection",
+				"selectionIndex	(create-group.directive.js)"
+			],
+			[
+				"query",
+				"queryObject"
+			],
+			[
+				"between",
+				"betweenSelection	(filters.templates.html)"
+			],
+			[
+				"select",
+				"selectBlock"
+			],
+			[
+				"customer",
+				"customergroup"
+			],
+			[
+				"subfil",
+				"subfilter	(datafilters.directive.js)"
+			],
+			[
+				"overflo",
+				"overflow-y"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"number",
+				"numberSuffix"
+			],
+			[
+				"tickfo",
+				"tickFormatType"
+			],
+			[
+				"format",
+				"formatX"
+			],
+			[
+				"col_FI",
+				"MODEL_COL_FIELD"
+			],
+			[
+				"row",
+				"rowList"
+			],
+			[
+				"rane",
+				"rangeRound	(sparkline.directive.js)"
+			],
+			[
+				"range",
+				"rangeRound	(sparkline.directive.js)"
+			],
+			[
+				"inti",
+				"intiger"
+			],
+			[
+				"custome",
+				"customnumber	(index.html)"
+			],
+			[
+				"unique",
+				"uniqueId	(tiles.directive.js)"
+			],
+			[
+				"return",
+				"returnData"
+			],
+			[
+				"yax",
+				"yAxisLeft"
+			],
+			[
+				"static",
+				"staticColumns"
+			],
+			[
+				"rowen",
+				"rowentity"
+			],
+			[
+				"gr",
+				"grunditude-pale-primary"
+			],
+			[
+				"product",
+				"productSK"
+			],
+			[
+				"subprod",
+				"subproduct	(product.filter.html)"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"campaig",
+				"campaignType	(createcampaign.directive.js)"
+			],
+			[
+				"cam",
+				"campaignType"
+			],
+			[
+				"customers",
+				"customersGroups"
+			],
+			[
+				"column",
+				"columnDefs"
+			],
+			[
+				"cell",
+				"cellTemplate"
+			],
+			[
+				"editable",
+				"editableColumns"
+			],
+			[
+				"header",
+				"headerCellClass"
+			],
+			[
+				"min",
+				"minMargin"
+			],
+			[
+				"submit",
+				"submitfail	(create-group.template.html)"
+			],
+			[
+				"submitf",
+				"submitfail"
+			],
+			[
+				"max",
+				"maxlength"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"open",
+				"openToggle	(navbar.controller.js)"
+			],
+			[
+				"subvi",
+				"subview"
+			],
+			[
+				"pos",
+				"position	(_sidepanel.scss)"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"granditude",
+				"granditude-light"
+			],
+			[
+				"schedule",
+				"scheduleName"
+			],
+			[
+				"owner",
+				"ownerObj"
+			],
+			[
+				"rel",
+				"relative	(_navbar.scss)"
+			],
+			[
+				"table",
+				"tableType"
+			],
+			[
+				"modal",
+				"modalText"
+			],
+			[
+				"on",
+				"onload	(table.service.js)"
+			],
+			[
+				"gridmenu",
+				"gridMenuService	(ui-grid.js)"
+			],
+			[
+				"price",
+				"priceTable"
+			],
+			[
+				"menu",
+				"menuItems	(table.service.js)"
+			],
+			[
+				"trend",
+				"trendLine"
+			],
+			[
+				"least",
+				"leastSquaresCoeff"
+			],
+			[
+				"seta",
+				"setAuto	(table.directive.js)"
+			],
+			[
+				"rows",
+				"rowStored"
+			],
+			[
+				"contex",
+				"contextmenu	(index.html)"
+			],
+			[
+				"hash",
+				"hashkey"
+			],
+			[
+				"retur",
+				"returnData"
+			],
+			[
+				"rigt",
+				"rightClick"
+			],
+			[
+				"set",
+				"setCat"
+			],
+			[
+				"dia",
+				"diagramData"
+			],
+			[
+				"line",
+				"linear"
+			],
+			[
+				"each",
+				"eachRow"
+			],
+			[
+				"newv",
+				"newValue"
+			],
+			[
+				"grid",
+				"gridApi"
+			],
+			[
+				"displa",
+				"display	(_dash.scss)"
+			],
+			[
+				"scrol",
+				"scrollit	(table.html)"
+			],
+			[
+				"scroll",
+				"scrollit	(_table.scss)"
+			],
+			[
+				"wid",
+				"width	(table.directive.js)"
+			],
+			[
+				"setres",
+				"setResponseHeaders"
+			],
+			[
+				"subnet",
+				"subnetObj"
+			],
+			[
+				"collapse",
+				"collapseObj"
+			],
+			[
+				"nodet",
+				"nodeTime"
+			],
+			[
+				"tabAc",
+				"tabActivate"
+			],
+			[
+				"pull-left",
+				"pull-left	 bootstrap.css"
+			],
+			[
+				"pull-",
+				"pull-left	 font-awesome.css"
+			],
+			[
+				"manual",
+				"manualDate"
+			],
+			[
+				"col-md",
+				"col-md-3	 bootstrap.css"
+			],
+			[
+				"show",
+				"showTimeAdjust"
+			],
+			[
+				"fil",
+				"filter:search"
+			],
+			[
+				"filter",
+				"filters"
+			],
+			[
+				"ngiv",
+				"ng-view	AngularJS"
+			],
+			[
+				"$s",
+				"${1:false"
+			],
+			[
+				"unit",
+				"angular: $sanitize"
+			],
+			[
+				"update",
+				"updateDecimal"
+			],
+			[
+				"maxread",
+				"maxReadDone"
+			],
+			[
+				"decimal",
+				"decimalValue"
+			],
+			[
+				"disb",
+				"disable"
+			],
+			[
+				"selece",
+				"selectedObj"
+			],
+			[
+				"tmp",
+				"tmpObjects"
+			],
+			[
+				"input",
+				"inputId"
+			],
+			[
+				"nodety",
+				"nodeType"
+			],
+			[
+				"client",
+				"client"
+			],
+			[
+				"creat",
+				"createdObj"
+			],
+			[
+				"sele",
+				"selectedObj"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"selec",
+				"selectedObj"
+			],
+			[
+				"selectobj",
+				"selectedObj"
+			],
+			[
+				"clien",
+				"clientId"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"ths",
+				"thisObj"
+			],
+			[
+				"clinet",
+				"clientId"
+			],
+			[
+				"object",
+				"objects"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/visualbear/Work/Fun/Web/Projects/visualbear/src/templates/pages/gallery_adhops.hbs",
+			"settings":
+			{
+				"buffer_size": 2637,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "styleguide.typography.hbs",
+			"settings":
+			{
+				"buffer_size": 933,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "default.hbs",
+			"settings":
+			{
+				"buffer_size": 3202,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/visualbear/Work/Fun/Web/Projects/visualbear/sass/base/_typography.scss",
+			"settings":
+			{
+				"buffer_size": 9250,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/visualbear/Work/Fun/Web/Projects/visualbear/sass/main.scss",
+			"settings":
+			{
+				"buffer_size": 515,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/visualbear/Work/Fun/Web/Projects/visualbear/sass/helpers/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 1853,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"java",
+				"Javascript Beautify"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"ja",
+				"Javascript Beautify"
+			],
+			[
+				"jav",
+				"Javascript Beautify"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"HTML",
+				"HTMLBeautify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"beaut",
+				"SassBeautify"
+			],
+			[
+				"ja v",
+				"Javascript Beautify"
+			],
+			[
+				"beau",
+				"SassBeautify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"beai",
+				"SassBeautify"
+			],
+			[
+				"git mer",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git commit",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git fetch",
+				"Git: Fetch"
+			],
+			[
+				"git fe",
+				"Git: Fetch"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"pull cu",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git quic",
+				"Git: Quick Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"gif",
+				"Git: Add Current File"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"jslin",
+				"JSLint"
+			],
+			[
+				"fetch",
+				"Git: Fetch"
+			],
+			[
+				"trimm",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"trim",
+				"Trimmer: Collapse lines."
+			],
+			[
+				"align",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"JSHINT",
+				"JSHint"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"PACK",
+				"Package Control: Remove Package"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"set",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"jshintify: show errors list for current line"
+			],
+			[
+				"jshin",
+				"JSHint"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"angular ",
+				"AngularJS: Toggle - Disable All Completions"
+			],
+			[
+				"rebuild",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"gitgutter",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal	",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet:usr/bin/env",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"box",
+				"Snippet: box-shadow+"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 195.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear",
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/sass",
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/sass/base",
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/sass/helpers",
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/sass/layout",
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/sass/pages",
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/src",
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/src/assets",
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/src/assets/img",
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/src/assets/img/site",
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/src/templates",
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/src/templates/pages",
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/src/templates/partials"
+	],
+	"file_history":
+	[
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/src/templates/pages/gallery.html",
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/node_modules/grunt/node_modules/colors/ReadMe.md",
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/src/assets/img/site/splash_visualbear_transparent_icon.png",
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/README.md",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/docular_generated/sources/src/main/webapp/scripts/components/D3/diagram.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/java/se/granditude/grandapp/domain/ProductCompetitorScd.java",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/java/se/granditude/grandapp/web/rest/dto/SalesVSPriceDTO.java",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/java/se/granditude/grandapp/web/rest/handlers/instances/PriceAnalyticsListNewHandler.java",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/assets/images/logo_G.svg",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/D3/realtimelinechart/realtimelinechart.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/D3/piechart/template/piechart.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/campaign/createcampaign/template/createcampaign.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/dashboards/template/marketing.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/customers/template/customers.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/campaign/template/campaign.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/finance/dashboards/template/finance.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/finance/sales/template/sales.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/webanalytics/template/webanalytics.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/grandapp/scripts/app/views/finance/dashboards/template/finance.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/grandapp/scripts/app/views/marketing/webanalytics/template/webanalytics.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/grandapp/scripts/app/views/finance/sales/template/sales.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/grandapp/scripts/app/views/marketing/campaign/template/campaign.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/grandapp/scripts/app/views/marketing/dashboards/template/marketing.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/grandapp/scripts/app/views/marketing/players/template/players.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/customers/create-group/template/create-group.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/products/template/products.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/grandapp/scripts/app/views/marketing/players/create-group/template/create-group.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/grandapp/scripts/app/views/marketing/campaign/createcampaign/template/createcampaign.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/dist/scripts/app/dashboards/template/dash.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/socialmedia/template/socialmedia.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/kpi/kpi.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/kpi/template/kpi.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/customers/customers.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/dashboards/marketing.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/optimisation/optimisation.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/finance/dashboards/finance.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/campaign/campaign.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/finance/sales/sales.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/finance/sales/sales.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/webanalytics/webanalytics.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/socialmedia/socialmedia.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/products/products.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/optimisation/optimisation.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/dashboards/marketing.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/finance/dashboards/finance.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/products/products.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/socialmedia/socialmedia.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/webanalytics/webanalytics.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/customers/customers.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/customers/create-group/create-group.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/customers/create-group/create-group.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/campaign/campaign.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/D3/diagram.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/D3/barchart/barchart.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/navbar/template/navbar.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/D3/plotchart/plotchart.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/D3/plotlinechart/plotlinechart.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/D3/sparkline/sparkline.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/navbar/navbar.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/navbar/navbar.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/sidepanel/sidepanel.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/sidepanel/sidepanel.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/main.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/datafilters/datafilters.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/datafilters/datafilters.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/index.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/filterpanel/filterpanel.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/table/table.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/table/table.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/bower_components/angular-ui-grid/ui-grid.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/filterpanel/filterpanel.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/filterpanel/templates/filterpanel.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/scss/partials/_sidepanel.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/scss/partials/_datafilters.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/sidepanel/templates/all.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/querycreator/querycreator.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/D3/horizontalbarchart/horizontalbarchart.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/D3/horizontalmultibarchart/horizontalmultibarchart.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/D3/linechart/linechart.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/D3/piechart/piechart.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/grandapp/scripts/app/views/marketing/optimisation/template/optimisation.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/dist/scripts/app/views/sales/optimisation/template/optimisation.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/grandapp/scripts/app/views/marketing/products/template/products.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/optimisation/template/optimisation.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/datafilters/filtersmodal/filters.modal.html",
+		"/Users/visualbear/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/bower.json",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/util/interceptors/datareload.interceptor.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/util/wsutils/wsutils.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_utilities.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/navbar/template/navaccordion.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/navbar/navbar.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/sidepanel/templates/navaccordion.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/main/main.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/D3/d3.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/querycreator/queryblock.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/D3/everythingchart/everythingchart.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/D3/stackedbarchart/stackedbarchart.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/querycreator/templates/queryaccordion.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/scss/partials/_querybuilder.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/querycreator/querycreator.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/scss/modules/_variables.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/scss/partials/_buttons.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/scss/modules/_mixins.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/querycreator/templates/querycreator.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/querycreator/templates/queryblock.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/navbar/template/template-overrides.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/docular_generated/sources/src/main/webapp/scripts/components/datafilters/datafilters.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/datafilters/filtersmodal/filtersmodal.controller.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/scss/main.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/app.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/main.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/app.constants.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/hibernate.cfg.xml",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/config/ec-rest/hibernate.cfg.xml",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/config/ec-web/hibernate2.cfg.xml",
+		"/Users/visualbear/Work/Fun/Web/Projects/visualbear/.gitignore",
+		"/Volumes/Work/Fun/Web/visualbear/src/templates/partials/jumbo.hbs",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/scss/partials/_modals.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/scss/partials/_everythingchart.scss",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/bower_components/angular-bootstrap/ui-bootstrap-tpls.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/generalmodal/hide.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/generalmodal/general.modal.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/hoverover/hoverover.directive.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/hoverover/template/hoveroverevents.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/hoverover/template/hoverover.template.html",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/D3/d3.service.js",
+		"/Users/visualbear/Work/Fun/Design/Projects/Current/Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/marketing/socialmedia/socialmedia.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.hbs",
+			"*.scss",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.scss",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.scss",
+			"*",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.scss",
+			"/src/main/*.scss",
+			"*/src/main/.scss",
+			"*src/main/.scss",
+			"*src/main/scss/.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.scss",
+			"*js",
+			"*html",
+			"*",
+			"*.scss",
+			"*",
+			"*.scss",
+			"*",
+			".sass",
+			"*.sass",
+			"*sass",
+			"",
+			"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/grandapp/assets/fonts",
+			"src/main/scss/modules/*.scss",
+			"src/main/scss/*.scss",
+			"scss/*.scss",
+			"*.scss",
+			"*",
+			"*.scss",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js, *.html",
+			"*.js",
+			"*.scss",
+			"*.html",
+			"*",
+			"*.html",
+			"*.js",
+			"*.java",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.ks",
+			"*.scss",
+			"*.js",
+			"*",
+			"*.scss",
+			"*.hbs",
+			"*.scss",
+			"*.hbs",
+			"*.scss",
+			"*.html",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*",
+			".*",
+			".*html",
+			".*js",
+			".*",
+			".*js",
+			"*.js",
+			"*",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.html",
+			"*.scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"enabled",
+			"    }\n    h3 {",
+			"h3",
+			"h2",
+			".edit",
+			"$scope",
+			"axis",
+			"createYAxis",
+			"<script src=\"scripts/components/navbar/template/template-overrides.js\"></script>\n",
+			"template",
+			"<script src=\"scripts/app/admin/metrics/metrics.js\"></script>\n",
+			"<script src=\"scripts/app/admin/metrics/metrics.controller.js\"></script>\n",
+			"<script src=\"scripts/app/error/error.js\"></script>\n",
+			"<script src=\"scripts/app/account/sessions/sessions.js\"></script>\n",
+			"<script src=\"scripts/app/account/sessions/sessions.controller.js\"></script>\n<script src=\"scripts/app/views/dash.service.js\"></script>\n",
+			"<script src=\"scripts/app/views/dash.service.js\"></script>\n",
+			"<script src=\"scripts/app/views/home/dashboard/home.js\"></script>\n",
+			"<script src=\"scripts/app/views/home/dashboard/home.directive.js\"></script>\n",
+			"<script src=\"scripts/app/views/finance/dashboards/finance.js\"></script>\n",
+			"<script src=\"scripts/app/views/finance/dashboards/finance.directive.js\"></script>\n",
+			"<script src=\"scripts/app/views/marketing/dashboards/marketing.js\"></script>",
+			"<script src=\"scripts/app/views/marketing/dashboards/marketing.directive.js\"></script>",
+			"<script src=\"scripts/app/app.js\"></script>\n<script src=\"scripts/app/app.js\"></script>\n<script src=\"scripts/app/app.constants.js\"></script>\n<script src=\"scripts/app/main.controller.js\"></script>\n<script src=\"scripts/app/managers/directives.manager.js\"></script>\n<script src=\"scripts/app/managers/services.manager.js\"></script>\n<script src=\"scripts/components/auth/auth.service.js\"></script>\n<script src=\"scripts/components/auth/principal.service.js\"></script>\n<script src=\"scripts/components/auth/authority.directive.js\"></script>\n<script src=\"scripts/components/auth/services/account.service.js\"></script>\n<script src=\"scripts/components/auth/services/activate.service.js\"></script>\n<script src=\"scripts/components/auth/services/password.service.js\"></script>\n<script src=\"scripts/components/auth/services/register.service.js\"></script>\n<script src=\"scripts/components/auth/services/sessions.service.js\"></script>\n<script src=\"scripts/components/auth/provider/auth.session.service.js\"></script>\n<script src=\"scripts/components/tiles/tiles.directive.js\"></script>\n<script src=\"scripts/components/autofocus/autofocus.directive.js\"></script>\n<script src=\"scripts/components/tiles/tiles.service.js\"></script>\n<script src=\"scripts/components/D3/d3.service.js\"></script>\n<script src=\"scripts/components/D3/diagram.service.js\"></script>\n<script src=\"scripts/components/D3/linechart/linechart.directive.js\"></script>\n<script src=\"scripts/components/D3/realtimelinechart/realtimelinechart.directive.js\"></script>\n<script src=\"scripts/components/D3/plotlinechart/plotlinechart.directive.js\"></script>\n<script src=\"scripts/components/D3/plotchart/plotchart.directive.js\"></script>\n<script src=\"scripts/components/D3/piechart/piechart.directive.js\"></script>\n<script src=\"scripts/components/D3/horizontalbarchart/horizontalbarchart.directive.js\"></script>\n<script src=\"scripts/components/D3/horizontalmultibarchart/horizontalmultibarchart.directive.js\"></script>\n<script src=\"scripts/components/D3/barchart/barchart.directive.js\"></script>\n<script src=\"scripts/components/D3/everythingchart/everythingchart.directive.js\"></script>\n<script src=\"scripts/components/D3/sparkline/sparkline.directive.js\"></script>\n<script src=\"scripts/components/table/table.directive.js\"></script>\n<script src=\"scripts/components/table/table.service.js\"></script>\n<script src=\"scripts/components/table/templates/table.content.js\"></script>\n<!--<script src=\"scripts/components/form/form.directive.js\"></script>\n<script src=\"scripts/components/form/pager.directive.js\"></script>\n<script src=\"scripts/components/form/pagination.directive.js\"></script>-->\n<script src=\"scripts/components/language/language.service.js\"></script>\n<script src=\"scripts/components/language/language.controller.js\"></script>\n<!-- <script src=\"scripts/components/admin/audits.service.js\"></script>-->\n<!-- <script src=\"scripts/components/admin/logs.service.js\"></script>-->\n<!--<script src=\"scripts/components/admin/configuration.service.js\"></script>-->\n<!--<script src=\"scripts/components/admin/monitoring.service.js\"></script>-->\n<script src=\"scripts/components/navbar/template/template-overrides.js\"></script>\n<script src=\"scripts/components/navbar/navbar.directive.js\"></script>\n<script src=\"scripts/components/navbar/navbar.controller.js\"></script>\n<!-- <script src=\"scripts/components/user/user.service.js\"></script>-->\n<script src=\"scripts/components/util/truncate.filter.js\"></script>\n<script src=\"scripts/components/util/base64.service.js\"></script>\n<script src=\"scripts/components/util/parse-links.service.js\"></script>\n<script src=\"scripts/components/util/datautils/datautils.service.js\" ></script>\n<script src=\"scripts/components/util/eventutils/eventutils.service.js\" ></script>\n<script src=\"scripts/components/util/hoveroverutils/hoveroverutils.service.js\" ></script>\n<script src=\"scripts/components/util/filters/arrayid.filter.js\"></script>\n<script src=\"scripts/components/util/filterutils/filterutils.service.js\" ></script>\n<script src=\"scripts/components/util/filters/customnumber.filter.js\"></script>\n<script src=\"scripts/components/util/filters/numberformat.filter.js\"></script>\n<script src=\"scripts/components/util/filters/percentageformat.filter.js\"></script>\n<script src=\"scripts/components/util/filters/usefilter.filter.js\"></script>\n<script src=\"scripts/components/util/interceptors/datareload.interceptor.js\"></script>\n<script src=\"scripts/app/account/account.js\"></script>\n<script src=\"scripts/app/account/activate/activate.js\"></script>\n<script src=\"scripts/app/account/activate/activate.controller.js\"></script>\n<script src=\"scripts/app/account/login/login.js\"></script>\n<script src=\"scripts/app/account/login/login.controller.js\"></script>\n<script src=\"scripts/app/account/logout/logout.js\"></script>\n<script src=\"scripts/app/account/logout/logout.controller.js\"></script>\n<script src=\"scripts/app/account/password/password.js\"></script>\n<script src=\"scripts/app/account/password/password.controller.js\"></script>\n<script src=\"scripts/app/account/password/password.directive.js\"></script>\n<script src=\"scripts/app/account/register/register.js\"></script>\n<script src=\"scripts/app/account/register/register.controller.js\"></script>\n<script src=\"scripts/app/account/settings/settings.js\"></script>\n<script src=\"scripts/app/account/settings/settings.controller.js\"></script>\n<script src=\"scripts/app/account/reset/finish/reset.finish.controller.js\"></script>\n<script src=\"scripts/app/account/reset/finish/reset.finish.js\"></script>\n<script src=\"scripts/app/account/reset/request/reset.request.controller.js\"></script>\n<script src=\"scripts/app/account/reset/request/reset.request.js\"></script>\n<script src=\"scripts/app/admin/admin.js\"></script>\n<script src=\"scripts/app/admin/audits/audits.js\"></script>\n<script src=\"scripts/app/admin/audits/audits.controller.js\"></script>\n<!-- <script src=\"scripts/app/admin/configuration/configuration.js\"></script>-->\n<!--<script src=\"scripts/app/admin/configuration/configuration.controller.js\"></script>-->\n<script src=\"scripts/app/admin/docs/docs.js\"></script>\n<script src=\"scripts/app/admin/health/health.js\"></script>\n<script src=\"scripts/app/admin/health/health.controller.js\"></script>\n<script src=\"scripts/app/admin/logs/logs.js\"></script>\n<script src=\"scripts/app/admin/logs/logs.controller.js\"></script>\n<script src=\"scripts/app/admin/metrics/metrics.js\"></script>\n<script src=\"scripts/app/admin/metrics/metrics.controller.js\"></script>\n<script src=\"scripts/app/entities/entity.js\"></script>\n<script src=\"scripts/app/error/error.js\"></script>\n<!--<script src=\"scripts/app/main/main.js\"></script>\n<script src=\"scripts/app/main/main.controller.js\"></script>-->\n<script src=\"scripts/app/account/sessions/sessions.js\"></script>\n<script src=\"scripts/app/account/sessions/sessions.controller.js\"></script>\n<script src=\"scripts/app/views/dash.service.js\"></script>\n<script src=\"scripts/app/views/home/dashboard/home.js\"></script>\n<script src=\"scripts/app/views/home/dashboard/home.directive.js\"></script>\n<script src=\"scripts/app/views/finance/dashboards/finance.js\"></script>\n<script src=\"scripts/app/views/finance/dashboards/finance.directive.js\"></script>\n<script src=\"scripts/app/views/marketing/dashboards/marketing.js\"></script>\n<script src=\"scripts/app/views/marketing/dashboards/marketing.directive.js\"></script>",
+			"<script src=\"bower_components/modernizr/modernizr.js\"></script>\n<script src=\"bower_components/jquery/dist/jquery.js\"></script>\n<script src=\"bower_components/angular/angular.js\"></script>\n<script src=\"bower_components/angu-fixed-header-table/angu-fixed-header-table.js\"></script>\n<script src=\"bower_components/angular-bootstrap/ui-bootstrap-tpls.js\"></script>\n<script src=\"bower_components/angular-cache-buster/angular-cache-buster.js\"></script>\n<script src=\"bower_components/angular-cookies/angular-cookies.js\"></script>\n<script src=\"bower_components/angular-dynamic-locale/src/tmhDynamicLocale.js\"></script>\n<script src=\"bower_components/angular-local-storage/dist/angular-local-storage.js\"></script>\n<script src=\"bower_components/angular-multi-step-form/dist/angular-multi-step-form.min.js\"></script>\n<script src=\"bower_components/angular-resource/angular-resource.js\"></script>\n<script src=\"bower_components/angular-sanitize/angular-sanitize.js\"></script>\n<script src=\"bower_components/angular-smart-table/dist/smart-table.js\"></script>\n<script src=\"bower_components/angular-translate/angular-translate.js\"></script>\n<script src=\"bower_components/angular-translate-loader-partial/angular-translate-loader-partial.js\"></script>\n<script src=\"bower_components/angular-translate-storage-cookie/angular-translate-storage-cookie.js\"></script>\n<script src=\"bower_components/angular-ui-grid/ui-grid.js\"></script>\n<script src=\"bower_components/angular-ui-router/release/angular-ui-router.js\"></script>\n<script src=\"bower_components/bootstrap-sass/assets/javascripts/bootstrap.js\"></script>\n<script src=\"bower_components/d3/d3.js\"></script>\n<script src=\"bower_components/d3-tip/index.js\"></script>\n<script src=\"bower_components/json3/lib/json3.js\"></script>\n<script src=\"bower_components/sockjs/sockjs.js\"></script>\n<script src=\"bower_components/stomp-websocket/lib/stomp.min.js\"></script>\n<script src=\"bower_components/ng-stomp/ng-stomp.js\"></script>\n<script src=\"bower_components/ngInfiniteScroll/build/ng-infinite-scroll.js\"></script>\n<script src=\"bower_components/ui-select/dist/select.js\"></script>\n<script src=\"bower_components/underscore/underscore.js\"></script>\n<script src=\"bower_components/sockjs/sockjs.min.js\"></script>\n<script src=\"bower_components/stomp-websocket/lib/stomp.js\"></script>\n<script src=\"bower_components/ng-stomp/ng-stomp.js\"></script>",
+			"<script src=\"bower_components/modernizr/modernizr.js\"></script>\n<script src=\"bower_components/jquery/dist/jquery.js\"></script>\n<script src=\"bower_components/angular/angular.js\"></script>\n<script src=\"bower_components/angu-fixed-header-table/angu-fixed-header-table.js\"></script>\n<script src=\"bower_components/angular-bootstrap/ui-bootstrap-tpls.js\"></script>\n<script src=\"bower_components/angular-cache-buster/angular-cache-buster.js\"></script>\n<script src=\"bower_components/angular-cookies/angular-cookies.js\"></script>\n<script src=\"bower_components/angular-dynamic-locale/src/tmhDynamicLocale.js\"></script>\n<script src=\"bower_components/angular-local-storage/dist/angular-local-storage.js\"></script>\n<script src=\"bower_components/angular-resource/angular-resource.js\"></script>\n<script src=\"bower_components/angular-multi-step-form/dist/angular-multi-step-form.min.js\"></script>\n<script src=\"bower_components/ng-out-click/dist/src/components/ngOutClick/ngOutClick.js\"></script>\n<script src=\"bower_components/angular-sanitize/angular-sanitize.js\"></script>\n<script src=\"bower_components/angular-smart-table/dist/smart-table.js\"></script>\n<script src=\"bower_components/angular-translate/angular-translate.js\"></script>\n<script src=\"bower_components/angular-translate-loader-partial/angular-translate-loader-partial.js\"></script>\n<script src=\"bower_components/angular-translate-storage-cookie/angular-translate-storage-cookie.js\"></script>\n<script src=\"bower_components/angular-ui-grid/ui-grid.js\"></script>\n<script src=\"bower_components/angular-ui-router/release/angular-ui-router.js\"></script>\n<script src=\"bower_components/bootstrap-sass/assets/javascripts/bootstrap.js\"></script>\n<script src=\"bower_components/d3/d3.js\"></script>\n<script src=\"bower_components/d3-tip/index.js\"></script>\n<script src=\"bower_components/json3/lib/json3.js\"></script>\n<script src=\"bower_components/ngInfiniteScroll/build/ng-infinite-scroll.js\"></script>\n<script src=\"bower_components/ui-select/dist/select.min.js\"></script>\n<script src=\"bower_components/underscore/underscore.js\"></script>\n<script src=\"bower_components/sockjs/sockjs.min.js\"></script>\n<script src=\"bower_components/stomp-websocket/lib/stomp.js\"></script>\n<script src=\"bower_components/ng-stomp/ng-stomp.js\"></script>",
+			"<script src=\"bower_components/modernizr/modernizr.js\"></script>\n<script src=\"bower_components/jquery/dist/jquery.js\"></script>\n<script src=\"bower_components/angular/angular.js\"></script>\n<script src=\"bower_components/angu-fixed-header-table/angu-fixed-header-table.js\"></script>\n<script src=\"bower_components/angular-bootstrap/ui-bootstrap-tpls.js\"></script>\n<script src=\"bower_components/angular-cache-buster/angular-cache-buster.js\"></script>\n<script src=\"bower_components/angular-cookies/angular-cookies.js\"></script>\n<script src=\"bower_components/angular-dynamic-locale/src/tmhDynamicLocale.js\"></script>\n<script src=\"bower_components/angular-local-storage/dist/angular-local-storage.js\"></script>\n<script src=\"bower_components/angular-resource/angular-resource.js\"></script>\n<script src=\"bower_components/angular-multi-step-form/dist/angular-multi-step-form.min.js\"></script>\n<script src=\"bower_components/ng-out-click/dist/src/components/ngOutClick/ngOutClick.js\"></script>\n<script src=\"bower_components/angular-sanitize/angular-sanitize.js\"></script>\n<script src=\"bower_components/angular-smart-table/dist/smart-table.js\"></script>\n<script src=\"bower_components/angular-translate/angular-translate.js\"></script>\n<script src=\"bower_components/angular-translate-loader-partial/angular-translate-loader-partial.js\"></script>\n<script src=\"bower_components/angular-translate-storage-cookie/angular-translate-storage-cookie.js\"></script>\n<script src=\"bower_components/angular-ui-grid/ui-grid.js\"></script>\n<script src=\"bower_components/angular-ui-router/release/angular-ui-router.js\"></script>\n<script src=\"bower_components/bootstrap-sass/assets/javascripts/bootstrap.js\"></script>\n<script src=\"bower_components/d3/d3.js\"></script>\n<script src=\"bower_components/d3-tip/index.js\"></script>\n<script src=\"bower_components/json3/lib/json3.js\"></script>\n<script src=\"bower_components/ngInfiniteScroll/build/ng-infinite-scroll.js\"></script>\n<script src=\"bower_components/ui-select/dist/select.min.js\"></script>\n<script src=\"bower_components/underscore/underscore.js\"></script>\n<script src=\"bower_components/sockjs/sockjs.min.js\"></script>\n<script src=\"bower_components/stomp-websocket/lib/stomp.js\"></script>\n<script src=\"bower_components/ng-stomp/ng-stomp.js\"></script>\n",
+			"<script src=\"bower_components/modernizr/modernizr.js\"></script>\n<script src=\"bower_components/jquery/dist/jquery.js\"></script>\n<script src=\"bower_components/angular/angular.js\"></script>\n<script src=\"bower_components/angu-fixed-header-table/angu-fixed-header-table.js\"></script>\n<script src=\"bower_components/angular-bootstrap/ui-bootstrap-tpls.js\"></script>\n<script src=\"bower_components/angular-cache-buster/angular-cache-buster.js\"></script>\n<script src=\"bower_components/angular-cookies/angular-cookies.js\"></script>\n<script src=\"bower_components/angular-dynamic-locale/src/tmhDynamicLocale.js\"></script>\n<script src=\"bower_components/angular-local-storage/dist/angular-local-storage.js\"></script>\n<script src=\"bower_components/angular-resource/angular-resource.js\"></script>\n<script src=\"bower_components/angular-multi-step-form/dist/angular-multi-step-form.min.js\"></script>\n<script src=\"bower_components/ng-out-click/dist/src/components/ngOutClick/ngOutClick.js\"></script>\n<script src=\"bower_components/angular-sanitize/angular-sanitize.js\"></script>\n<script src=\"bower_components/angular-smart-table/dist/smart-table.js\"></script>\n<script src=\"bower_components/angular-translate/angular-translate.js\"></script>\n<script src=\"bower_components/angular-translate-loader-partial/angular-translate-loader-partial.js\"></script>\n<script src=\"bower_components/angular-translate-storage-cookie/angular-translate-storage-cookie.js\"></script>\n<script src=\"bower_components/angular-ui-grid/ui-grid.js\"></script>\n<script src=\"bower_components/angular-ui-router/release/angular-ui-router.js\"></script>\n<script src=\"bower_components/bootstrap-sass/assets/javascripts/bootstrap.js\"></script>\n<script src=\"bower_components/d3/d3.js\"></script>\n<script src=\"bower_components/d3-tip/index.js\"></script>\n<script src=\"bower_components/json3/lib/json3.js\"></script>\n<script src=\"bower_components/ngInfiniteScroll/build/ng-infinite-scroll.js\"></script>\n<script src=\"bower_components/ui-select/dist/select.min.js\"></script>\n<script src=\"bower_components/underscore/underscore.js\"></script>\n<script src=\"bower_components/sockjs/sockjs.min.js\"></script>\n<script src=\"bower_components/stomp-websocket/lib/stomp.js\"></script>\n<script src=\"bower_components/ng-stomp/ng-stomp.js\"></script>\n<!-- endbower\n<!-- endbuild -->\n<!--vendors-->\n<!-- end vendors -->\n<!-- build:js({.tmp,src/main/webapp}) scripts/app.js -->\n<script src=\"scripts/app/app.js\"></script>\n<script src=\"scripts/app/app.js\"></script>\n<script src=\"scripts/app/app.constants.js\"></script>\n<script src=\"scripts/app/main.controller.js\"></script>\n<script src=\"scripts/app/managers/directives.manager.js\"></script>\n<script src=\"scripts/app/managers/services.manager.js\"></script>\n<script src=\"scripts/components/auth/auth.service.js\"></script>\n<script src=\"scripts/components/auth/principal.service.js\"></script>\n<script src=\"scripts/components/auth/authority.directive.js\"></script>\n<script src=\"scripts/components/auth/services/account.service.js\"></script>\n<script src=\"scripts/components/auth/services/activate.service.js\"></script>\n<script src=\"scripts/components/auth/services/password.service.js\"></script>\n<script src=\"scripts/components/auth/services/register.service.js\"></script>\n<script src=\"scripts/components/auth/services/sessions.service.js\"></script>\n<script src=\"scripts/components/auth/provider/auth.session.service.js\"></script>\n<script src=\"scripts/components/tiles/tiles.directive.js\"></script>\n<script src=\"scripts/components/autofocus/autofocus.directive.js\"></script>\n<script src=\"scripts/components/tiles/tiles.service.js\"></script>\n<script src=\"scripts/components/D3/d3.service.js\"></script>\n<script src=\"scripts/components/D3/diagram.service.js\"></script>\n<script src=\"scripts/components/D3/linechart/linechart.directive.js\"></script>\n<script src=\"scripts/components/D3/realtimelinechart/realtimelinechart.directive.js\"></script>\n<script src=\"scripts/components/D3/plotlinechart/plotlinechart.directive.js\"></script>\n<script src=\"scripts/components/D3/plotchart/plotchart.directive.js\"></script>\n<script src=\"scripts/components/D3/piechart/piechart.directive.js\"></script>\n<script src=\"scripts/components/D3/horizontalbarchart/horizontalbarchart.directive.js\"></script>\n<script src=\"scripts/components/D3/horizontalmultibarchart/horizontalmultibarchart.directive.js\"></script>\n<script src=\"scripts/components/D3/barchart/barchart.directive.js\"></script>\n<script src=\"scripts/components/D3/everythingchart/everythingchart.directive.js\"></script>\n<script src=\"scripts/components/D3/sparkline/sparkline.directive.js\"></script>\n<script src=\"scripts/components/table/table.directive.js\"></script>\n<script src=\"scripts/components/table/table.service.js\"></script>\n<script src=\"scripts/components/table/templates/table.content.js\"></script>\n<!--<script src=\"scripts/components/form/form.directive.js\"></script>\n<script src=\"scripts/components/form/pager.directive.js\"></script>\n<script src=\"scripts/components/form/pagination.directive.js\"></script>-->\n<script src=\"scripts/components/language/language.service.js\"></script>\n<script src=\"scripts/components/language/language.controller.js\"></script>\n<!-- <script src=\"scripts/components/admin/audits.service.js\"></script>-->\n<!-- <script src=\"scripts/components/admin/logs.service.js\"></script>-->\n<!--<script src=\"scripts/components/admin/configuration.service.js\"></script>-->\n<!--<script src=\"scripts/components/admin/monitoring.service.js\"></script>-->\n<script src=\"scripts/components/navbar/template/template-overrides.js\"></script>\n<script src=\"scripts/components/navbar/navbar.directive.js\"></script>\n<script src=\"scripts/components/navbar/navbar.controller.js\"></script>\n<!-- <script src=\"scripts/components/user/user.service.js\"></script>-->\n<script src=\"scripts/components/util/truncate.filter.js\"></script>\n<script src=\"scripts/components/util/base64.service.js\"></script>\n<script src=\"scripts/components/util/parse-links.service.js\"></script>\n<script src=\"scripts/components/util/datautils/datautils.service.js\" ></script>\n<script src=\"scripts/components/util/eventutils/eventutils.service.js\" ></script>\n<script src=\"scripts/components/util/hoveroverutils/hoveroverutils.service.js\" ></script>\n<script src=\"scripts/components/util/filters/arrayid.filter.js\"></script>\n<script src=\"scripts/components/util/filterutils/filterutils.service.js\" ></script>\n<script src=\"scripts/components/util/filters/customnumber.filter.js\"></script>\n<script src=\"scripts/components/util/filters/numberformat.filter.js\"></script>\n<script src=\"scripts/components/util/filters/percentageformat.filter.js\"></script>\n<script src=\"scripts/components/util/filters/usefilter.filter.js\"></script>\n<script src=\"scripts/components/util/interceptors/datareload.interceptor.js\"></script>\n<script src=\"scripts/app/account/account.js\"></script>\n<script src=\"scripts/app/account/activate/activate.js\"></script>\n<script src=\"scripts/app/account/activate/activate.controller.js\"></script>\n<script src=\"scripts/app/account/login/login.js\"></script>\n<script src=\"scripts/app/account/login/login.controller.js\"></script>\n<script src=\"scripts/app/account/logout/logout.js\"></script>\n<script src=\"scripts/app/account/logout/logout.controller.js\"></script>\n<script src=\"scripts/app/account/password/password.js\"></script>\n<script src=\"scripts/app/account/password/password.controller.js\"></script>\n<script src=\"scripts/app/account/password/password.directive.js\"></script>\n<script src=\"scripts/app/account/register/register.js\"></script>\n<script src=\"scripts/app/account/register/register.controller.js\"></script>\n<script src=\"scripts/app/account/settings/settings.js\"></script>\n<script src=\"scripts/app/account/settings/settings.controller.js\"></script>\n<script src=\"scripts/app/account/reset/finish/reset.finish.controller.js\"></script>\n<script src=\"scripts/app/account/reset/finish/reset.finish.js\"></script>\n<script src=\"scripts/app/account/reset/request/reset.request.controller.js\"></script>\n<script src=\"scripts/app/account/reset/request/reset.request.js\"></script>\n<script src=\"scripts/app/admin/admin.js\"></script>\n<script src=\"scripts/app/admin/audits/audits.js\"></script>\n<script src=\"scripts/app/admin/audits/audits.controller.js\"></script>\n<!-- <script src=\"scripts/app/admin/configuration/configuration.js\"></script>-->\n<!--<script src=\"scripts/app/admin/configuration/configuration.controller.js\"></script>-->\n<script src=\"scripts/app/admin/docs/docs.js\"></script>\n<script src=\"scripts/app/admin/health/health.js\"></script>\n<script src=\"scripts/app/admin/health/health.controller.js\"></script>\n<script src=\"scripts/app/admin/logs/logs.js\"></script>\n<script src=\"scripts/app/admin/logs/logs.controller.js\"></script>\n<script src=\"scripts/app/admin/metrics/metrics.js\"></script>\n<script src=\"scripts/app/admin/metrics/metrics.controller.js\"></script>\n<script src=\"scripts/app/entities/entity.js\"></script>\n<script src=\"scripts/app/error/error.js\"></script>\n<!--<script src=\"scripts/app/main/main.js\"></script>\n<script src=\"scripts/app/main/main.controller.js\"></script>-->\n<script src=\"scripts/app/account/sessions/sessions.js\"></script>\n<script src=\"scripts/app/account/sessions/sessions.controller.js\"></script>\n<script src=\"scripts/app/views/dash.service.js\"></script>\n<script src=\"scripts/app/views/home/dashboard/home.js\"></script>\n<script src=\"scripts/app/views/home/dashboard/home.directive.js\"></script>\n<script src=\"scripts/app/views/finance/dashboards/finance.js\"></script>\n<script src=\"scripts/app/views/finance/dashboards/finance.directive.js\"></script>\n<script src=\"scripts/app/views/marketing/dashboards/marketing.js\"></script>\n<script src=\"scripts/app/views/marketing/dashboards/marketing.directive.js\"></script>",
+			"linechart",
+			"<script src=\"scripts/app/account/sessions/sessions.js\"></script>\n<script src=\"scripts/app/account/sessions/sessions.controller.js\"></script>\n<script src=\"scripts/app/views/dash.service.js\"></script>\n<script src=\"scripts/app/views/home/dashboard/home.js\"></script>\n<script src=\"scripts/app/views/home/dashboard/home.directive.js\"></script>\n<script src=\"scripts/app/views/finance/dashboards/finance.js\"></script>\n<script src=\"scripts/app/views/finance/dashboards/finance.directive.js\"></script>\n<script src=\"scripts/app/views/marketing/dashboards/marketing.js\"></script>\n<script src=\"scripts/app/views/marketing/dashboards/marketing.directive.js\"></script>",
+			"        <script src=\"scripts/app/views/dash.service.js\"></script>\n        <script src=\"scripts/app/views/home/dashboard/home.js\"></script>\n        <script src=\"scripts/app/views/home/dashboard/home.directive.js\"></script>\n        <script src=\"scripts/app/views/finance/dashboards/finance.js\"></script>\n        <script src=\"scripts/app/views/finance/dashboards/finance.directive.js\"></script>\n        <script src=\"scripts/app/views/marketing/dashboards/marketing.js\"></script>\n        <script src=\"scripts/app/views/marketing/dashboards/marketing.directive.js\"></script>",
+			"linechart",
+			"delete",
+			"yeoman-maven-plugin<",
+			"getmax",
+			"$scope",
+			"scope",
+			"ngoutclick",
+			"linechart",
+			"real",
+			"realtime",
+			"<script src=\"scripts/components/auth/services/activate.service.js\"></script>",
+			"\n<script src=\"scripts/components/auth/services/activate.service.js\"></script>",
+			"\n<script src=\"scripts/components/auth/services/activate.service.js\"></script>\n<script src=\"scripts/components/auth/services/password.service.js\"></script>",
+			"<script src=\"scripts/components/auth/services/activate.service.js\"></script>",
+			"<script src=\"scripts/components/auth/services/activate.service.js\"></script>\n<script src=\"scripts/components/auth/services/password.service.js\"></script>",
+			"<script src=\"scripts/components/auth/services/activate.service.js\"></script>\n<script src=\"scripts/components/auth/services/password.service.js\"></script>\n<script src=\"scripts/components/auth/services/register.service.js\"></script>",
+			"<script src=\"scripts/components/auth/services/activate.service.js\"></script>\n<script src=\"scripts/components/auth/services/password.service.js\"></script>\n<script src=\"scripts/components/auth/services/register.service.js\"></script>\n<script src=\"scripts/components/auth/services/sessions.service.js\"></script>",
+			"\n<script src=\"scripts/components/auth/services/activate.service.js\"></script>\n<script src=\"scripts/components/auth/services/password.service.js\"></script>\n<script src=\"scripts/components/auth/services/register.service.js\"></script>\n<script src=\"scripts/components/auth/services/sessions.service.js\"></script>",
+			"<script src=\"scripts/components/auth/services/account.service.js\"></script>",
+			"<script src=\"scripts/components/auth/services/account.service.js\"></script>\n<script src=\"scripts/components/auth/services/activate.service.js\"></script>\n<script src=\"scripts/components/auth/services/password.service.js\"></script>\n<script src=\"scripts/components/auth/services/register.service.js\"></script>\n<script src=\"scripts/components/auth/services/sessions.service.js\"></script>",
+			"<script src=\"scripts/components/auth/services/account.service.js\"></script>\n<script src=\"scripts/components/auth/services/activate.service.js\"></script>\n<script src=\"scripts/components/auth/services/password.service.js\"></script>\n<script src=\"scripts/components/auth/services/register.service.js\"></script>\n<script src=\"scripts/components/auth/services/sessions.service.js\"></script>\n",
+			"<script src=\"scripts/components/auth/services/account.service.js\"></script>\n<script src=\"scripts/components/auth/services/activate.service.js\"></script>\n<script src=\"scripts/components/auth/services/password.service.js\"></script>\n<script src=\"scripts/components/auth/services/register.service.js\"></script>\n<script src=\"scripts/components/auth/services/sessions.service.js\"></script>\n<script src=\"scripts/components/auth/provider/auth.session.service.js\"></script>\n<script src=\"scripts/components/tiles/tiles.directive.js\"></script>\n<script src=\"scripts/components/autofocus/autofocus.directive.js\"></script>\n<script src=\"scripts/components/tiles/tiles.service.js\"></script>\n<script src=\"scripts/components/D3/d3.service.js\"></script>\n<script src=\"scripts/components/D3/diagram.service.js\"></script>\n<script src=\"scripts/components/D3/linechart/linechart.directive.js\"></script>\n<script src=\"scripts/components/D3/realtimelinechart/realtimelinechart.directive.js\"></script>\n<script src=\"scripts/components/D3/plotlinechart/plotlinechart.directive.js\"></script>\n<script src=\"scripts/components/D3/plotchart/plotchart.directive.js\"></script>\n<script src=\"scripts/components/D3/piechart/piechart.directive.js\"></script>\n<script src=\"scripts/components/D3/horizontalbarchart/horizontalbarchart.directive.js\"></script>\n<script src=\"scripts/components/D3/horizontalmultibarchart/horizontalmultibarchart.directive.js\"></script>\n<script src=\"scripts/components/D3/barchart/barchart.directive.js\"></script>\n<script src=\"scripts/components/D3/everythingchart/everythingchart.directive.js\"></script>\n<script src=\"scripts/components/D3/sparkline/sparkline.directive.js\"></script>\n<script src=\"scripts/components/table/table.directive.js\"></script>\n<script src=\"scripts/components/table/table.service.js\"></script>\n<script src=\"scripts/components/table/templates/table.content.js\"></script>",
+			"pt src=\"scripts/components/auth/services/account.service.js\"></script>\n<script src=\"scripts/components/auth/services/activate.service.js\"></script>\n<script src=\"scripts/components/auth/services/password.service.js\"></script>\n<script src=\"scripts/components/auth/services/register.service.js\"></script>\n<script src=\"scripts/components/auth/services/sessions.service.js\"></script>\n<script src=\"scripts/components/auth/provider/auth.session.service.js\"></script>\n<script src=\"scripts/components/tiles/tiles.directive.js\"></script>\n<script src=\"scripts/components/autofocus/autofocus.directive.js\"></script>\n<script src=\"scripts/components/tiles/tiles.service.js\"></script>\n<script src=\"scripts/components/D3/d3.service.js\"></script>\n<script src=\"scripts/components/D3/diagram.service.js\"></script>\n<script src=\"scripts/components/D3/linechart/linechart.directive.js\"></script>\n<script src=\"scripts/components/D3/realtimelinechart/realtimelinechart.directive.js\"></script>\n<script src=\"scripts/components/D3/plotlinechart/plotlinechart.directive.js\"></script>\n<script src=\"scripts/components/D3/plotchart/plotchart.directive.js\"></script>\n<script src=\"scripts/components/D3/piechart/piechart.directive.js\"></script>\n<script src=\"scripts/components/D3/horizontalbarchart/horizontalbarchart.directive.js\"></script>\n<script src=\"scripts/components/D3/horizontalmultibarchart/horizontalmultibarchart.directive.js\"></script>\n<script src=\"scripts/components/D3/barchart/barchart.directive.js\"></script>\n<script src=\"scripts/components/D3/everythingchart/everythingchart.directive.js\"></script>\n<script src=\"scripts/components/D3/sparkline/sparkline.directive.js\"></script>\n<script src=\"scripts/components/table/table.directive.js\"></script>",
+			"realtime",
+			"make_",
+			"createYAxis",
+			"ngoutclick",
+			"yScaleleft",
+			"selectedBlock",
+			"blockType",
+			">\n						</kpi>",
+			"></kpi>",
+			"console.log('heh')",
+			"gridResize",
+			"angular.element($window).on('resize'",
+			"gridApi",
+			"table-element",
+			"window",
+			"$scope",
+			"watch",
+			".hide",
+			"data",
+			"render(",
+			"render",
+			"firstload",
+			"yscale",
+			"xscale",
+			"call",
+			"d3.directive",
+			"console.log",
+			"label",
+			"toggle-group",
+			"\\n\" +",
+			"collapse",
+			"toggleExpression",
+			"toggle",
+			"getBreakdown",
+			"groupBreakdown",
+			"No data to display",
+			"No Data",
+			"getBreakdown",
+			"groupBreakdown",
+			"createBlock",
+			"$scope.editing = false;",
+			"$scope.editing",
+			"editing",
+			"selectExpression",
+			"$scope.selectedFilters",
+			"selectedFilters",
+			"$apply",
+			"event",
+			"titleX",
+			"name",
+			"togglePanel.toggle",
+			"console.log",
+			"r\"",
+			"cy",
+			"display",
+			"yScaleright",
+			"watch",
+			"data",
+			"selected",
+			"render",
+			"data",
+			"circle",
+			"run ",
+			"run",
+			"server",
+			"serve",
+			"selectedBlock",
+			"selectBlock",
+			"#gr-header",
+			"setStructure",
+			"selected",
+			"/analytics/customer",
+			"REMOVE",
+			"DELETE",
+			"DataFilters"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    }\n    h2 {\n        font-size: $base-h2-size;\n    }\n    h3 {",
+			"    h2 {\n        font-size: $base-h2-size;\n    }\n    h3 {",
+			"scope",
+			" resize=\"resize\"></kpi>",
+			"resize=\"resize\"></kpi>",
+			"",
+			"scope",
+			"",
+			"7000",
+			"//$scope.periodType",
+			"\"",
+			"",
+			"overflow-y:auto;",
+			"blocks.id",
+			"filter.id",
+			"QueryUtils",
+			"index",
+			"selectionIndex",
+			"queryGroup",
+			"queryObject",
+			"queryobject",
+			"subviews",
+			"uib-accordion",
+			"uib-accordion ",
+			"184px",
+			"expressions",
+			"expressions.",
+			"expressions",
+			"customerGroup.expressionContainer.expressionBlocks",
+			"customerGroup.",
+			"customerGroup ",
+			"customerGroup.",
+			"customerGroup",
+			"submitfail",
+			"customerSegments",
+			"$scope.customerSegments",
+			"selectedOptions",
+			"selectedBlock",
+			"expressionBlocks",
+			"customergroup.segmentBlocks",
+			"$granditude-pale-grey",
+			"formatX",
+			"type-x=\"secondPeriodType\"",
+			"ng-click=\"grid.appScope.editing()\"",
+			"\"editing()\"",
+			"spark-text",
+			"                    font-size: 48px;",
+			"                    font-size: 52px;",
+			"                .kpi-value {\n              min-height: 16px;",
+			"            .kpi-value {\n                line-height:1;\n                padding:0;",
+			"        .kpi-instance {\n            background: #fff;\n            height: 182px;",
+			"font-size: 46px;",
+			"intiger[i]",
+			".kpi-value {\n                margin-right: 5px;\n                float: left;",
+			"<div class=\"kpi-instance\" id=\"{{::uniqueId}}\" ng-if=\"uniqueId !== null\">",
+			"name=\"{{::uniqueId}}\"></kpi>",
+			"<div gr-tile  class='svg-container' id=\"{{::uniqueId}}\" ng-if=\"uniqueId !== null\">",
+			"$id",
+			"{{$index}}",
+			"{{::$index}}",
+			"{{$id}}",
+			"{{$index}}",
+			"{{$id}}",
+			"svgContainer",
+			"namei",
+			"name",
+			"duration(500)",
+			"duration(1000)",
+			"            margin-bottom: 8px;\n            margin-left: 8px;\n            padding:8px;",
+			"padding:8px;",
+			"                    font-size: 48px;",
+			"            height: 182px;",
+			"            margin-bottom: 8px;\n            margin-left: 8px;",
+			"            height: 181px;",
+			"            height: 161px;",
+			"        height: 372px;",
+			"id=\"customer-groups\"",
+			"textHighlight",
+			"duration(1000)",
+			"zValue[i]",
+			"Value",
+			"yAxisLeft",
+			"data",
+			"$scope.tabledata",
+			"Stay",
+			"Cancel",
+			"modals[$scope.tableType]",
+			"colDefintion",
+			"Address",
+			"text-field",
+			"existingSelection",
+			"$previousStep",
+			"$nextStep",
+			"pill",
+			"create-group",
+			"creater-group",
+			"btn-remove ",
+			"<option value='' class=\"selected\">",
+			"        <div class='col-lg-3 col-md-3   button-holder'>\n          <button class='btn btn-drop push-down'",
+			"Got data",
+			"        background-color: $granditude-complementary;\n        border: 2px solid $granditude-complementary;",
+			"        border: 2px solid $granditude-complementary;",
+			"        &:focus {\n            border: 2px solid $granditude-secondary;",
+			"        &:focus {\n            color: $granditude-secondary;",
+			"$granditude-complementary;",
+			"$granditude-complementary",
+			"        margin-top: 32px;",
+			"\n                <img src=\"/assets/img/main/screen-app-diagram.jpg\" alt=\"App Diagram Image\">",
+			"      i{\n        color:$granditude-complementary;\n      }",
+			" \n        #custom {\n            @include background-image(url(\"../img/backgrounds/app-customers-filter.jpg\"));\n        }",
+			" \n       	#ecom {\n            @include background-image(url(\"../img/backgrounds/app-price-filter.jpg\"));\n        }",
+			"consulting",
+			"",
+			"        .col-md-6 {\n            padding-left: 0;\n            padding-right:0;\n            margin-left: 0;\n            margin-right: 0;\n        }",
+			"        .col-md-6 {\n            padding-left: 0;\n            padding-right:0\n            margin-left: 0;\n            margin-right: 0;\n        }",
+			".info-page",
+			"md",
+			"content",
+			"            padding-top: 25vh;\n            padding-bottom:25vh;",
+			"nav-link ",
+			"bottom",
+			"Button",
+			"modalText",
+			"rowstored",
+			"modalservice",
+			"rowlist",
+			"value.",
+			"log"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/visualbear/Work/Fun/Web/Projects/visualbear/src/templates/pages/gallery_adhops.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 40.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "styleguide.typography.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "default.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2229,
+								2054
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 100.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/visualbear/Work/Fun/Web/Projects/visualbear/sass/base/_typography.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/visualbear/Work/Fun/Web/Projects/visualbear/sass/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								515,
+								515
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 838.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/visualbear/Work/Fun/Web/Projects/visualbear/sass/helpers/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 36.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 58.0
+	},
+	"output.find_results":
+	{
+		"height": 296.0
+	},
+	"output.git":
+	{
+		"height": 35.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 29.0
+	},
+	"pinned_build_system": "",
+	"project": "visualbear.sublime-project",
+	"replace":
+	{
+		"height": 216.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"readme.md",
+				"README.md"
+			],
+			[
+				"hibernate",
+				"hibernate.cfg.xml"
+			],
+			[
+				"querybuildte",
+				"src/main/webapp/scripts/app/views/querybuilder/dashboard/template/querybuilder.template.html"
+			],
+			[
+				"table.direc",
+				"src/main/webapp/scripts/components/table/table.directive.js"
+			],
+			[
+				"optimisation",
+				"src/main/webapp/scripts/app/views/marketing/optimisation/template/optimisation.html"
+			],
+			[
+				"table.dir",
+				"src/main/webapp/scripts/components/table/table.directive.js"
+			],
+			[
+				"linechart.dir",
+				"src/main/webapp/scripts/components/D3/linechart/linechart.directive.js"
+			],
+			[
+				"barchart",
+				"src/main/webapp/scripts/components/D3/barchart/barchart.directive.js"
+			],
+			[
+				"diagram.ser",
+				"src/main/webapp/scripts/components/D3/diagram.service.js"
+			],
+			[
+				"disagram.servi",
+				"docular_generated/sources/src/main/webapp/scripts/components/D3/diagram.service.js"
+			],
+			[
+				"linechart",
+				"src/main/webapp/scripts/components/D3/linechart/linechart.directive.js"
+			],
+			[
+				"optimisation.directive.js",
+				"src/main/webapp/scripts/app/views/marketing/optimisation/optimisation.directive.js"
+			],
+			[
+				"template/optimisation.html",
+				"src/main/webapp/scripts/app/views/marketing/optimisation/template/optimisation.html"
+			],
+			[
+				"optimisation.html",
+				"src/main/webapp/scripts/app/views/marketing/optimisation/optimisation.html"
+			],
+			[
+				"socialmedia.directive.js",
+				"src/main/webapp/scripts/app/views/marketing/socialmedia/socialmedia.directive.js"
+			],
+			[
+				"socialmedia.template.html",
+				"src/main/webapp/scripts/app/views/marketing/socialmedia/template/socialmedia.template.html"
+			],
+			[
+				"webanalytics.template.html",
+				"src/main/webapp/scripts/app/views/marketing/webanalytics/template/webanalytics.template.html"
+			],
+			[
+				"barchart.directive.js",
+				"src/main/webapp/scripts/components/D3/barchart/barchart.directive.js"
+			],
+			[
+				"diagram.service.js",
+				"src/main/webapp/scripts/components/D3/diagram.service.js"
+			],
+			[
+				"horizontalbarchart.directive.js",
+				"src/main/webapp/scripts/components/D3/horizontalbarchart/horizontalbarchart.directive.js"
+			],
+			[
+				"horizontalmultibarchart.directive.js",
+				"src/main/webapp/scripts/components/D3/horizontalmultibarchart/horizontalmultibarchart.directive.js"
+			],
+			[
+				"linechart.directive.js",
+				"src/main/webapp/scripts/components/D3/linechart/linechart.directive.js"
+			],
+			[
+				"plotchart.directive.js",
+				"src/main/webapp/scripts/components/D3/plotchart/plotchart.directive.js"
+			],
+			[
+				"plotlinechart.directive.js",
+				"src/main/webapp/scripts/components/D3/plotlinechart/plotlinechart.directive.js"
+			],
+			[
+				"priceanalyticslistnewhandler.java",
+				"src/main/java/se/granditude/grandapp/web/rest/handlers/instances/PriceAnalyticsListNewHandler.java"
+			],
+			[
+				"salesvsprice.java",
+				"src/main/java/se/granditude/grandapp/web/rest/handlers/instances/SalesVSPrice.java"
+			],
+			[
+				"setpricecalculationhandler.java",
+				"src/main/java/se/granditude/grandapp/web/rest/handlers/instances/SetPriceCalculationHandler.java"
+			],
+			[
+				"twitterfeed.java",
+				"src/main/java/se/granditude/grandapp/web/rest/handlers/instances/TwitterFeed.java"
+			],
+			[
+				"productcompetitorscd.java",
+				"src/main/java/se/granditude/grandapp/domain/ProductCompetitorScd.java"
+			],
+			[
+				"pom",
+				"grandapp/pom.xml"
+			],
+			[
+				"salesvs",
+				"grandapp/src/main/java/se/granditude/grandapp/web/rest/handlers/instances/SalesVSPrice.java"
+			],
+			[
+				"salesvsprice",
+				"grandapp/src/main/java/se/granditude/grandapp/web/rest/dto/SalesVSPriceDTO.java"
+			],
+			[
+				"pom.",
+				"grandapp/pom.xml"
+			],
+			[
+				"hiberna",
+				"grandapp/config/hibernate-ecommerce.cfg.xml"
+			],
+			[
+				"plotlie",
+				"grandapp/src/main/webapp/scripts/components/D3/plotlinechart/plotlinechart.directive.js"
+			],
+			[
+				"plotline",
+				"grandapp/src/main/webapp/scripts/components/D3/plotlinechart/plotlinechart.directive.js"
+			],
+			[
+				"plotchar",
+				"grandapp/src/main/webapp/scripts/components/D3/plotchart/plotchart.directive.js"
+			],
+			[
+				"sales.templtat",
+				"grandapp/src/main/webapp/scripts/app/views/finance/sales/template/sales.template.html"
+			],
+			[
+				"hiber",
+				"grandapp/hibernate.cfg.xml"
+			],
+			[
+				"header.remp",
+				"grandapp/src/main/webapp/scripts/components/header/template/header.template.html"
+			],
+			[
+				"logo",
+				"grandapp/src/main/webapp/assets/images/logo_G.svg"
+			],
+			[
+				"hib",
+				"grandapp/hibernate.cfg.xml"
+			],
+			[
+				"linechart.",
+				"grandapp/src/main/webapp/scripts/components/D3/linechart/linechart.directive.js"
+			],
+			[
+				"horizontalmulti",
+				"grandapp/src/main/webapp/scripts/components/D3/horizontalmultibarchart/horizontalmultibarchart.directive.js"
+			],
+			[
+				"plotchart",
+				"grandapp/src/main/webapp/scripts/components/D3/plotchart/plotchart.directive.js"
+			],
+			[
+				"customerlifetimevalue.java",
+				"grandapp/src/main/java/se/granditude/grandapp/web/rest/handlers/instances/CustomerLifetimeValue.java"
+			],
+			[
+				"socialmediadi",
+				"grandapp/src/main/webapp/scripts/app/views/marketing/socialmedia/socialmedia.directive.js"
+			],
+			[
+				"queryblock.template.html",
+				"grandapp/src/main/webapp/scripts/components/querycreator/templates/queryblock.template.html"
+			],
+			[
+				"linecha",
+				"grandapp/src/main/webapp/scripts/components/D3/linechart/linechart.directive.js"
+			],
+			[
+				"",
+				"grandapp/src/main/webapp/scripts/app/views/marketing/customers/create-group/create-group.directive.js"
+			],
+			[
+				"plotchart.dir",
+				"grandapp/src/main/webapp/scripts/components/D3/plotchart/plotchart.directive.js"
+			],
+			[
+				"marketing",
+				"grandapp/src/main/webapp/scripts/app/views/marketing/dashboards/template/marketing.template.html"
+			],
+			[
+				"handler",
+				"src/main/java/se/granditude/grandapp/web/rest/handlers/HandlerConstants.java"
+			],
+			[
+				"webanal",
+				"src/main/webapp/scripts/app/views/marketing/webanalytics/webanalytics.directive.js"
+			],
+			[
+				"horizontalmultibar",
+				"src/main/webapp/scripts/components/D3/horizontalmultibarchart/horizontalmultibarchart.directive.js"
+			],
+			[
+				"optimis",
+				"src/main/webapp/scripts/app/views/marketing/optimisation/optimisation.directive.js"
+			],
+			[
+				"dataut",
+				"src/main/webapp/scripts/components/util/datautils/datautils.service.js"
+			],
+			[
+				"handlesconst",
+				"src/main/java/se/granditude/grandapp/web/rest/handlers/HandlerConstants.java"
+			],
+			[
+				"modalserice",
+				"src/main/webapp/scripts/components/generalmodal/generalmodal.service.js"
+			],
+			[
+				"index.html",
+				"src/main/webapp/index.html"
+			],
+			[
+				"dataf",
+				"src/main/webapp/scripts/components/datafilters/datafilters.directive.js"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"filterblock",
+				"src/main/webapp/scripts/components/querycreator/templates/filterblock.template.html"
+			],
+			[
+				"header.template",
+				"src/main/webapp/scripts/components/navbar/template/header.template.html"
+			],
+			[
+				"header.te",
+				"src/main/webapp/scripts/components/header/template/header.template.html"
+			],
+			[
+				"header",
+				"src/main/webapp/scripts/components/header/header.html"
+			],
+			[
+				"index",
+				"docular_generated/index.html"
+			],
+			[
+				"linechart.js",
+				"src/main/webapp/scripts/components/D3/linechart/linechart.directive.js"
+			],
+			[
+				"weba",
+				"src/main/webapp/scripts/app/views/marketing/webanalytics/webanalytics.html"
+			],
+			[
+				"sparkli",
+				"src/main/webapp/scripts/components/D3/sparkline/sparkline.directive.js"
+			],
+			[
+				"horizontalm",
+				"src/main/webapp/scripts/components/D3/horizontalmultibarchart/horizontalmultibarchart.directive.js"
+			],
+			[
+				"horizonta.js",
+				"src/main/webapp/scripts/components/D3/horizontalbarchart/horizontalbarchart.directive.js"
+			],
+			[
+				"plotchart.js",
+				"src/main/webapp/scripts/components/D3/plotchart/plotchart.directive.js"
+			],
+			[
+				"create-gr",
+				"src/main/webapp/scripts/app/views/marketing/customers/create-group/create-group.directive.js"
+			],
+			[
+				"ceate-g",
+				"src/main/webapp/scripts/app/views/marketing/customers/create-group/template/create-group.template.html"
+			],
+			[
+				"filter.templa",
+				"src/main/webapp/scripts/components/querycreator/templates/filterblock.template.html"
+			],
+			[
+				"createcustomer",
+				"src/main/java/se/granditude/grandapp/web/rest/creators/CreateCustomerGroup.java"
+			],
+			[
+				"websocketconfig.java",
+				"src/main/java/se/granditude/grandapp/web/rest/websockets/config/WebSocketConfig.java"
+			],
+			[
+				"exportexceldto.java",
+				"src/main/java/se/granditude/grandapp/web/rest/dto/ExportExcelDTO.java"
+			],
+			[
+				"filterbk",
+				"src/main/webapp/scripts/components/datafilters/templates/filterblock.templates.html"
+			],
+			[
+				"header.dir",
+				"src/main/webapp/scripts/components/header/header.directive.js"
+			],
+			[
+				"expressionvaluesfilter.java",
+				"src/main/java/se/granditude/grandapp/web/rest/handlers/instances/ExpressionValuesFilter.java"
+			],
+			[
+				"crmhandler",
+				"src/main/java/se/granditude/grandapp/web/rest/handlers/instances/CRMHandler.java"
+			],
+			[
+				"font-awesome.scss",
+				"src/main/webapp/bower_components/fontawesome/scss/font-awesome.scss"
+			],
+			[
+				"everything",
+				"target/grandapp-0.0.1-SNAPSHOT/scripts/components/D3/everythingchart/everythingchart.directive.js"
+			],
+			[
+				"app",
+				"target/classes/config/application-dev.yml"
+			],
+			[
+				"applo",
+				"target/classes/config/application-dev.yml"
+			],
+			[
+				"applica",
+				"target/classes/config/application-dev.yml"
+			],
+			[
+				"appli",
+				"target/classes/config/application-dev.yml"
+			],
+			[
+				"dash.service",
+				"src/main/webapp/scripts/app/views/dash.service.js"
+			],
+			[
+				"handlerconstants",
+				"src/main/java/se/granditude/grandapp/web/rest/handlers/HandlerConstants.java"
+			],
+			[
+				"newcustomers.java",
+				"src/main/java/se/granditude/grandapp/web/rest/handlers/instances/NewCustomers.java"
+			],
+			[
+				"name..",
+				"src/main/webapp/scripts/app/views/marketing/campaign/createcampaign/template/formsteps/name.type.html"
+			],
+			[
+				"summary",
+				"src/main/webapp/scripts/app/views/marketing/campaign/createcampaign/template/formsteps/summary.final.html"
+			],
+			[
+				"variables.scss",
+				"src/main/webapp/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss"
+			],
+			[
+				"pagination.html",
+				"src/main/webapp/scripts/components/form/pagination.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
