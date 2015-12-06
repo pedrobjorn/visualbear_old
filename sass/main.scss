@@ -6,24 +6,24 @@
 @import "compass/utilities";
 
 //Helpers
-@import "helpers/variables.scss";
-@import "helpers/mixins.scss";
+@import "utilities/variables";
+@import "utilities/mixins";
+@import "utilities/grid";
 
 //Base
-@import "base/base";
-@import "base/typography";
-@import "base/icons";
+@import "atoms/base";
+@import "atoms/typography";
+@import "atoms/icons";
+@import "atoms/buttons";
 
 //Components
-@import "components/d3";
-@import "components/buttons";
-@import "components/forms";
+@import "molecules/forms";
+@import "molecules/d3";
 
 //layout
-@import "layout/grid";
-@import "layout/nav";
-@import "layout/footer";
+@import "organisms/nav";
+@import "organisms/footer";
 
 //Pages
-@import "pages/gallery";
-@import "pages/pages";
+@import "templates/gallery";
+@import "templates/pages";
