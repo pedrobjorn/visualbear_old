@@ -1,20 +1,15 @@
 .section#jumbo {
     background-color: $vb-grey;
+    color: $vb-light;
 }
 
-.section#about {
+.section {
     background-color: $vb-light;
     color: $vb-grey;
     .emphasis {
         color: $vb-grey;
     }
 }
-
-.section#contact {
-    background-color: $vb-light;
-    color: $vb-grey;
-}
-
 
 #barbus_container {
     color: $vb-grey;

@@ -6,14 +6,12 @@ footer {
     font-size: 8px;
 }
 
-section.foot {
+.foot {
     background-color: $vb-grey;
     color: $vb-light;
 }
 
 footer {
-    background-color: $vb-grey;
-    color: $vb-light;
     position: relative;
     bottom: 0;
     width: 100%;
@@ -23,33 +21,34 @@ footer {
         margin: 0;
     }
 }
-    .social {
-        padding:16px 0 64px 0;
-       img {
-            width: 48px;
-        }
-        width: 144px;
-        margin: auto;
-        .icon {
-            float: left;
-            width: auto;
-            &:hover,
-            &:focus{
-               opacity:0.5;
-            }
+
+.social {
+    padding: 16px 0 64px 0;
+    img {
+        width: 48px;
+    }
+    width: 144px;
+    margin: auto;
+    .icon {
+        float: left;
+        width: auto;
+        &:hover,
+        &:focus {
+            opacity: 0.5;
         }
     }
+}
 
 //>1200px
 @media (min-width: $break-large) {
     .foot {
-        border-top: solid 32px $vb-grey ;
+        border-top: solid 32px $vb-grey;
     }
     .bottom {
         text-align: left;
         height: auto;
         padding: 32px;
-        background-color: $vb-grey ;
+        background-color: $vb-grey;
         font-size: 18px;
         .contact-info {
             width: auto;
@@ -60,7 +59,7 @@ footer {
     }
     .footer-text {
         display: block;
-        background-color: $vb-grey ;
+        background-color: $vb-grey;
         height: 100%;
         padding: 16px;
         margin: 32px 0;
@@ -70,13 +69,13 @@ footer {
 //1200px< & >767px
 @media (max-width: $break-large) and (min-width: $break-medium) {
     .foot {
-        border-top: solid 16px $vb-grey ;
+        border-top: solid 16px $vb-grey;
     }
     .bottom {
         text-align: left;
         height: auto;
         padding: 32px;
-        background-color:$vb-grey ;
+        background-color: $vb-grey;
         font-size: 16px;
         li {
             line-height: 2em;
@@ -84,7 +83,7 @@ footer {
     }
     .footer-text {
         display: block;
-        background-color:$vb-grey ;
+        background-color: $vb-grey;
         height: 100%;
     }
 }
@@ -92,27 +91,27 @@ footer {
 //767px< & >480px
 @media (max-width: $break-medium) and (min-width: $break-small) {
     .foot {
-        border-top: solid 16px$vb-grey ;
+        border-top: solid 16px $vb-grey;
     }
     .footer-text {
-        font-size:16px;
+        font-size: 16px;
         display: block;
-        background-color:$vb-grey ;
+        background-color: $vb-grey;
     }
 }
 
 //480px< & >320px
 @media (max-width: $break-small) and (min-width: $break-tiny) {
     .foot {
-        border-top: solid 16px $vb-grey ;
+        border-top: solid 16px $vb-grey;
     }
-        font-size:16px;
+    font-size: 16px;
 }
 
 //320px<
 @media (max-width: $break-tiny) {
     .foot {
-        border-top: solid 16px $vb-grey ;
+        border-top: solid 16px $vb-grey;
     }
-        font-size:16px;
+    font-size: 16px;
 }
