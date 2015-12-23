@@ -14,13 +14,15 @@ li {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #fcfcfc;
+    background: $vb-selection;
+    color:$vb-light;
     background-color: none;
 }
 
 ::selection {
     text-shadow: none;
-    background: #fcfcfc;
+    background:$vb-selection;
+    color:$vb-light;
     background-color: none;
 }
 

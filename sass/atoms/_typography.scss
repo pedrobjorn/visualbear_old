@@ -66,6 +66,10 @@ nav.offcanvas {
     color: #fff;
 }
 
+.text-container{
+
+}
+
 li#center-justified {
     text-align: center;
 }
@@ -134,8 +138,8 @@ i{
     .semi-bold {
         font-weight: $semi-bold;
     }
-    .text-block {
-        padding: 16px;
+      .text-block {
+        padding: 32px 0;
     }
     .header-block {
         .subtitle {
@@ -190,7 +194,7 @@ i{
         font-weight: $semi-bold;
     }
     .text-block {
-        padding: 16px;
+        padding: 32px 0;
     }
     .subtitle {
         font-weight: $light;
@@ -243,7 +247,7 @@ i{
         font-weight: $semi-bold;
     }
     .text-block {
-        padding: 16px;
+        padding: 32px 0;
     }
     .subtitle {
         font-weight: $light;
@@ -297,7 +301,7 @@ i{
         font-weight: $semi-bold;
     }
     .text-block {
-        padding: 16px;
+        padding: 16px 0;
     }
     .subtitle {
         font-weight: $light;
@@ -352,7 +356,7 @@ i{
         font-weight: $semi-bold;
     }
     .text-block {
-        padding: 8px;
+        padding: 16px 0;
     }
     .subtitle {
         font-weight: $light;
@@ -405,7 +409,7 @@ i{
         font-weight: $semi-bold;
     }
     .text-block {
-        padding: 8px;
+        padding: 16px 0;
     }
     .subtitle {
         font-weight: $light;
@@ -458,7 +462,7 @@ i{
         font-weight: $semi-bold;
     }
     .text-block {
-        padding: 8px;
+        padding: 16px 0;
     }
     .subtitle {
         font-weight: $light;
