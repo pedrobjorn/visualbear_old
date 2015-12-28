@@ -11,6 +11,13 @@ footer {
     color: $vb-light;
 }
 
+blockquote .small:before, blockquote footer:before, blockquote small:before {
+    content: "";
+    :before {
+        content: "";
+    }
+}
+
 footer {
     position: relative;
     bottom: 0;
