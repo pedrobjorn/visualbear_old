@@ -39,25 +39,35 @@ form {
     display: none;
 }
 
-.form-control{
+.form-control {
     @include border-radius(0);
-    height:48px;
-    font-size:24px;
+    height: 48px;
+    font-size: 24px;
 }
 
-.alert{
+.label {
+    opacity: 0.8;
+    cursor: pointer;
+    &:hover {
+        opacity: 1;
+    }
+}
+
+.alert {
     @include border-radius(0);
 }
-.alert-error{
+
+.alert-error {
     background-color: #eac7c6;
-    color:#ba4845;
+    color: #ba4845;
 }
+
 .checkbox input[type=checkbox],
 .checkbox-inline input[type=checkbox],
 .radio input[type=radio],
-.radio-inline input[type=radio]{
-    position:relative;
-    margin-right:4px;
+.radio-inline input[type=radio] {
+    position: relative;
+    margin-right: 4px;
 }
 
 textarea:focus,
