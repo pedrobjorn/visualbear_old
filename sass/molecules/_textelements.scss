@@ -1,0 +1,17 @@
+@import "utilities/variables";
+@import "utilities/mixins";
+
+blockquote{
+    border-left: 4px solid $vb-grey;
+    padding-left: 16px;
+  footer{
+        padding:0;
+        height:auto;
+  }
+}
+
+.label{
+  @include border-radius(0);
+font-family:$vb-body-font-family;
+font-weight:200;
+}

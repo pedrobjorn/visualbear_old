@@ -39,6 +39,27 @@ form {
     display: none;
 }
 
+.form-control{
+    @include border-radius(0);
+    height:48px;
+    font-size:24px;
+}
+
+.alert{
+    @include border-radius(0);
+}
+.alert-error{
+    background-color: #eac7c6;
+    color:#ba4845;
+}
+.checkbox input[type=checkbox],
+.checkbox-inline input[type=checkbox],
+.radio input[type=radio],
+.radio-inline input[type=radio]{
+    position:relative;
+    margin-right:4px;
+}
+
 textarea:focus,
 input[type="text"]:focus,
 input[type="password"]:focus,
@@ -109,7 +130,7 @@ input[type="color"],
     margin-top: 0;
     background-color: $vb-light;
     //background: transparent url(http://s24.postimg.org/62v2ipx81/underline.png) repeat;
-    resize: none;
+    resize: vertical;
     border: solid 1px $vb-grey;
     opacity: 0.75;
     &:focus {

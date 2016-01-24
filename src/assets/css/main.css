@@ -11432,7 +11432,7 @@ button.close {
   content: "";
 }
 
-/* line 5, ../../../../../../../../.rvm/gems/ruby-2.0.0-p598/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+/* line 5, C:\Ruby193\lib\ruby\gems\1.9.1\gems\compass-core-1.0.3\stylesheets\compass\reset\_utilities.scss */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -11454,45 +11454,45 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-/* line 22, ../../../../../../../../.rvm/gems/ruby-2.0.0-p598/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+/* line 22, C:\Ruby193\lib\ruby\gems\1.9.1\gems\compass-core-1.0.3\stylesheets\compass\reset\_utilities.scss */
 html {
   line-height: 1;
 }
 
-/* line 24, ../../../../../../../../.rvm/gems/ruby-2.0.0-p598/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+/* line 24, C:\Ruby193\lib\ruby\gems\1.9.1\gems\compass-core-1.0.3\stylesheets\compass\reset\_utilities.scss */
 ol, ul {
   list-style: none;
 }
 
-/* line 26, ../../../../../../../../.rvm/gems/ruby-2.0.0-p598/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+/* line 26, C:\Ruby193\lib\ruby\gems\1.9.1\gems\compass-core-1.0.3\stylesheets\compass\reset\_utilities.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 28, ../../../../../../../../.rvm/gems/ruby-2.0.0-p598/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+/* line 28, C:\Ruby193\lib\ruby\gems\1.9.1\gems\compass-core-1.0.3\stylesheets\compass\reset\_utilities.scss */
 caption, th, td {
   text-align: left;
   font-weight: normal;
   vertical-align: middle;
 }
 
-/* line 30, ../../../../../../../../.rvm/gems/ruby-2.0.0-p598/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+/* line 30, C:\Ruby193\lib\ruby\gems\1.9.1\gems\compass-core-1.0.3\stylesheets\compass\reset\_utilities.scss */
 q, blockquote {
   quotes: none;
 }
-/* line 103, ../../../../../../../../.rvm/gems/ruby-2.0.0-p598/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+/* line 103, C:\Ruby193\lib\ruby\gems\1.9.1\gems\compass-core-1.0.3\stylesheets\compass\reset\_utilities.scss */
 q:before, q:after, blockquote:before, blockquote:after {
   content: "";
   content: none;
 }
 
-/* line 32, ../../../../../../../../.rvm/gems/ruby-2.0.0-p598/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+/* line 32, C:\Ruby193\lib\ruby\gems\1.9.1\gems\compass-core-1.0.3\stylesheets\compass\reset\_utilities.scss */
 a img {
   border: none;
 }
 
-/* line 116, ../../../../../../../../.rvm/gems/ruby-2.0.0-p598/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+/* line 116, C:\Ruby193\lib\ruby\gems\1.9.1\gems\compass-core-1.0.3\stylesheets\compass\reset\_utilities.scss */
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
   display: block;
 }
@@ -13136,6 +13136,39 @@ form input, form textarea {
 }
 
 /* line 42, ../../../sass/molecules/_forms.scss */
+.form-control {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -ms-border-radius: 0;
+  border-radius: 0;
+  height: 48px;
+  font-size: 24px;
+}
+
+/* line 48, ../../../sass/molecules/_forms.scss */
+.alert {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -ms-border-radius: 0;
+  border-radius: 0;
+}
+
+/* line 51, ../../../sass/molecules/_forms.scss */
+.alert-error {
+  background-color: #eac7c6;
+  color: #ba4845;
+}
+
+/* line 55, ../../../sass/molecules/_forms.scss */
+.checkbox input[type=checkbox],
+.checkbox-inline input[type=checkbox],
+.radio input[type=radio],
+.radio-inline input[type=radio] {
+  position: relative;
+  margin-right: 4px;
+}
+
+/* line 63, ../../../sass/molecules/_forms.scss */
 textarea:focus,
 input[type="text"]:focus,
 input[type="password"]:focus,
@@ -13159,7 +13192,7 @@ input[type="color"]:focus,
   opacity: 1;
 }
 
-/* line 65, ../../../sass/molecules/_forms.scss */
+/* line 86, ../../../sass/molecules/_forms.scss */
 textarea,
 input[type="text"],
 input[type="password"],
@@ -13182,7 +13215,7 @@ input[type="color"],
   opacity: 0.75;
 }
 
-/* line 87, ../../../sass/molecules/_forms.scss */
+/* line 108, ../../../sass/molecules/_forms.scss */
 .form-input {
   width: 100%;
   padding: 6px 8px;
@@ -13193,14 +13226,14 @@ input[type="color"],
   background-color: #ebf5ff;
 }
 
-/* line 97, ../../../sass/molecules/_forms.scss */
+/* line 118, ../../../sass/molecules/_forms.scss */
 .parsley-required, .parsley-errors-list {
   font-size: 24px;
   color: #ff0033;
   font-weight: 500;
 }
 
-/* line 103, ../../../sass/molecules/_forms.scss */
+/* line 124, ../../../sass/molecules/_forms.scss */
 .form-text {
   width: 100%;
   padding: 6px 8px;
@@ -13209,11 +13242,11 @@ input[type="color"],
   list-style-position: outside;
   margin-top: 0;
   background-color: #ebf5ff;
-  resize: none;
+  resize: vertical;
   border: solid 1px #39393D;
   opacity: 0.75;
 }
-/* line 115, ../../../sass/molecules/_forms.scss */
+/* line 136, ../../../sass/molecules/_forms.scss */
 .form-text:focus {
   color: #39393D;
   border: solid 1px #39393D;
@@ -13222,223 +13255,223 @@ input[type="color"],
   opacity: 1;
 }
 
-/* line 124, ../../../sass/molecules/_forms.scss */
+/* line 145, ../../../sass/molecules/_forms.scss */
 #contact-text li {
   padding-top: 16px;
   position: relative;
 }
-/* line 127, ../../../sass/molecules/_forms.scss */
+/* line 148, ../../../sass/molecules/_forms.scss */
 #contact-text li:last-child {
   padding-top: 4px;
 }
 
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 156, ../../../sass/molecules/_forms.scss */
+  /* line 177, ../../../sass/molecules/_forms.scss */
   #contact-text {
     margin: auto;
     width: 900px;
   }
 
-  /* line 161, ../../../sass/molecules/_forms.scss */
+  /* line 182, ../../../sass/molecules/_forms.scss */
   form .col-md-2, form .col-md-4, form .col-md-6, form .col-sm-6, form .col-md-8, form .col-md-10, form .col-md-12, form .col-md-8 {
     padding-left: 0;
     margin-left: 0;
   }
-  /* line 165, ../../../sass/molecules/_forms.scss */
+  /* line 186, ../../../sass/molecules/_forms.scss */
   form p {
     font-size: 32px;
     font-weight: 300px;
     padding-bottom: 4px;
   }
-  /* line 170, ../../../sass/molecules/_forms.scss */
+  /* line 191, ../../../sass/molecules/_forms.scss */
   form input, form textarea {
     font-size: 24px;
     font-weight: 300px;
     padding: 4px;
   }
-  /* line 175, ../../../sass/molecules/_forms.scss */
+  /* line 196, ../../../sass/molecules/_forms.scss */
   form input {
     height: 64px;
   }
-  /* line 178, ../../../sass/molecules/_forms.scss */
+  /* line 199, ../../../sass/molecules/_forms.scss */
   form textarea {
     height: 128px;
   }
 }
 @media (max-width: 1279px) and (min-width: 960px) {
-  /* line 185, ../../../sass/molecules/_forms.scss */
+  /* line 206, ../../../sass/molecules/_forms.scss */
   #contact-text {
     margin: auto;
     width: 768px;
   }
 
-  /* line 190, ../../../sass/molecules/_forms.scss */
+  /* line 211, ../../../sass/molecules/_forms.scss */
   form .col-md-2, form .col-md-4, form .col-md-6, form .col-sm-6, form .col-md-8, form .col-md-10, form .col-md-12, form .col-md-8 {
     padding-left: 0;
     margin-left: 0;
   }
-  /* line 194, ../../../sass/molecules/_forms.scss */
+  /* line 215, ../../../sass/molecules/_forms.scss */
   form p {
     font-size: 32px;
     font-weight: 300px;
     padding-bottom: 4px;
   }
-  /* line 199, ../../../sass/molecules/_forms.scss */
+  /* line 220, ../../../sass/molecules/_forms.scss */
   form input, form textarea {
     font-size: 24px;
     font-weight: 300px;
     padding: 4px;
   }
-  /* line 204, ../../../sass/molecules/_forms.scss */
+  /* line 225, ../../../sass/molecules/_forms.scss */
   form input {
     height: 64px;
   }
-  /* line 207, ../../../sass/molecules/_forms.scss */
+  /* line 228, ../../../sass/molecules/_forms.scss */
   form textarea {
     height: 128px;
   }
 }
 @media (max-width: 960px) and (min-width: 767px) {
-  /* line 216, ../../../sass/molecules/_forms.scss */
+  /* line 237, ../../../sass/molecules/_forms.scss */
   form .col-md-2, form .col-md-3, form .col-md-6, form .col-md-4, form .col-sm-6, form .col-md-8, form .col-md-10, form .col-md-12, form .col-md-8,
   form .col-xs-6, form .col-xs-8, form .col-xs-10 {
     padding-left: 0;
     margin-left: 0;
   }
-  /* line 221, ../../../sass/molecules/_forms.scss */
+  /* line 242, ../../../sass/molecules/_forms.scss */
   form p {
     font-size: 28px;
     font-weight: 300px;
     padding-bottom: 4px;
   }
-  /* line 226, ../../../sass/molecules/_forms.scss */
+  /* line 247, ../../../sass/molecules/_forms.scss */
   form input, form textarea {
     font-size: 18px;
     font-weight: 300px;
     padding: 4px;
   }
-  /* line 231, ../../../sass/molecules/_forms.scss */
+  /* line 252, ../../../sass/molecules/_forms.scss */
   form input {
     height: 64px;
   }
-  /* line 234, ../../../sass/molecules/_forms.scss */
+  /* line 255, ../../../sass/molecules/_forms.scss */
   form textarea {
     height: 128px;
   }
 }
 @media (max-width: 767px) and (min-width: 480px) {
-  /* line 243, ../../../sass/molecules/_forms.scss */
+  /* line 264, ../../../sass/molecules/_forms.scss */
   form .feedback {
     font-size: 18px;
     display: none;
   }
-  /* line 247, ../../../sass/molecules/_forms.scss */
+  /* line 268, ../../../sass/molecules/_forms.scss */
   form .parsley-required, form .parsley-errors-list {
     font-size: 16px;
     color: #ff0033;
     font-weight: 500;
   }
-  /* line 252, ../../../sass/molecules/_forms.scss */
+  /* line 273, ../../../sass/molecules/_forms.scss */
   form .col-md-2, form .col-md-3, form .col-md-6, form .col-md-4, form .col-sm-6, form .col-md-8, form .col-md-10, form .col-md-12, form .col-md-8,
   form .col-xs-6, form .col-xs-8, form .col-xs-10 {
     padding: 0;
     margin: 0;
   }
-  /* line 257, ../../../sass/molecules/_forms.scss */
+  /* line 278, ../../../sass/molecules/_forms.scss */
   form p {
     font-size: 28px;
     font-weight: 300px;
     padding-bottom: 4px;
   }
-  /* line 262, ../../../sass/molecules/_forms.scss */
+  /* line 283, ../../../sass/molecules/_forms.scss */
   form input, form textarea {
     font-size: 18px;
     font-weight: 300px;
     padding: 4px;
   }
-  /* line 267, ../../../sass/molecules/_forms.scss */
+  /* line 288, ../../../sass/molecules/_forms.scss */
   form input {
     height: 48px;
   }
-  /* line 270, ../../../sass/molecules/_forms.scss */
+  /* line 291, ../../../sass/molecules/_forms.scss */
   form textarea {
     height: 96px;
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 279, ../../../sass/molecules/_forms.scss */
+  /* line 300, ../../../sass/molecules/_forms.scss */
   form .feedback {
     font-size: 18px;
     display: none;
   }
-  /* line 283, ../../../sass/molecules/_forms.scss */
+  /* line 304, ../../../sass/molecules/_forms.scss */
   form .parsley-required, form .parsley-errors-list {
     font-size: 16px;
     color: #ff0033;
     font-weight: 500;
   }
-  /* line 288, ../../../sass/molecules/_forms.scss */
+  /* line 309, ../../../sass/molecules/_forms.scss */
   form .col-md-2, form .col-md-3, form .col-md-6, form .col-md-4, form .col-sm-6, form .col-md-8, form .col-md-10, form .col-md-12, form .col-md-8,
   form .col-xs-6, form .col-xs-8, form .col-xs-10 {
     padding: 0;
     margin: 0;
   }
-  /* line 293, ../../../sass/molecules/_forms.scss */
+  /* line 314, ../../../sass/molecules/_forms.scss */
   form p {
     font-size: 28px;
     font-weight: 300px;
     padding-bottom: 4px;
   }
-  /* line 298, ../../../sass/molecules/_forms.scss */
+  /* line 319, ../../../sass/molecules/_forms.scss */
   form input, form textarea {
     font-size: 18px;
     font-weight: 300px;
     padding: 4px;
   }
-  /* line 303, ../../../sass/molecules/_forms.scss */
+  /* line 324, ../../../sass/molecules/_forms.scss */
   form input {
     height: 48px;
   }
-  /* line 306, ../../../sass/molecules/_forms.scss */
+  /* line 327, ../../../sass/molecules/_forms.scss */
   form textarea {
     height: 96px;
   }
 }
 @media (max-width: 320px) {
-  /* line 315, ../../../sass/molecules/_forms.scss */
+  /* line 336, ../../../sass/molecules/_forms.scss */
   form .feedback {
     font-size: 18px;
     display: none;
   }
-  /* line 319, ../../../sass/molecules/_forms.scss */
+  /* line 340, ../../../sass/molecules/_forms.scss */
   form .parsley-required, form .parsley-errors-list {
     font-size: 16px;
     color: #ff0033;
     font-weight: 500;
   }
-  /* line 324, ../../../sass/molecules/_forms.scss */
+  /* line 345, ../../../sass/molecules/_forms.scss */
   form .col-md-2, form .col-md-3, form .col-md-6, form .col-md-4, form .col-sm-6, form .col-md-8, form .col-md-10, form .col-md-12, form .col-md-8,
   form .col-xs-6, form .col-xs-8, form .col-xs-10 {
     padding: 0;
     margin: 0;
   }
-  /* line 329, ../../../sass/molecules/_forms.scss */
+  /* line 350, ../../../sass/molecules/_forms.scss */
   form p {
     font-size: 26px;
     font-weight: 300px;
     padding-bottom: 4px;
   }
-  /* line 334, ../../../sass/molecules/_forms.scss */
+  /* line 355, ../../../sass/molecules/_forms.scss */
   form input, form textarea {
     font-size: 18px;
     font-weight: 300px;
     padding: 4px;
   }
-  /* line 339, ../../../sass/molecules/_forms.scss */
+  /* line 360, ../../../sass/molecules/_forms.scss */
   form input {
     height: 48px;
   }
-  /* line 342, ../../../sass/molecules/_forms.scss */
+  /* line 363, ../../../sass/molecules/_forms.scss */
   form textarea {
     height: 96px;
   }
@@ -13568,6 +13601,27 @@ body.diagram-body .main {
     text-transform: initial;
   }
 }
+/* line 4, ../../../sass/molecules/_textelements.scss */
+blockquote {
+  border-left: 4px solid #39393D;
+  padding-left: 16px;
+}
+/* line 7, ../../../sass/molecules/_textelements.scss */
+blockquote footer {
+  padding: 0;
+  height: auto;
+}
+
+/* line 13, ../../../sass/molecules/_textelements.scss */
+.label {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -ms-border-radius: 0;
+  border-radius: 0;
+  font-family: "Ubuntu", Arial, sans-serif;
+  font-weight: 200;
+}
+
 /* line 4, ../../../sass/organisms/_nav.scss */
 header,
 body,
