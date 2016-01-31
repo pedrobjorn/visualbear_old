@@ -29,7 +29,7 @@ section {
 .navmenu{
         overflow: none;
 }
-nav.offcanvas {
+nav.navmenu {
     overflow: none;
     z-index: 9999;
     width: 356px;
@@ -111,6 +111,8 @@ nav.offcanvas {
 }
 
 .navbar {
+    @include border-radius(0);
+    border:0;
     border-bottom: solid 4px $vb-primary;
     z-index: 9998;
     width: 100%;
@@ -136,7 +138,7 @@ nav.offcanvas {
 
 //>2500px
 // @media (min-width: $break-huge) {
-//     nav.offcanvas {
+//     nav.navmenu {
 //         li {
 //             font-size: $base-2k-size;
 //             font-weight: $light;
@@ -334,7 +336,7 @@ nav.offcanvas {
         width: 49px;
         padding: 9px;
     }
-    nav.offcanvas {
+    nav.navmenu {
         img {
             width: 48px;
         }
@@ -398,7 +400,7 @@ nav.offcanvas {
         width: 49px;
         padding: 9px;
     }
-    nav.offcanvas {
+    nav.navmenu {
         img {
             width: 48px;
         }

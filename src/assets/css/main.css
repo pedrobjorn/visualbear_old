@@ -13613,16 +13613,17 @@ body.diagram-body .main {
 }
 /* line 4, ../../../sass/molecules/_textelements.scss */
 blockquote {
+  font-style: italic;
   border-left: 4px solid #39393D;
   padding-left: 16px;
 }
-/* line 7, ../../../sass/molecules/_textelements.scss */
+/* line 8, ../../../sass/molecules/_textelements.scss */
 blockquote footer {
   padding: 0;
   height: auto;
 }
 
-/* line 13, ../../../sass/molecules/_textelements.scss */
+/* line 14, ../../../sass/molecules/_textelements.scss */
 .label {
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
@@ -13662,7 +13663,7 @@ section {
 }
 
 /* line 32, ../../../sass/organisms/_nav.scss */
-nav.offcanvas {
+nav.navmenu {
   overflow: none;
   z-index: 9999;
   width: 356px;
@@ -13671,7 +13672,7 @@ nav.offcanvas {
   color: #ebf5ff;
 }
 /* line 39, ../../../sass/organisms/_nav.scss */
-nav.offcanvas li {
+nav.navmenu li {
   padding: 16px 0;
   font-size: 1.5em;
   font-weight: 300;
@@ -13681,52 +13682,52 @@ nav.offcanvas li {
   border-right: 0px;
 }
 /* line 47, ../../../sass/organisms/_nav.scss */
-nav.offcanvas li:hover, nav.offcanvas li:focus {
+nav.navmenu li:hover, nav.navmenu li:focus {
   cursor: pointer;
   background-color: #ff0033;
 }
 /* line 53, ../../../sass/organisms/_nav.scss */
-nav.offcanvas a {
+nav.navmenu a {
   text-decoration: none;
   color: #ebf5ff;
 }
 /* line 57, ../../../sass/organisms/_nav.scss */
-nav.offcanvas #close {
+nav.navmenu #close {
   height: 64px;
   padding: 0 16px;
   background-color: #1C1C1C;
   color: #ebf5ff;
 }
 /* line 62, ../../../sass/organisms/_nav.scss */
-nav.offcanvas #close .fa-close {
+nav.navmenu #close .fa-close {
   font-size: 36px;
 }
 /* line 66, ../../../sass/organisms/_nav.scss */
-nav.offcanvas .social {
+nav.navmenu .social {
   padding: 32px 0;
   margin: auto;
 }
 /* line 67, ../../../sass/organisms/_nav.scss */
-nav.offcanvas .social a {
+nav.navmenu .social a {
   width: 48px;
   padding: 0;
   margin: 0;
 }
 /* line 71, ../../../sass/organisms/_nav.scss */
-nav.offcanvas .social a:hover, nav.offcanvas .social a:focus, nav.offcanvas .social a:active {
+nav.navmenu .social a:hover, nav.navmenu .social a:focus, nav.navmenu .social a:active {
   background-color: #39393D;
 }
 /* line 78, ../../../sass/organisms/_nav.scss */
-nav.offcanvas .social img {
+nav.navmenu .social img {
   width: 48px;
 }
 /* line 83, ../../../sass/organisms/_nav.scss */
-nav.offcanvas .social .icon {
+nav.navmenu .social .icon {
   float: left;
   width: auto;
 }
 /* line 86, ../../../sass/organisms/_nav.scss */
-nav.offcanvas .social .icon:hover, nav.offcanvas .social .icon:focus {
+nav.navmenu .social .icon:hover, nav.navmenu .social .icon:focus {
   opacity: 0.5;
 }
 
@@ -13755,6 +13756,11 @@ nav.offcanvas .social .icon:hover, nav.offcanvas .social .icon:focus {
 
 /* line 113, ../../../sass/organisms/_nav.scss */
 .navbar {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -ms-border-radius: 0;
+  border-radius: 0;
+  border: 0;
   border-bottom: solid 4px #ff0033;
   z-index: 9998;
   width: 100%;
@@ -13762,334 +13768,334 @@ nav.offcanvas .social .icon:hover, nav.offcanvas .social .icon:focus {
   padding: 0 8px;
   background-color: #39393D;
 }
-/* line 117, ../../../sass/organisms/_nav.scss */
+/* line 119, ../../../sass/organisms/_nav.scss */
 .navbar .fa-bars {
   font-size: 36px;
 }
-/* line 124, ../../../sass/organisms/_nav.scss */
+/* line 126, ../../../sass/organisms/_nav.scss */
 .navbar .dropdown-menu li:hover, .navbar .dropdown-menu li:focus {
   background-color: #ff0033;
   color: #ebf5ff;
 }
 
-/* line 132, ../../../sass/organisms/_nav.scss */
+/* line 134, ../../../sass/organisms/_nav.scss */
 .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
   background-color: #ff0033;
   color: #ebf5ff;
 }
 
 @media (min-width: 2400px) {
-  /* line 219, ../../../sass/organisms/_nav.scss */
+  /* line 221, ../../../sass/organisms/_nav.scss */
   ul#links {
     height: 90vh;
   }
 
-  /* line 222, ../../../sass/organisms/_nav.scss */
+  /* line 224, ../../../sass/organisms/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 
-  /* line 227, ../../../sass/organisms/_nav.scss */
+  /* line 229, ../../../sass/organisms/_nav.scss */
   .social {
     margin: auto;
   }
-  /* line 228, ../../../sass/organisms/_nav.scss */
+  /* line 230, ../../../sass/organisms/_nav.scss */
   .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 232, ../../../sass/organisms/_nav.scss */
+  /* line 234, ../../../sass/organisms/_nav.scss */
   .social a:hover, .social a:focus, .social a:active {
     background-color: #39393D;
   }
-  /* line 238, ../../../sass/organisms/_nav.scss */
+  /* line 240, ../../../sass/organisms/_nav.scss */
   .social img {
     width: 48px;
   }
-  /* line 243, ../../../sass/organisms/_nav.scss */
+  /* line 245, ../../../sass/organisms/_nav.scss */
   .social .icon {
     float: left;
     width: auto;
   }
-  /* line 246, ../../../sass/organisms/_nav.scss */
+  /* line 248, ../../../sass/organisms/_nav.scss */
   .social .icon:hover, .social .icon:focus {
     opacity: 0.5;
   }
 }
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 255, ../../../sass/organisms/_nav.scss */
+  /* line 257, ../../../sass/organisms/_nav.scss */
   ul#links {
     height: 90vh;
   }
 
-  /* line 258, ../../../sass/organisms/_nav.scss */
+  /* line 260, ../../../sass/organisms/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 
-  /* line 263, ../../../sass/organisms/_nav.scss */
+  /* line 265, ../../../sass/organisms/_nav.scss */
   .social {
     margin: auto;
   }
-  /* line 264, ../../../sass/organisms/_nav.scss */
+  /* line 266, ../../../sass/organisms/_nav.scss */
   .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 268, ../../../sass/organisms/_nav.scss */
+  /* line 270, ../../../sass/organisms/_nav.scss */
   .social a:hover, .social a:focus, .social a:active {
     background-color: #39393D;
   }
-  /* line 274, ../../../sass/organisms/_nav.scss */
+  /* line 276, ../../../sass/organisms/_nav.scss */
   .social img {
     width: 48px;
   }
-  /* line 279, ../../../sass/organisms/_nav.scss */
+  /* line 281, ../../../sass/organisms/_nav.scss */
   .social .icon {
     float: left;
     width: auto;
   }
-  /* line 282, ../../../sass/organisms/_nav.scss */
+  /* line 284, ../../../sass/organisms/_nav.scss */
   .social .icon:hover, .social .icon:focus {
     opacity: 0.5;
   }
 }
 @media (max-width: 1279px) and (min-width: 767px) {
-  /* line 292, ../../../sass/organisms/_nav.scss */
+  /* line 294, ../../../sass/organisms/_nav.scss */
   ul#links {
     height: 90vh;
   }
 
-  /* line 295, ../../../sass/organisms/_nav.scss */
+  /* line 297, ../../../sass/organisms/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 
-  /* line 300, ../../../sass/organisms/_nav.scss */
+  /* line 302, ../../../sass/organisms/_nav.scss */
   .social {
     margin: auto;
   }
-  /* line 301, ../../../sass/organisms/_nav.scss */
+  /* line 303, ../../../sass/organisms/_nav.scss */
   .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 305, ../../../sass/organisms/_nav.scss */
+  /* line 307, ../../../sass/organisms/_nav.scss */
   .social a:hover, .social a:focus, .social a:active {
     background-color: #39393D;
   }
-  /* line 311, ../../../sass/organisms/_nav.scss */
+  /* line 313, ../../../sass/organisms/_nav.scss */
   .social img {
     width: 48px;
   }
-  /* line 316, ../../../sass/organisms/_nav.scss */
+  /* line 318, ../../../sass/organisms/_nav.scss */
   .social .icon {
     float: left;
     width: auto;
   }
-  /* line 319, ../../../sass/organisms/_nav.scss */
+  /* line 321, ../../../sass/organisms/_nav.scss */
   .social .icon:hover, .social .icon:focus {
     opacity: 0.5;
   }
 }
 @media (max-width: 767px) and (min-width: 480px) {
-  /* line 329, ../../../sass/organisms/_nav.scss */
+  /* line 331, ../../../sass/organisms/_nav.scss */
   ul#links {
     height: 90vh;
   }
 
-  /* line 332, ../../../sass/organisms/_nav.scss */
+  /* line 334, ../../../sass/organisms/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 
-  /* line 337, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas {
+  /* line 339, ../../../sass/organisms/_nav.scss */
+  nav.navmenu {
     width: 100%;
     z-index: 9999;
     background-color: #1C1C1C;
     border: none;
   }
-  /* line 338, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas img {
+  /* line 340, ../../../sass/organisms/_nav.scss */
+  nav.navmenu img {
     width: 48px;
   }
-  /* line 341, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas li {
+  /* line 343, ../../../sass/organisms/_nav.scss */
+  nav.navmenu li {
     font-size: 1.2em;
     font-weight: 300;
     text-align: center;
   }
-  /* line 346, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas a {
+  /* line 348, ../../../sass/organisms/_nav.scss */
+  nav.navmenu a {
     text-decoration: none;
     color: #fff;
   }
-  /* line 350, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas #close {
+  /* line 352, ../../../sass/organisms/_nav.scss */
+  nav.navmenu #close {
     height: 64px;
     padding: 0 16px;
     background-color: #1C1C1C;
     color: #ebf5ff;
   }
-  /* line 355, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas #close .fa-close {
+  /* line 357, ../../../sass/organisms/_nav.scss */
+  nav.navmenu #close .fa-close {
     font-size: 36px;
   }
-  /* line 363, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas .social {
+  /* line 365, ../../../sass/organisms/_nav.scss */
+  nav.navmenu .social {
     margin: auto;
   }
-  /* line 364, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas .social a {
+  /* line 366, ../../../sass/organisms/_nav.scss */
+  nav.navmenu .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 368, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas .social a:hover, nav.offcanvas .social a:focus, nav.offcanvas .social a:active {
+  /* line 370, ../../../sass/organisms/_nav.scss */
+  nav.navmenu .social a:hover, nav.navmenu .social a:focus, nav.navmenu .social a:active {
     background-color: #39393D;
   }
-  /* line 376, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas .social .icon {
+  /* line 378, ../../../sass/organisms/_nav.scss */
+  nav.navmenu .social .icon {
     float: left;
     width: auto;
   }
-  /* line 378, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas .social .icon:last-child:after {
+  /* line 380, ../../../sass/organisms/_nav.scss */
+  nav.navmenu .social .icon:last-child:after {
     padding: 32px;
   }
 
-  /* line 385, ../../../sass/organisms/_nav.scss */
+  /* line 387, ../../../sass/organisms/_nav.scss */
   #links > a.active {
     background-color: #ff0033;
     color: #ebf5ff;
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 393, ../../../sass/organisms/_nav.scss */
+  /* line 395, ../../../sass/organisms/_nav.scss */
   ul#links {
     height: 84vh;
   }
 
-  /* line 396, ../../../sass/organisms/_nav.scss */
+  /* line 398, ../../../sass/organisms/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 
-  /* line 401, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas {
+  /* line 403, ../../../sass/organisms/_nav.scss */
+  nav.navmenu {
     width: 100%;
     z-index: 9999;
     background-color: #1C1C1C;
     border: none;
   }
-  /* line 402, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas img {
+  /* line 404, ../../../sass/organisms/_nav.scss */
+  nav.navmenu img {
     width: 48px;
   }
-  /* line 409, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas li {
+  /* line 411, ../../../sass/organisms/_nav.scss */
+  nav.navmenu li {
     font-size: 1.2em;
     font-weight: 300;
     text-align: center;
   }
-  /* line 414, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas a {
+  /* line 416, ../../../sass/organisms/_nav.scss */
+  nav.navmenu a {
     text-decoration: none;
     color: #fff;
   }
-  /* line 418, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas #close {
+  /* line 420, ../../../sass/organisms/_nav.scss */
+  nav.navmenu #close {
     height: 64px;
     padding: 0 16px;
     background-color: #1C1C1C;
   }
-  /* line 422, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas #close .fa-close {
+  /* line 424, ../../../sass/organisms/_nav.scss */
+  nav.navmenu #close .fa-close {
     font-size: 36px;
   }
-  /* line 426, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas .social {
+  /* line 428, ../../../sass/organisms/_nav.scss */
+  nav.navmenu .social {
     margin: auto;
   }
-  /* line 427, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas .social a {
+  /* line 429, ../../../sass/organisms/_nav.scss */
+  nav.navmenu .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 431, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas .social a:hover, nav.offcanvas .social a:focus, nav.offcanvas .social a:active {
+  /* line 433, ../../../sass/organisms/_nav.scss */
+  nav.navmenu .social a:hover, nav.navmenu .social a:focus, nav.navmenu .social a:active {
     background-color: #39393D;
   }
-  /* line 439, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas .social .icon {
+  /* line 441, ../../../sass/organisms/_nav.scss */
+  nav.navmenu .social .icon {
     float: left;
     width: auto;
   }
-  /* line 441, ../../../sass/organisms/_nav.scss */
-  nav.offcanvas .social .icon:last-child:after {
+  /* line 443, ../../../sass/organisms/_nav.scss */
+  nav.navmenu .social .icon:last-child:after {
     padding: 32px;
   }
 
-  /* line 448, ../../../sass/organisms/_nav.scss */
+  /* line 450, ../../../sass/organisms/_nav.scss */
   #links > a.active {
     background-color: #ff0033;
     color: #ebf5ff;
   }
 }
 @media (max-width: 320px) {
-  /* line 456, ../../../sass/organisms/_nav.scss */
+  /* line 458, ../../../sass/organisms/_nav.scss */
   ul#links {
     height: 85vh;
   }
 
-  /* line 459, ../../../sass/organisms/_nav.scss */
+  /* line 461, ../../../sass/organisms/_nav.scss */
   .social {
     margin: auto;
   }
-  /* line 460, ../../../sass/organisms/_nav.scss */
+  /* line 462, ../../../sass/organisms/_nav.scss */
   .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 464, ../../../sass/organisms/_nav.scss */
+  /* line 466, ../../../sass/organisms/_nav.scss */
   .social a:hover, .social a:focus, .social a:active {
     background-color: #39393D;
   }
-  /* line 470, ../../../sass/organisms/_nav.scss */
+  /* line 472, ../../../sass/organisms/_nav.scss */
   .social img {
     width: 48px;
   }
-  /* line 475, ../../../sass/organisms/_nav.scss */
+  /* line 477, ../../../sass/organisms/_nav.scss */
   .social .icon {
     float: left;
     width: auto;
   }
 
-  /* line 480, ../../../sass/organisms/_nav.scss */
+  /* line 482, ../../../sass/organisms/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 }
-/* line 486, ../../../sass/organisms/_nav.scss */
+/* line 488, ../../../sass/organisms/_nav.scss */
 .canvas-sliding {
   -moz-transition: top 0.6s,left 0.6s,bottom 0.6s,right 0.6s;
   -o-transition: top 0.6s,left 0.6s,bottom 0.6s,right 0.6s;
