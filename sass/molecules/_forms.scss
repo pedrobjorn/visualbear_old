@@ -1,10 +1,6 @@
 @import "utilities/variables";
 @import "utilities/mixins";
 
-*:focus {
-    outline: none;
-}
-
 form {
     input[type="text"]:disabled {
         cursor: not-allowed;
@@ -17,11 +13,7 @@ form {
         padding-left: 0;
         margin-left: 0;
     }
-    label {
-        font-size: 18px;
-        font-weight: 300px;
-        padding-bottom: 4px;
-    }
+
     input, textarea {
         font-size: 24px;
         font-weight: 300px;
@@ -30,9 +22,6 @@ form {
     }
 }
 
-#info {
-    margin: 16px 0;
-}
 
 .feedback {
     font-size: 24px;
@@ -43,14 +32,6 @@ form {
     @include border-radius(0);
     height: 48px;
     font-size: 24px;
-}
-
-.label {
-    opacity: 0.8;
-    cursor: pointer;
-    &:hover {
-        opacity: 1;
-    }
 }
 
 .alert {

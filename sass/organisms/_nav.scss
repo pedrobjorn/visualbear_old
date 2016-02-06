@@ -26,9 +26,16 @@ section {
     }
 }
 
-.navmenu{
-        overflow: none;
+.navmenu {
+    overflow: none;
 }
+
+.navmenu-fixed-right {
+    overflow-y: hidden !important;
+    height: 100%;
+    padding-bottom: 64px;
+}
+
 nav.navmenu {
     overflow: none;
     z-index: 9999;
@@ -37,26 +44,26 @@ nav.navmenu {
     border: none;
     color: $vb-light;
     li {
-        padding:16px 0;
+        padding: 16px 0;
         font-size: $base-h2-size;
-        font-weight: $light;
+        font-weight: $font-light;
         text-align: center;
         border: 2px solid $vb-dark;
-        border-left:0px;
-        border-right:0px;
+        border-left: 0px;
+        border-right: 0px;
         &:hover,
         &:focus {
             cursor: pointer;
             background-color: $vb-primary;
         }
-        }
+    }
     a {
         text-decoration: none;
         color: $vb-light;
     }
     #close {
-        height: 64px;
-        padding: 0 16px;
+        height: auto;
+            padding: 0 24px;
         background-color: $vb-dark;
         color: $vb-light;
         .fa-close {
@@ -65,7 +72,7 @@ nav.navmenu {
     }
     .social {
         a {
-             width: 48px;
+            width: 48px;
             padding: 0;
             margin: 0;
             &:hover,
@@ -78,7 +85,6 @@ nav.navmenu {
         img {
             width: 48px;
         }
-
         margin: auto;
         .icon {
             float: left;
@@ -112,7 +118,7 @@ nav.navmenu {
 
 .navbar {
     @include border-radius(0);
-    border:0;
+    border: 0;
     border-bottom: solid 4px $vb-primary;
     z-index: 9998;
     width: 100%;
@@ -120,7 +126,7 @@ nav.navmenu {
         font-size: 36px;
     }
     height: 48px;
-    padding:0 8px;
+    padding: 0 8px;
     background-color: $vb-grey;
     .dropdown-menu li {
         &:hover,
@@ -141,7 +147,7 @@ nav.navmenu {
 //     nav.navmenu {
 //         li {
 //             font-size: $base-2k-size;
-//             font-weight: $light;
+//             font-weight: $font-light;
 //             text-align: center;
 //             &:hover,
 //             &:focus {
@@ -153,8 +159,8 @@ nav.navmenu {
 //             color: $vb-light;
 //         }
 //         #close {
-//             height: 128px;
-//             padding: 8px 16px;
+//        height: auto;
+//            padding: 0 24px;
 //             background-color: $vb-dark;
 //             .fa-close {
 //                 font-size: 72px;
@@ -218,9 +224,6 @@ nav.navmenu {
 //     }
 // }
 @media (min-width: $break-huge) {
-    ul#links {
-        height:90vh;
-    }
     .navbar-brand {
         height: 49px;
         width: 49px;
@@ -228,7 +231,7 @@ nav.navmenu {
     }
     .social {
         a {
-             width: 48px;
+            width: 48px;
             padding: 0;
             margin: 0;
             &:hover,
@@ -240,7 +243,6 @@ nav.navmenu {
         img {
             width: 48px;
         }
-
         margin: auto;
         .icon {
             float: left;
@@ -252,11 +254,9 @@ nav.navmenu {
         }
     }
 }
+
 //2500px< & >1200px
 @media (max-width: $break-huge) and (min-width: $break-large) {
-    ul#links {
-        height:90vh;
-    }
     .navbar-brand {
         height: 49px;
         width: 49px;
@@ -264,7 +264,7 @@ nav.navmenu {
     }
     .social {
         a {
-             width: 48px;
+            width: 48px;
             padding: 0;
             margin: 0;
             &:hover,
@@ -276,7 +276,6 @@ nav.navmenu {
         img {
             width: 48px;
         }
-
         margin: auto;
         .icon {
             float: left;
@@ -291,9 +290,6 @@ nav.navmenu {
 
 //1200px< & >767px
 @media (max-width: $break-large) and (min-width: $break-medium) {
-    ul#links {
-        height:90vh;
-    }
     .navbar-brand {
         height: 49px;
         width: 49px;
@@ -301,7 +297,7 @@ nav.navmenu {
     }
     .social {
         a {
-             width: 48px;
+            width: 48px;
             padding: 0;
             margin: 0;
             &:hover,
@@ -313,7 +309,6 @@ nav.navmenu {
         img {
             width: 48px;
         }
-
         margin: auto;
         .icon {
             float: left;
@@ -328,9 +323,6 @@ nav.navmenu {
 
 //767px< & >480px
 @media (max-width: $break-medium) and (min-width: $break-small) {
-    ul#links {
-        height:90vh;
-    }
     .navbar-brand {
         height: 49px;
         width: 49px;
@@ -341,8 +333,8 @@ nav.navmenu {
             width: 48px;
         }
         li {
-        font-size: $base-font-size;
-            font-weight: $light;
+            font-size: $base-font-size;
+            font-weight: $font-light;
             text-align: center;
         }
         a {
@@ -350,8 +342,8 @@ nav.navmenu {
             color: #fff;
         }
         #close {
-            height: 64px;
-        padding: 0 16px;
+            height: auto;
+            padding: 0 24px;
             background-color: $vb-dark;
             color: $vb-light;
             .fa-close {
@@ -363,8 +355,8 @@ nav.navmenu {
         background-color: $vb-dark;
         border: none;
         .social {
-        a {
-             width: 48px;
+            a {
+                width: 48px;
                 padding: 0;
                 margin: 0;
                 &:hover,
@@ -373,7 +365,6 @@ nav.navmenu {
                     background-color: $vb-grey;
                 }
             }
-
             margin: auto;
             .icon {
                 float: left;
@@ -392,9 +383,6 @@ nav.navmenu {
 
 //480px< & >320px
 @media (max-width: $break-small) and (min-width: $break-tiny) {
-    ul#links {
-        height:84vh;
-    }
     .navbar-brand {
         height: 49px;
         width: 49px;
@@ -409,8 +397,8 @@ nav.navmenu {
         background-color: $vb-dark;
         border: none;
         li {
-        font-size: $base-font-size;
-            font-weight: $light;
+            font-size: $base-font-size;
+            font-weight: $font-light;
             text-align: center;
         }
         a {
@@ -418,16 +406,16 @@ nav.navmenu {
             color: #fff;
         }
         #close {
-            height: 64px;
-        padding: 0 16px;
+            height: auto;
+            padding: 0 24px;
             background-color: $vb-dark;
             .fa-close {
                 font-size: 36px;
             }
         }
         .social {
-        a {
-             width: 48px;
+            a {
+                width: 48px;
                 padding: 0;
                 margin: 0;
                 &:hover,
@@ -436,7 +424,6 @@ nav.navmenu {
                     background-color: $vb-grey;
                 }
             }
-
             margin: auto;
             .icon {
                 float: left;
@@ -455,12 +442,9 @@ nav.navmenu {
 
 //320px<
 @media (max-width: $break-tiny) {
-    ul#links {
-        height:85vh;
-    }
     .social {
         a {
-             width: 48px;
+            width: 48px;
             padding: 0;
             margin: 0;
             &:hover,
@@ -472,7 +456,6 @@ nav.navmenu {
         img {
             width: 48px;
         }
-
         margin: auto;
         .icon {
             float: left;
@@ -485,9 +468,10 @@ nav.navmenu {
         padding: 9px;
     }
 }
-.canvas-sliding{
-      -moz-transition:top 0.6s,left 0.6s,bottom 0.6s,right 0.6s;
-     -o-transition:top 0.6s,left 0.6s,bottom 0.6s,right 0.6s;
-    -webkit-transition:top 0.6s,left 0.6s,bottom 0.6s,right 0.6s;
-    transition:top 0.6s,left 0.6s,bottom 0.6s,right 0.6s;
+
+.canvas-sliding {
+    -moz-transition: top 0.6s,left 0.6s,bottom 0.6s,right 0.6s;
+    -o-transition: top 0.6s,left 0.6s,bottom 0.6s,right 0.6s;
+    -webkit-transition: top 0.6s,left 0.6s,bottom 0.6s,right 0.6s;
+    transition: top 0.6s,left 0.6s,bottom 0.6s,right 0.6s;
 }

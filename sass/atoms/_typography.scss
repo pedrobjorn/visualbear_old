@@ -4,15 +4,15 @@
 html,
 body {
     font-family: $vb-body-font-family;
-    font-weight: $light;
+    font-weight: $font-light;
     font-size: $base-font-size;
     color: $vb-light;
     line-height: $base-line-height;
 }
 
 .font-secondary {
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    font-weight: $light;
+    font-family: $vb-secondary-font-family;
+    font-weight: $font-light;
 }
 
 h0,
@@ -23,13 +23,55 @@ h4,
 h5,
 h6 {
     letter-spacing: 1px;
-    font-weight: $semi-bold;
+    font-weight: $font-semi-bold;
+    small {
+        display: block;
+        line-height: 1.5;
+        font-size: 50%;
+        font-weight: $font-light;
+        color: inherit;
+    }
+}
+
+h0 {
+    font-size: $base-h0-size;
+}
+
+h1 {
+    font-size: $base-h1-size;
+}
+
+h2 {
+    font-size: $base-h2-size;
+}
+
+h3 {
+    font-size: $base-h3-size;
+}
+
+h4 {
+    font-size: $base-h4-size;
+}
+
+h5 {
+    font-size: $base-h5-size;
+}
+
+h6 {
+    font-size: $base-h6-size;
 }
 
 blockquote {
     margin: 8px 0 8px 0;
     padding: 8px 0 8px 0;
 }
+
+label {
+    font-size: 18px;
+    font-weight: $font-light;
+    padding-bottom: 2px;
+}
+
 
 a {
     color: $vb-primary;
@@ -41,14 +83,8 @@ a {
     }
 }
 
-nav.offcanvas {
+.upper-case {
     text-transform: uppercase;
-    a {
-        &:hover,
-        &:focus {
-            color: $vb-light;
-        }
-    }
 }
 
 .page-header {
@@ -57,7 +93,7 @@ nav.offcanvas {
 }
 
 .emphasis {
-    font-weight: $semi-bold;
+    font-weight: $font-semi-bold;
     color: #fff;
 }
 
@@ -71,28 +107,36 @@ li#left-justified {
 
 strong {
     font-style: bold;
-    font-weight: $bold;
+    font-weight: $font-bold;
 }
 
 b {
-    font-weight: $semi-bold;
+    font-weight: $font-semi-bold;
     font-style: bold;
+}
+
+.semi-bold {
+    font-weight: $font-semi-bold;
+}
+
+.light {
+    font-weight: $font-light;
 }
 
 i {
     font-style: italic;
 }
 
-.light {
-    font-weight: $light;
-}
-
 .title {
     margin: 0;
 }
 
+.subtitle {
+    font-weight: $font-light;
+}
+
 .highlight {
-    font-weight: $semi-bold;
+    font-weight: $font-semi-bold;
     padding-bottom: 4px;
     &:hover,
     &:focus {
@@ -103,276 +147,71 @@ i {
     }
 }
 
-@media (min-width: $break-huge) {
-    h0 {
-        font-size: $base-h0-size;
-    }
-    h1 {
-        font-size: $base-h1-size;
-    }
-    h2 {
-        font-size: $base-h2-size;
-    }
-    h3 {
-        font-size: $base-h3-size;
-    }
-    h4 {
-        font-size: $base-h4-size;
-    }
-    h5 {
-        font-size: $base-h5-size;
-    }
-    h6 {
-        font-size: $base-h6-size;
-    }
-    .gallery-text {
-        font-weight: $light;
-        font-size: $base-font-size;
-        line-height: $semi-bold-line-height;
-    }
-    #about-text, #contact-text {
-        font-size: $base-font-size;
-        line-height: $base-line-height;
-    }
-    .semi-bold {
-        font-weight: $semi-bold;
-    }
-    .text-block {
-        padding: 32px 0;
-    }
-    .header-block {
-        .subtitle {
-            font-weight: $light;
-        }
-    }
-    .text-container {
-        width: 900px;
-        margin: auto;
-    }
-}
+@media (min-width: $break-huge) {}
 
-@media (max-width: $break-huge) and (min-width: $break-large) {
-    .jumbo-text {
-        font-weight: $light;
-        font-size: $big-2k-size;
-        text-align: left;
-        width: 900px;
-        margin: 0 auto;
-    }
-    h0 {
-        font-size: $base-h0-size;
-    }
-    h1 {
-        font-size: $base-h1-size;
-    }
-    h2 {
-        font-size: $base-h2-size;
-    }
-    h3 {
-        font-size: $base-h3-size;
-    }
-    h4 {
-        font-size: $base-h4-size;
-    }
-    h5 {
-        font-size: $base-h5-size;
-    }
-    h6 {
-        font-size: $base-h6-size;
-    }
-    .gallery-text {
-        font-weight: $light;
-        font-size: $base-font-size;
-        line-height: $semi-bold-line-height;
-    }
-    #about-text, #contact-text {
-        font-size: $base-font-size;
-        line-height: $base-line-height;
-    }
-    .semi-bold {
-        font-weight: $semi-bold;
-    }
-    .text-block {
-        padding: 32px 0;
-    }
-    .subtitle {
-        font-weight: $light;
-    }
-    .text-container {
-        width: 900px;
-        margin: auto;
-    }
-}
+@media (max-width: $break-huge) and (min-width: $break-large) {}
 
-@media (max-width: $break-large) and (min-width: $break-big) {
-    .jumbo-text {
-        font-weight: $light;
-        font-size: $semi-bold-2k-size;
-        text-align: left;
-        width: 642px;
-        margin: 0 auto;
-    }
-    h0 {
-        font-size: $base-h0-size;
-    }
-    h1 {
-        font-size: $base-h1-size;
-    }
-    h2 {
-        font-size: $base-h2-size;
-    }
-    h3 {
-        font-size: $base-h3-size;
-    }
-    h4 {
-        font-size: $base-h4-size;
-    }
-    h5 {
-        font-size: $base-h5-size;
-    }
-    h6 {
-        font-size: $base-h6-size;
-    }
-    .gallery-text {
-        font-weight: $light;
-        font-size: $base-font-size;
-        line-height: $semi-bold-line-height;
-    }
-    #about-text, #contact-text {
-        font-size: $base-font-size;
-        line-height: $semi-bold-line-height;
-    }
-    .semi-bold {
-        font-weight: $semi-bold;
-    }
-    .text-block {
-        padding: 32px 0;
-    }
-    .subtitle {
-        font-weight: $light;
-    }
-    .text-container {
-        width: 900px;
-        margin: auto;
-    }
-}
+@media (max-width: $break-large) and (min-width: $break-big) {}
 
 //1200px< & >767px
-@media (max-width: $break-big) and (min-width: $break-medium) {
-    .jumbo-text {
-        font-weight: $light;
-        font-size: $semi-bold-2k-size;
-        text-align: left;
-        width: 556px;
-        margin: 0 auto;
-    }
-    h0 {
-        font-size: $base-h0-size;
-    }
-    h1 {
-        font-size: $base-h1-size;
-    }
-    h2 {
-        font-size: $base-h2-size;
-    }
-    h3 {
-        font-size: $base-h3-size;
-    }
-    h4 {
-        font-size: $base-h4-size;
-    }
-    h5 {
-        font-size: $base-h5-size;
-    }
-    h6 {
-        font-size: $base-h6-size;
-    }
-    .gallery-text {
-        font-weight: $light;
-        font-size: $middle-font-size;
-        line-height: $semi-bold-line-height;
-    }
-    #about-text, #contact-text {
-        font-size: $base-font-size;
-        line-height: $base-line-height;
-    }
-    .semi-bold {
-        font-weight: $semi-bold;
-    }
-    .text-block {
-        padding: 16px 0;
-    }
-    .subtitle {
-        font-weight: $light;
-    }
-    .text-container {
-        padding: 0 64px;
-        max-width: 900px;
-        margin: auto;
-    }
-}
+@media (max-width: $break-big) and (min-width: $break-medium) {}
 
 //767px< & >480px
 @media (max-width: $break-medium) and (min-width: $break-small) {
-    .jumbo-text {
-        font-weight: $light;
-        font-size: $small-2k-size;
-        text-align: left;
-        width: 428px;
-        margin: 0 auto;
+    h0,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        small {
+            display: block;
+            line-height: 1.5;
+            font-size: 65%;
+            font-weight: $font-light;
+            color: inherit;
+        }
     }
     h0 {
-        font-size: $base-h0-size;
+        font-size: $mobile-h0-size;
     }
     h1 {
-        font-size: $base-h1-size;
+        font-size: $mobile-h1-size;
     }
     h2 {
-        font-size: $base-h2-size;
+        font-size: $mobile-h2-size;
     }
     h3 {
-        font-size: $base-h3-size;
+        font-size: $mobile-h3-size;
     }
     h4 {
-        font-size: $base-h4-size;
+        font-size: $mobile-h4-size;
     }
     h5 {
-        font-size: $base-h5-size;
+        font-size: $mobile-h5-size;
     }
     h6 {
-        font-size: $base-h6-size;
-    }
-    .gallery-text {
-        font-weight: $light;
-        font-size: $mobile-font-size;
-        line-height: $semi-bold-line-height;
-    }
-    #about-text, #contact-text {
-        font-size: $mobile-font-size;
-        line-height: $base-line-height;
-    }
-    .semi-bold {
-        font-weight: $semi-bold;
-    }
-    .text-block {
-        padding: 16px 0;
-    }
-    .subtitle {
-        font-weight: $light;
-    }
-    .text-container {
-        padding: 0 32px;
+        font-size: $mobile-h6-size;
     }
 }
 
 //480px< & >320px
 @media (max-width: $break-small) and (min-width: $break-tiny) {
-    .jumbo-text {
-        font-weight: $light;
-        font-size: $small-2k-size;
-        text-align: left;
-        width: 256px;
-        margin: 0 auto;
+    h0,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        small {
+            display: block;
+            line-height: 1.5;
+            font-size: 65%;
+            font-weight: $font-light;
+            color: inherit;
+        }
     }
     h0 {
         font-size: $mobile-h0-size;
@@ -394,38 +233,25 @@ i {
     }
     h6 {
         font-size: $mobile-h6-size;
-    }
-    .gallery-text {
-        font-weight: $light;
-        font-size: $mobile-font-size;
-        line-height: $semi-bold-line-height;
-    }
-    #about-text, #contact-text {
-        font-size: $mobile-font-size;
-        line-height: $base-line-height;
-    }
-    .semi-bold {
-        font-weight: $semi-bold;
-    }
-    .text-block {
-        padding: 16px 0;
-    }
-    .subtitle {
-        font-weight: $light;
-    }
-    .text-container {
-        padding: 0 32px;
     }
 }
 
 //320px<
 @media (max-width: $break-tiny) {
-    .jumbo-text {
-        font-weight: $light;
-        font-size: $tiny-2k-size;
-        text-align: left;
-        width: 256px;
-        margin: 0 auto;
+    h0,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        small {
+            display: block;
+            line-height: 1.5;
+            font-size: 65%;
+            font-weight: $font-light;
+            color: inherit;
+        }
     }
     h0 {
         font-size: $mobile-h0-size;
@@ -447,26 +273,5 @@ i {
     }
     h6 {
         font-size: $mobile-h6-size;
-    }
-    .gallery-text {
-        font-weight: $light;
-        font-size: $mobile-font-size;
-        line-height: $semi-bold-line-height;
-    }
-    #about-text, #contact-text {
-        font-size: $mobile-font-size;
-        line-height: $base-line-height;
-    }
-    .semi-bold {
-        font-weight: $semi-bold;
-    }
-    .text-block {
-        padding: 16px 0;
-    }
-    .subtitle {
-        font-weight: $light;
-    }
-    .text-container {
-        padding: 0 32px;
     }
 }

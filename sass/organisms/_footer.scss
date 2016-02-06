@@ -11,13 +11,6 @@ footer {
     color: $vb-light;
 }
 
-blockquote .small:before, blockquote footer:before, blockquote small:before {
-    content: "";
-    :before {
-        content: "";
-    }
-}
-
 footer {
     position: relative;
     bottom: 0;
@@ -26,23 +19,6 @@ footer {
     padding: 16px 0;
     p {
         margin: 0;
-    }
-}
-
-.social {
-    padding: 16px 0 64px 0;
-    img {
-        width: 48px;
-    }
-    width: 144px;
-    margin: auto;
-    .icon {
-        float: left;
-        width: auto;
-        &:hover,
-        &:focus {
-            opacity: 0.5;
-        }
     }
 }
 

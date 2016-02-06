@@ -11510,36 +11510,31 @@ html {
   margin-top: 48px;
 }
 
-/* line 15, ../../../sass/utilities/_grid.scss */
-*, *:before, *:after {
-  box-sizing: inherit;
-}
-
-/* line 20, ../../../sass/utilities/_grid.scss */
+/* line 16, ../../../sass/utilities/_grid.scss */
 .section .row {
   padding: 0;
   margin: 0;
 }
 
-/* line 26, ../../../sass/utilities/_grid.scss */
+/* line 22, ../../../sass/utilities/_grid.scss */
 .outer-container {
   display: table;
   width: 100%;
   height: 100vh;
 }
-/* line 30, ../../../sass/utilities/_grid.scss */
+/* line 26, ../../../sass/utilities/_grid.scss */
 .outer-container .inner-container {
   display: table-cell;
   vertical-align: middle;
 }
-/* line 33, ../../../sass/utilities/_grid.scss */
+/* line 29, ../../../sass/utilities/_grid.scss */
 .outer-container .inner-container .text-container {
   margin-left: auto;
   margin-right: auto;
 }
 
 @media (min-width: 2400px) {
-  /* line 42, ../../../sass/utilities/_grid.scss */
+  /* line 38, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -11550,14 +11545,14 @@ html {
     padding: 0;
     margin: 0;
   }
-  /* line 51, ../../../sass/utilities/_grid.scss */
+  /* line 47, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 60, ../../../sass/utilities/_grid.scss */
+  /* line 56, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -11568,14 +11563,14 @@ html {
     padding: 0;
     margin: 0;
   }
-  /* line 69, ../../../sass/utilities/_grid.scss */
+  /* line 65, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 1279px) and (min-width: 767px) {
-  /* line 78, ../../../sass/utilities/_grid.scss */
+  /* line 74, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -11584,14 +11579,14 @@ html {
     padding: 0;
     margin: 0;
   }
-  /* line 85, ../../../sass/utilities/_grid.scss */
+  /* line 81, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 767px) and (min-width: 480px) {
-  /* line 94, ../../../sass/utilities/_grid.scss */
+  /* line 90, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -11600,14 +11595,14 @@ html {
     padding: 0;
     margin: 0;
   }
-  /* line 101, ../../../sass/utilities/_grid.scss */
+  /* line 97, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 110, ../../../sass/utilities/_grid.scss */
+  /* line 106, ../../../sass/utilities/_grid.scss */
   .section {
     min-height: 100vh;
     max-height: 100%;
@@ -11616,14 +11611,14 @@ html {
     margin: 0;
     border-bottom: solid 4px #ff0033;
   }
-  /* line 117, ../../../sass/utilities/_grid.scss */
+  /* line 113, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 64px;
     padding-bottom: 64px;
   }
 }
 @media (max-width: 320px) {
-  /* line 126, ../../../sass/utilities/_grid.scss */
+  /* line 122, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -11632,7 +11627,7 @@ html {
     padding: 0;
     margin: 0;
   }
-  /* line 133, ../../../sass/utilities/_grid.scss */
+  /* line 129, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 64px;
     padding-bottom: 64px;
@@ -11650,11 +11645,36 @@ body {
 }
 
 /* line 11, ../../../sass/atoms/_base.scss */
+body {
+  webkit-tap-highlight-color: rgba(235, 245, 255, 0.2);
+}
+
+/* line 15, ../../../sass/atoms/_base.scss */
+span {
+  display: block;
+}
+
+/* line 19, ../../../sass/atoms/_base.scss */
+img {
+  width: 100%;
+}
+
+/* line 23, ../../../sass/atoms/_base.scss */
 li {
   list-style-type: none;
 }
 
-/* line 15, ../../../sass/atoms/_base.scss */
+/* line 27, ../../../sass/atoms/_base.scss */
+*:focus {
+  outline: none;
+}
+
+/* line 31, ../../../sass/atoms/_base.scss */
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* line 35, ../../../sass/atoms/_base.scss */
 ::-moz-selection {
   text-shadow: none;
   background: #66b2ff;
@@ -11662,7 +11682,7 @@ li {
   background-color: none;
 }
 
-/* line 22, ../../../sass/atoms/_base.scss */
+/* line 42, ../../../sass/atoms/_base.scss */
 ::selection {
   text-shadow: none;
   background: #66b2ff;
@@ -11670,49 +11690,43 @@ li {
   background-color: none;
 }
 
-/* line 29, ../../../sass/atoms/_base.scss */
+/* line 49, ../../../sass/atoms/_base.scss */
 img::selection {
   background: transparent;
 }
 
-/* line 33, ../../../sass/atoms/_base.scss */
+/* line 53, ../../../sass/atoms/_base.scss */
 img::-moz-selection {
   background: transparent;
 }
 
-/* line 37, ../../../sass/atoms/_base.scss */
-body {
-  webkit-tap-highlight-color: rgba(235, 245, 255, 0.2);
-}
-
-/* line 41, ../../../sass/atoms/_base.scss */
-span {
-  display: block;
-}
-
-/* line 45, ../../../sass/atoms/_base.scss */
-img {
-  width: 100%;
-}
-
-/* line 49, ../../../sass/atoms/_base.scss */
+/* line 58, ../../../sass/atoms/_base.scss */
 li#center-justified {
   text-align: center;
 }
 
-/* line 53, ../../../sass/atoms/_base.scss */
+/* line 62, ../../../sass/atoms/_base.scss */
 li#left-justified {
   text-align: justified-left;
 }
 
-/* line 57, ../../../sass/atoms/_base.scss */
+/* line 66, ../../../sass/atoms/_base.scss */
 .thin {
   font-weight: 300;
 }
 
-/* line 61, ../../../sass/atoms/_base.scss */
+/* line 70, ../../../sass/atoms/_base.scss */
 .bold {
   font-weight: 700;
+}
+
+/* line 74, ../../../sass/atoms/_base.scss */
+blockquote .small:before, blockquote footer:before, blockquote small:before {
+  content: "";
+}
+/* line 76, ../../../sass/atoms/_base.scss */
+blockquote .small:before :before, blockquote footer:before :before, blockquote small:before :before {
+  content: "";
 }
 
 /* line 4, ../../../sass/atoms/_typography.scss */
@@ -11742,88 +11756,150 @@ h6 {
   letter-spacing: 1px;
   font-weight: 400;
 }
+/* line 27, ../../../sass/atoms/_typography.scss */
+h0 small,
+h1 small,
+h2 small,
+h3 small,
+h4 small,
+h5 small,
+h6 small {
+  display: block;
+  line-height: 1.5;
+  font-size: 50%;
+  font-weight: 300;
+  color: inherit;
+}
 
-/* line 29, ../../../sass/atoms/_typography.scss */
+/* line 36, ../../../sass/atoms/_typography.scss */
+h0 {
+  font-size: 3.6em;
+}
+
+/* line 40, ../../../sass/atoms/_typography.scss */
+h1 {
+  font-size: 2em;
+}
+
+/* line 44, ../../../sass/atoms/_typography.scss */
+h2 {
+  font-size: 1.5em;
+}
+
+/* line 48, ../../../sass/atoms/_typography.scss */
+h3 {
+  font-size: 1.17em;
+}
+
+/* line 52, ../../../sass/atoms/_typography.scss */
+h4 {
+  font-size: 1em;
+}
+
+/* line 56, ../../../sass/atoms/_typography.scss */
+h5 {
+  font-size: 0.83em;
+}
+
+/* line 60, ../../../sass/atoms/_typography.scss */
+h6 {
+  font-size: 0.75em;
+}
+
+/* line 64, ../../../sass/atoms/_typography.scss */
 blockquote {
   margin: 8px 0 8px 0;
   padding: 8px 0 8px 0;
 }
 
-/* line 34, ../../../sass/atoms/_typography.scss */
+/* line 69, ../../../sass/atoms/_typography.scss */
+label {
+  font-size: 18px;
+  font-weight: 300;
+  padding-bottom: 2px;
+}
+
+/* line 76, ../../../sass/atoms/_typography.scss */
 a {
   color: #ff0033;
 }
-/* line 36, ../../../sass/atoms/_typography.scss */
+/* line 78, ../../../sass/atoms/_typography.scss */
 a:hover, a:focus {
   text-decoration: none;
   color: #ebf5ff;
   background-color: #ff0033;
 }
 
-/* line 44, ../../../sass/atoms/_typography.scss */
-nav.offcanvas {
+/* line 86, ../../../sass/atoms/_typography.scss */
+.upper-case {
   text-transform: uppercase;
 }
-/* line 47, ../../../sass/atoms/_typography.scss */
-nav.offcanvas a:hover, nav.offcanvas a:focus {
-  color: #ebf5ff;
-}
 
-/* line 54, ../../../sass/atoms/_typography.scss */
+/* line 90, ../../../sass/atoms/_typography.scss */
 .page-header {
   margin: 0 0 16px 0;
   border-bottom: 1px solid #39393D;
 }
 
-/* line 59, ../../../sass/atoms/_typography.scss */
+/* line 95, ../../../sass/atoms/_typography.scss */
 .emphasis {
   font-weight: 400;
   color: #fff;
 }
 
-/* line 64, ../../../sass/atoms/_typography.scss */
+/* line 100, ../../../sass/atoms/_typography.scss */
 li#center-justified {
   text-align: center;
 }
 
-/* line 68, ../../../sass/atoms/_typography.scss */
+/* line 104, ../../../sass/atoms/_typography.scss */
 li#left-justified {
   text-align: justified-left;
 }
 
-/* line 72, ../../../sass/atoms/_typography.scss */
+/* line 108, ../../../sass/atoms/_typography.scss */
 strong {
   font-style: bold;
   font-weight: 700;
 }
 
-/* line 77, ../../../sass/atoms/_typography.scss */
+/* line 113, ../../../sass/atoms/_typography.scss */
 b {
   font-weight: 400;
   font-style: bold;
 }
 
-/* line 82, ../../../sass/atoms/_typography.scss */
-i {
-  font-style: italic;
+/* line 118, ../../../sass/atoms/_typography.scss */
+.semi-bold {
+  font-weight: 400;
 }
 
-/* line 86, ../../../sass/atoms/_typography.scss */
+/* line 122, ../../../sass/atoms/_typography.scss */
 .light {
   font-weight: 300;
 }
 
-/* line 90, ../../../sass/atoms/_typography.scss */
+/* line 126, ../../../sass/atoms/_typography.scss */
+i {
+  font-style: italic;
+}
+
+/* line 130, ../../../sass/atoms/_typography.scss */
 .title {
   margin: 0;
 }
 
-/* line 94, ../../../sass/atoms/_typography.scss */
+/* line 134, ../../../sass/atoms/_typography.scss */
+.subtitle {
+  font-weight: 300;
+}
+
+/* line 138, ../../../sass/atoms/_typography.scss */
 .highlight {
   font-weight: 400;
   padding-bottom: 4px;
 }
-/* line 97, ../../../sass/atoms/_typography.scss */
+/* line 141, ../../../sass/atoms/_typography.scss */
 .highlight:hover, .highlight:focus {
   box-shadow: 8px 0 0 #ff0033, -8px 0 0 #ff0033;
   color: #ebf5ff;
@@ -11831,546 +11907,157 @@ i {
   background-color: #ff0033;
 }
 
-@media (min-width: 2400px) {
-  /* line 107, ../../../sass/atoms/_typography.scss */
-  h0 {
-    font-size: 3.6em;
-  }
-
-  /* line 110, ../../../sass/atoms/_typography.scss */
-  h1 {
-    font-size: 2em;
-  }
-
-  /* line 113, ../../../sass/atoms/_typography.scss */
-  h2 {
-    font-size: 1.5em;
-  }
-
-  /* line 116, ../../../sass/atoms/_typography.scss */
-  h3 {
-    font-size: 1.17em;
-  }
-
-  /* line 119, ../../../sass/atoms/_typography.scss */
-  h4 {
-    font-size: 1em;
-  }
-
-  /* line 122, ../../../sass/atoms/_typography.scss */
-  h5 {
-    font-size: 0.83em;
-  }
-
-  /* line 125, ../../../sass/atoms/_typography.scss */
-  h6 {
-    font-size: 0.75em;
-  }
-
-  /* line 128, ../../../sass/atoms/_typography.scss */
-  .gallery-text {
-    font-weight: 300;
-    font-size: 1.2em;
-    line-height: 1.5;
-  }
-
-  /* line 133, ../../../sass/atoms/_typography.scss */
-  #about-text, #contact-text {
-    font-size: 1.2em;
-    line-height: 1.35;
-  }
-
-  /* line 137, ../../../sass/atoms/_typography.scss */
-  .semi-bold {
-    font-weight: 400;
-  }
-
-  /* line 140, ../../../sass/atoms/_typography.scss */
-  .text-block {
-    padding: 32px 0;
-  }
-
-  /* line 144, ../../../sass/atoms/_typography.scss */
-  .header-block .subtitle {
-    font-weight: 300;
-  }
-
-  /* line 148, ../../../sass/atoms/_typography.scss */
-  .text-container {
-    width: 900px;
-    margin: auto;
-  }
-}
-@media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 155, ../../../sass/atoms/_typography.scss */
-  .jumbo-text {
-    font-weight: 300;
-    font-size: 4em;
-    text-align: left;
-    width: 900px;
-    margin: 0 auto;
-  }
-
-  /* line 162, ../../../sass/atoms/_typography.scss */
-  h0 {
-    font-size: 3.6em;
-  }
-
-  /* line 165, ../../../sass/atoms/_typography.scss */
-  h1 {
-    font-size: 2em;
-  }
-
+@media (max-width: 767px) and (min-width: 480px) {
   /* line 168, ../../../sass/atoms/_typography.scss */
-  h2 {
-    font-size: 1.5em;
-  }
-
-  /* line 171, ../../../sass/atoms/_typography.scss */
-  h3 {
-    font-size: 1.17em;
-  }
-
-  /* line 174, ../../../sass/atoms/_typography.scss */
-  h4 {
-    font-size: 1em;
-  }
-
-  /* line 177, ../../../sass/atoms/_typography.scss */
-  h5 {
-    font-size: 0.83em;
-  }
-
-  /* line 180, ../../../sass/atoms/_typography.scss */
-  h6 {
-    font-size: 0.75em;
-  }
-
-  /* line 183, ../../../sass/atoms/_typography.scss */
-  .gallery-text {
-    font-weight: 300;
-    font-size: 1.2em;
+  h0 small,
+  h1 small,
+  h2 small,
+  h3 small,
+  h4 small,
+  h5 small,
+  h6 small {
+    display: block;
     line-height: 1.5;
+    font-size: 65%;
+    font-weight: 300;
+    color: inherit;
+  }
+
+  /* line 176, ../../../sass/atoms/_typography.scss */
+  h0 {
+    font-size: 2em;
+  }
+
+  /* line 179, ../../../sass/atoms/_typography.scss */
+  h1 {
+    font-size: 1.8em;
+  }
+
+  /* line 182, ../../../sass/atoms/_typography.scss */
+  h2 {
+    font-size: 1.3em;
+  }
+
+  /* line 185, ../../../sass/atoms/_typography.scss */
+  h3 {
+    font-size: 1em;
   }
 
   /* line 188, ../../../sass/atoms/_typography.scss */
-  #about-text, #contact-text {
-    font-size: 1.2em;
-    line-height: 1.35;
-  }
-
-  /* line 192, ../../../sass/atoms/_typography.scss */
-  .semi-bold {
-    font-weight: 400;
-  }
-
-  /* line 195, ../../../sass/atoms/_typography.scss */
-  .text-block {
-    padding: 32px 0;
-  }
-
-  /* line 198, ../../../sass/atoms/_typography.scss */
-  .subtitle {
-    font-weight: 300;
-  }
-
-  /* line 201, ../../../sass/atoms/_typography.scss */
-  .text-container {
-    width: 900px;
-    margin: auto;
-  }
-}
-@media (max-width: 1279px) and (min-width: 960px) {
-  /* line 208, ../../../sass/atoms/_typography.scss */
-  .jumbo-text {
-    font-weight: 300;
-    font-size: 2.8em;
-    text-align: left;
-    width: 642px;
-    margin: 0 auto;
-  }
-
-  /* line 215, ../../../sass/atoms/_typography.scss */
-  h0 {
-    font-size: 3.6em;
-  }
-
-  /* line 218, ../../../sass/atoms/_typography.scss */
-  h1 {
-    font-size: 2em;
-  }
-
-  /* line 221, ../../../sass/atoms/_typography.scss */
-  h2 {
-    font-size: 1.5em;
-  }
-
-  /* line 224, ../../../sass/atoms/_typography.scss */
-  h3 {
-    font-size: 1.17em;
-  }
-
-  /* line 227, ../../../sass/atoms/_typography.scss */
   h4 {
-    font-size: 1em;
-  }
-
-  /* line 230, ../../../sass/atoms/_typography.scss */
-  h5 {
-    font-size: 0.83em;
-  }
-
-  /* line 233, ../../../sass/atoms/_typography.scss */
-  h6 {
-    font-size: 0.75em;
-  }
-
-  /* line 236, ../../../sass/atoms/_typography.scss */
-  .gallery-text {
-    font-weight: 300;
-    font-size: 1.2em;
-    line-height: 1.5;
-  }
-
-  /* line 241, ../../../sass/atoms/_typography.scss */
-  #about-text, #contact-text {
-    font-size: 1.2em;
-    line-height: 1.5;
-  }
-
-  /* line 245, ../../../sass/atoms/_typography.scss */
-  .semi-bold {
-    font-weight: 400;
-  }
-
-  /* line 248, ../../../sass/atoms/_typography.scss */
-  .text-block {
-    padding: 32px 0;
-  }
-
-  /* line 251, ../../../sass/atoms/_typography.scss */
-  .subtitle {
-    font-weight: 300;
-  }
-
-  /* line 254, ../../../sass/atoms/_typography.scss */
-  .text-container {
-    width: 900px;
-    margin: auto;
-  }
-}
-@media (max-width: 960px) and (min-width: 767px) {
-  /* line 262, ../../../sass/atoms/_typography.scss */
-  .jumbo-text {
-    font-weight: 300;
-    font-size: 2.8em;
-    text-align: left;
-    width: 556px;
-    margin: 0 auto;
-  }
-
-  /* line 269, ../../../sass/atoms/_typography.scss */
-  h0 {
-    font-size: 3.6em;
-  }
-
-  /* line 272, ../../../sass/atoms/_typography.scss */
-  h1 {
-    font-size: 2em;
-  }
-
-  /* line 275, ../../../sass/atoms/_typography.scss */
-  h2 {
-    font-size: 1.5em;
-  }
-
-  /* line 278, ../../../sass/atoms/_typography.scss */
-  h3 {
-    font-size: 1.17em;
-  }
-
-  /* line 281, ../../../sass/atoms/_typography.scss */
-  h4 {
-    font-size: 1em;
-  }
-
-  /* line 284, ../../../sass/atoms/_typography.scss */
-  h5 {
-    font-size: 0.83em;
-  }
-
-  /* line 287, ../../../sass/atoms/_typography.scss */
-  h6 {
-    font-size: 0.75em;
-  }
-
-  /* line 290, ../../../sass/atoms/_typography.scss */
-  .gallery-text {
-    font-weight: 300;
-    font-size: 1em;
-    line-height: 1.5;
-  }
-
-  /* line 295, ../../../sass/atoms/_typography.scss */
-  #about-text, #contact-text {
-    font-size: 1.2em;
-    line-height: 1.35;
-  }
-
-  /* line 299, ../../../sass/atoms/_typography.scss */
-  .semi-bold {
-    font-weight: 400;
-  }
-
-  /* line 302, ../../../sass/atoms/_typography.scss */
-  .text-block {
-    padding: 16px 0;
-  }
-
-  /* line 305, ../../../sass/atoms/_typography.scss */
-  .subtitle {
-    font-weight: 300;
-  }
-
-  /* line 308, ../../../sass/atoms/_typography.scss */
-  .text-container {
-    padding: 0 64px;
-    max-width: 900px;
-    margin: auto;
-  }
-}
-@media (max-width: 767px) and (min-width: 480px) {
-  /* line 317, ../../../sass/atoms/_typography.scss */
-  .jumbo-text {
-    font-weight: 300;
-    font-size: 2.1em;
-    text-align: left;
-    width: 428px;
-    margin: 0 auto;
-  }
-
-  /* line 324, ../../../sass/atoms/_typography.scss */
-  h0 {
-    font-size: 3.6em;
-  }
-
-  /* line 327, ../../../sass/atoms/_typography.scss */
-  h1 {
-    font-size: 2em;
-  }
-
-  /* line 330, ../../../sass/atoms/_typography.scss */
-  h2 {
-    font-size: 1.5em;
-  }
-
-  /* line 333, ../../../sass/atoms/_typography.scss */
-  h3 {
-    font-size: 1.17em;
-  }
-
-  /* line 336, ../../../sass/atoms/_typography.scss */
-  h4 {
-    font-size: 1em;
-  }
-
-  /* line 339, ../../../sass/atoms/_typography.scss */
-  h5 {
-    font-size: 0.83em;
-  }
-
-  /* line 342, ../../../sass/atoms/_typography.scss */
-  h6 {
-    font-size: 0.75em;
-  }
-
-  /* line 345, ../../../sass/atoms/_typography.scss */
-  .gallery-text {
-    font-weight: 300;
     font-size: 0.9em;
-    line-height: 1.5;
   }
 
-  /* line 350, ../../../sass/atoms/_typography.scss */
-  #about-text, #contact-text {
-    font-size: 0.9em;
-    line-height: 1.35;
+  /* line 191, ../../../sass/atoms/_typography.scss */
+  h5 {
+    font-size: 0.7em;
   }
 
-  /* line 354, ../../../sass/atoms/_typography.scss */
-  .semi-bold {
-    font-weight: 400;
-  }
-
-  /* line 357, ../../../sass/atoms/_typography.scss */
-  .text-block {
-    padding: 16px 0;
-  }
-
-  /* line 360, ../../../sass/atoms/_typography.scss */
-  .subtitle {
-    font-weight: 300;
-  }
-
-  /* line 363, ../../../sass/atoms/_typography.scss */
-  .text-container {
-    padding: 0 32px;
+  /* line 194, ../../../sass/atoms/_typography.scss */
+  h6 {
+    font-size: 0.6em;
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 370, ../../../sass/atoms/_typography.scss */
-  .jumbo-text {
+  /* line 208, ../../../sass/atoms/_typography.scss */
+  h0 small,
+  h1 small,
+  h2 small,
+  h3 small,
+  h4 small,
+  h5 small,
+  h6 small {
+    display: block;
+    line-height: 1.5;
+    font-size: 65%;
     font-weight: 300;
-    font-size: 2.1em;
-    text-align: left;
-    width: 256px;
-    margin: 0 auto;
+    color: inherit;
   }
 
-  /* line 377, ../../../sass/atoms/_typography.scss */
+  /* line 216, ../../../sass/atoms/_typography.scss */
   h0 {
     font-size: 2em;
   }
 
-  /* line 380, ../../../sass/atoms/_typography.scss */
+  /* line 219, ../../../sass/atoms/_typography.scss */
   h1 {
     font-size: 1.8em;
   }
 
-  /* line 383, ../../../sass/atoms/_typography.scss */
+  /* line 222, ../../../sass/atoms/_typography.scss */
   h2 {
     font-size: 1.3em;
   }
 
-  /* line 386, ../../../sass/atoms/_typography.scss */
+  /* line 225, ../../../sass/atoms/_typography.scss */
   h3 {
     font-size: 1em;
   }
 
-  /* line 389, ../../../sass/atoms/_typography.scss */
+  /* line 228, ../../../sass/atoms/_typography.scss */
   h4 {
     font-size: 0.9em;
   }
 
-  /* line 392, ../../../sass/atoms/_typography.scss */
+  /* line 231, ../../../sass/atoms/_typography.scss */
   h5 {
     font-size: 0.7em;
   }
 
-  /* line 395, ../../../sass/atoms/_typography.scss */
+  /* line 234, ../../../sass/atoms/_typography.scss */
   h6 {
     font-size: 0.6em;
-  }
-
-  /* line 398, ../../../sass/atoms/_typography.scss */
-  .gallery-text {
-    font-weight: 300;
-    font-size: 0.9em;
-    line-height: 1.5;
-  }
-
-  /* line 403, ../../../sass/atoms/_typography.scss */
-  #about-text, #contact-text {
-    font-size: 0.9em;
-    line-height: 1.35;
-  }
-
-  /* line 407, ../../../sass/atoms/_typography.scss */
-  .semi-bold {
-    font-weight: 400;
-  }
-
-  /* line 410, ../../../sass/atoms/_typography.scss */
-  .text-block {
-    padding: 16px 0;
-  }
-
-  /* line 413, ../../../sass/atoms/_typography.scss */
-  .subtitle {
-    font-weight: 300;
-  }
-
-  /* line 416, ../../../sass/atoms/_typography.scss */
-  .text-container {
-    padding: 0 32px;
   }
 }
 @media (max-width: 320px) {
-  /* line 423, ../../../sass/atoms/_typography.scss */
-  .jumbo-text {
+  /* line 248, ../../../sass/atoms/_typography.scss */
+  h0 small,
+  h1 small,
+  h2 small,
+  h3 small,
+  h4 small,
+  h5 small,
+  h6 small {
+    display: block;
+    line-height: 1.5;
+    font-size: 65%;
     font-weight: 300;
-    font-size: 1.35em;
-    text-align: left;
-    width: 256px;
-    margin: 0 auto;
+    color: inherit;
   }
 
-  /* line 430, ../../../sass/atoms/_typography.scss */
+  /* line 256, ../../../sass/atoms/_typography.scss */
   h0 {
     font-size: 2em;
   }
 
-  /* line 433, ../../../sass/atoms/_typography.scss */
+  /* line 259, ../../../sass/atoms/_typography.scss */
   h1 {
     font-size: 1.8em;
   }
 
-  /* line 436, ../../../sass/atoms/_typography.scss */
+  /* line 262, ../../../sass/atoms/_typography.scss */
   h2 {
     font-size: 1.3em;
   }
 
-  /* line 439, ../../../sass/atoms/_typography.scss */
+  /* line 265, ../../../sass/atoms/_typography.scss */
   h3 {
     font-size: 1em;
   }
 
-  /* line 442, ../../../sass/atoms/_typography.scss */
+  /* line 268, ../../../sass/atoms/_typography.scss */
   h4 {
     font-size: 0.9em;
   }
 
-  /* line 445, ../../../sass/atoms/_typography.scss */
+  /* line 271, ../../../sass/atoms/_typography.scss */
   h5 {
     font-size: 0.7em;
   }
 
-  /* line 448, ../../../sass/atoms/_typography.scss */
+  /* line 274, ../../../sass/atoms/_typography.scss */
   h6 {
     font-size: 0.6em;
-  }
-
-  /* line 451, ../../../sass/atoms/_typography.scss */
-  .gallery-text {
-    font-weight: 300;
-    font-size: 0.9em;
-    line-height: 1.5;
-  }
-
-  /* line 456, ../../../sass/atoms/_typography.scss */
-  #about-text, #contact-text {
-    font-size: 0.9em;
-    line-height: 1.35;
-  }
-
-  /* line 460, ../../../sass/atoms/_typography.scss */
-  .semi-bold {
-    font-weight: 400;
-  }
-
-  /* line 463, ../../../sass/atoms/_typography.scss */
-  .text-block {
-    padding: 16px 0;
-  }
-
-  /* line 466, ../../../sass/atoms/_typography.scss */
-  .subtitle {
-    font-weight: 300;
-  }
-
-  /* line 469, ../../../sass/atoms/_typography.scss */
-  .text-container {
-    padding: 0 32px;
   }
 }
 /* line 4, ../../../sass/atoms/_buttons.scss */
@@ -12464,6 +12151,26 @@ i {
 }
 
 /* line 84, ../../../sass/atoms/_buttons.scss */
+.social {
+  padding: 16px 0 64px 0;
+  width: 144px;
+  margin: auto;
+}
+/* line 86, ../../../sass/atoms/_buttons.scss */
+.social img {
+  width: 48px;
+}
+/* line 91, ../../../sass/atoms/_buttons.scss */
+.social .icon {
+  float: left;
+  width: auto;
+}
+/* line 94, ../../../sass/atoms/_buttons.scss */
+.social .icon:hover, .social .icon:focus {
+  opacity: 0.5;
+}
+
+/* line 101, ../../../sass/atoms/_buttons.scss */
 .vb-btn-text, .vb-btn-text-dark {
   font-size: 24px;
   background-color: #39393D;
@@ -12480,7 +12187,7 @@ i {
   -ms-border-radius: 0;
   border-radius: 0;
 }
-/* line 96, ../../../sass/atoms/_buttons.scss */
+/* line 113, ../../../sass/atoms/_buttons.scss */
 .vb-btn-text:hover, .vb-btn-text-dark:hover, .vb-btn-text:focus, .vb-btn-text-dark:focus {
   padding: 4px 16px 0 16px;
   height: 46px;
@@ -12488,17 +12195,17 @@ i {
   background-color: #ff0033;
 }
 
-/* line 105, ../../../sass/atoms/_buttons.scss */
+/* line 122, ../../../sass/atoms/_buttons.scss */
 .vb-btn-text-dark {
   background-color: #1C1C1C;
 }
-/* line 108, ../../../sass/atoms/_buttons.scss */
+/* line 125, ../../../sass/atoms/_buttons.scss */
 .vb-btn-text-dark:hover, .vb-btn-text-dark:focus {
   height: 46px;
   background-color: #ff0033;
 }
 
-/* line 115, ../../../sass/atoms/_buttons.scss */
+/* line 132, ../../../sass/atoms/_buttons.scss */
 .vb-btn-down {
   font-size: 1.2em;
   cursor: default;
@@ -12508,7 +12215,7 @@ i {
   -ms-border-radius: 0;
   border-radius: 0;
 }
-/* line 121, ../../../sass/atoms/_buttons.scss */
+/* line 138, ../../../sass/atoms/_buttons.scss */
 .vb-btn-down a:hover, .vb-btn-down a:focus, .vb-btn-down a:active {
   outline: none;
   border: none;
@@ -12516,7 +12223,7 @@ i {
   color: #ff0033;
 }
 
-/* line 132, ../../../sass/atoms/_buttons.scss */
+/* line 149, ../../../sass/atoms/_buttons.scss */
 .vb-btn-dark {
   font-size: 28px;
   font-weight: 500;
@@ -12525,7 +12232,7 @@ i {
   padding: 0;
   background-color: #1C1C1C;
 }
-/* line 140, ../../../sass/atoms/_buttons.scss */
+/* line 157, ../../../sass/atoms/_buttons.scss */
 .vb-btn-dark:hover, .vb-btn-dark:focus {
   height: 45px;
   padding: 0;
@@ -12533,7 +12240,7 @@ i {
 }
 
 @media (min-width: 2400px) {
-  /* line 210, ../../../sass/atoms/_buttons.scss */
+  /* line 227, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
@@ -12549,23 +12256,23 @@ i {
     font-weight: 300;
     float: left;
   }
-  /* line 221, ../../../sass/atoms/_buttons.scss */
+  /* line 238, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button:hover, .data-nav .data-button:focus {
     color: #ebf5ff;
     background-color: #ff0033;
   }
-  /* line 227, ../../../sass/atoms/_buttons.scss */
+  /* line 244, ../../../sass/atoms/_buttons.scss */
   .data-nav .active {
     color: #ebf5ff;
     background-color: #ff0033;
   }
 
-  /* line 233, ../../../sass/atoms/_buttons.scss */
+  /* line 250, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button {
     display: none;
   }
 
-  /* line 237, ../../../sass/atoms/_buttons.scss */
+  /* line 254, ../../../sass/atoms/_buttons.scss */
   .vb-submit {
     background-color: #ff0033;
     position: relative;
@@ -12582,13 +12289,13 @@ i {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 249, ../../../sass/atoms/_buttons.scss */
+  /* line 266, ../../../sass/atoms/_buttons.scss */
   .vb-submit:hover, .vb-submit:focus {
     color: #ff0033;
     background-color: #ebf5ff;
   }
 
-  /* line 255, ../../../sass/atoms/_buttons.scss */
+  /* line 272, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down {
     font-size: 0.6em;
     cursor: default;
@@ -12598,7 +12305,7 @@ i {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 261, ../../../sass/atoms/_buttons.scss */
+  /* line 278, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down a:hover, .vb-btn-down a:focus, .vb-btn-down a:active {
     outline: none;
     border: none;
@@ -12607,7 +12314,7 @@ i {
   }
 }
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 276, ../../../sass/atoms/_buttons.scss */
+  /* line 293, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
@@ -12623,23 +12330,23 @@ i {
     font-weight: 300;
     float: left;
   }
-  /* line 287, ../../../sass/atoms/_buttons.scss */
+  /* line 304, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button:hover, .data-nav .data-button:focus {
     color: #ebf5ff;
     background-color: #ff0033;
   }
-  /* line 293, ../../../sass/atoms/_buttons.scss */
+  /* line 310, ../../../sass/atoms/_buttons.scss */
   .data-nav .active {
     color: #ebf5ff;
     background-color: #ff0033;
   }
 
-  /* line 299, ../../../sass/atoms/_buttons.scss */
+  /* line 316, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button {
     display: none;
   }
 
-  /* line 303, ../../../sass/atoms/_buttons.scss */
+  /* line 320, ../../../sass/atoms/_buttons.scss */
   .vb-submit {
     background-color: #ff0033;
     position: relative;
@@ -12656,13 +12363,13 @@ i {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 315, ../../../sass/atoms/_buttons.scss */
+  /* line 332, ../../../sass/atoms/_buttons.scss */
   .vb-submit:hover, .vb-submit:focus {
     color: #ff0033;
     background-color: #ebf5ff;
   }
 
-  /* line 321, ../../../sass/atoms/_buttons.scss */
+  /* line 338, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down {
     font-size: 0.6em;
     cursor: default;
@@ -12672,7 +12379,7 @@ i {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 327, ../../../sass/atoms/_buttons.scss */
+  /* line 344, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down a:hover, .vb-btn-down a:focus, .vb-btn-down a:active {
     outline: none;
     border: none;
@@ -12681,7 +12388,7 @@ i {
   }
 }
 @media (max-width: 1279px) and (min-width: 815px) {
-  /* line 342, ../../../sass/atoms/_buttons.scss */
+  /* line 359, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
@@ -12698,23 +12405,23 @@ i {
     font-size: 11px;
     float: left;
   }
-  /* line 354, ../../../sass/atoms/_buttons.scss */
+  /* line 371, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button:hover, .data-nav .data-button:focus {
     color: #ebf5ff;
     background-color: #ff0033;
   }
-  /* line 360, ../../../sass/atoms/_buttons.scss */
+  /* line 377, ../../../sass/atoms/_buttons.scss */
   .data-nav .active {
     color: #ebf5ff;
     background-color: #ff0033;
   }
 
-  /* line 366, ../../../sass/atoms/_buttons.scss */
+  /* line 383, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button {
     display: none;
   }
 
-  /* line 370, ../../../sass/atoms/_buttons.scss */
+  /* line 387, ../../../sass/atoms/_buttons.scss */
   .vb-submit {
     background-color: #ff0033;
     position: relative;
@@ -12731,13 +12438,13 @@ i {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 382, ../../../sass/atoms/_buttons.scss */
+  /* line 399, ../../../sass/atoms/_buttons.scss */
   .vb-submit:hover, .vb-submit:focus {
     color: #ff0033;
     background-color: #ebf5ff;
   }
 
-  /* line 388, ../../../sass/atoms/_buttons.scss */
+  /* line 405, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down {
     font-size: 0.6em;
     cursor: default;
@@ -12747,7 +12454,7 @@ i {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 394, ../../../sass/atoms/_buttons.scss */
+  /* line 411, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down a:hover, .vb-btn-down a:focus, .vb-btn-down a:active {
     outline: none;
     border: none;
@@ -12756,16 +12463,16 @@ i {
   }
 }
 @media (max-width: 815px) and (min-width: 480px) {
-  /* line 409, ../../../sass/atoms/_buttons.scss */
+  /* line 426, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button {
     display: none;
   }
 
-  /* line 413, ../../../sass/atoms/_buttons.scss */
+  /* line 430, ../../../sass/atoms/_buttons.scss */
   .data-menu {
     padding-bottom: 16px;
   }
-  /* line 415, ../../../sass/atoms/_buttons.scss */
+  /* line 432, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
@@ -12780,18 +12487,18 @@ i {
     font-weight: 300;
     float: left;
   }
-  /* line 425, ../../../sass/atoms/_buttons.scss */
+  /* line 442, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button:hover, .data-menu .data-button:focus {
     color: #ebf5ff;
     background-color: #ff0033;
   }
-  /* line 431, ../../../sass/atoms/_buttons.scss */
+  /* line 448, ../../../sass/atoms/_buttons.scss */
   .data-menu .active {
     color: #ebf5ff;
     background-color: #ff0033;
   }
 
-  /* line 436, ../../../sass/atoms/_buttons.scss */
+  /* line 453, ../../../sass/atoms/_buttons.scss */
   .vb-submit {
     background-color: #ff0033;
     position: relative;
@@ -12808,13 +12515,13 @@ i {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 448, ../../../sass/atoms/_buttons.scss */
+  /* line 465, ../../../sass/atoms/_buttons.scss */
   .vb-submit:hover, .vb-submit:focus {
     color: #ff0033;
     background-color: #ebf5ff;
   }
 
-  /* line 454, ../../../sass/atoms/_buttons.scss */
+  /* line 471, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down {
     font-size: 0.6em;
     cursor: default;
@@ -12824,7 +12531,7 @@ i {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 460, ../../../sass/atoms/_buttons.scss */
+  /* line 477, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down a:hover, .vb-btn-down a:focus, .vb-btn-down a:active {
     outline: none;
     border: none;
@@ -12833,16 +12540,16 @@ i {
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 475, ../../../sass/atoms/_buttons.scss */
+  /* line 492, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button {
     display: none;
   }
 
-  /* line 479, ../../../sass/atoms/_buttons.scss */
+  /* line 496, ../../../sass/atoms/_buttons.scss */
   .data-menu {
     padding-bottom: 16px;
   }
-  /* line 481, ../../../sass/atoms/_buttons.scss */
+  /* line 498, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
@@ -12857,18 +12564,18 @@ i {
     font-weight: 300;
     float: left;
   }
-  /* line 491, ../../../sass/atoms/_buttons.scss */
+  /* line 508, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button:hover, .data-menu .data-button:focus {
     color: #ebf5ff;
     background-color: #ff0033;
   }
-  /* line 497, ../../../sass/atoms/_buttons.scss */
+  /* line 514, ../../../sass/atoms/_buttons.scss */
   .data-menu .active {
     color: #ebf5ff;
     background-color: #ff0033;
   }
 
-  /* line 502, ../../../sass/atoms/_buttons.scss */
+  /* line 519, ../../../sass/atoms/_buttons.scss */
   .vb-submit {
     background-color: #ff0033;
     position: relative;
@@ -12885,13 +12592,13 @@ i {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 514, ../../../sass/atoms/_buttons.scss */
+  /* line 531, ../../../sass/atoms/_buttons.scss */
   .vb-submit:hover, .vb-submit:focus {
     color: #ff0033;
     background-color: #ebf5ff;
   }
 
-  /* line 520, ../../../sass/atoms/_buttons.scss */
+  /* line 537, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down {
     font-size: 0.5em;
     cursor: default;
@@ -12901,7 +12608,7 @@ i {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 526, ../../../sass/atoms/_buttons.scss */
+  /* line 543, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down a:hover, .vb-btn-down a:focus, .vb-btn-down a:active {
     outline: none;
     border: none;
@@ -12910,16 +12617,16 @@ i {
   }
 }
 @media (max-width: 320px) {
-  /* line 541, ../../../sass/atoms/_buttons.scss */
+  /* line 558, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button {
     display: none;
   }
 
-  /* line 545, ../../../sass/atoms/_buttons.scss */
+  /* line 562, ../../../sass/atoms/_buttons.scss */
   .data-menu {
     padding-bottom: 16px;
   }
-  /* line 547, ../../../sass/atoms/_buttons.scss */
+  /* line 564, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
@@ -12934,18 +12641,18 @@ i {
     font-weight: 300;
     float: left;
   }
-  /* line 557, ../../../sass/atoms/_buttons.scss */
+  /* line 574, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button:hover, .data-menu .data-button:focus {
     color: #ebf5ff;
     background-color: #ff0033;
   }
-  /* line 563, ../../../sass/atoms/_buttons.scss */
+  /* line 580, ../../../sass/atoms/_buttons.scss */
   .data-menu .active {
     color: #ebf5ff;
     background-color: #ff0033;
   }
 
-  /* line 568, ../../../sass/atoms/_buttons.scss */
+  /* line 585, ../../../sass/atoms/_buttons.scss */
   .vb-submit {
     background-color: #ff0033;
     position: relative;
@@ -12962,13 +12669,13 @@ i {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 580, ../../../sass/atoms/_buttons.scss */
+  /* line 597, ../../../sass/atoms/_buttons.scss */
   .vb-submit:hover, .vb-submit:focus {
     color: #ff0033;
     background-color: #ebf5ff;
   }
 
-  /* line 586, ../../../sass/atoms/_buttons.scss */
+  /* line 603, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down {
     font-size: 0.5em;
     cursor: default;
@@ -12978,7 +12685,7 @@ i {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 592, ../../../sass/atoms/_buttons.scss */
+  /* line 609, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down a:hover, .vb-btn-down a:focus, .vb-btn-down a:active {
     outline: none;
     border: none;
@@ -13083,17 +12790,12 @@ i {
     &:hover,
     &:focus {}
 }*/
-/* line 4, ../../../sass/molecules/_forms.scss */
-*:focus {
-  outline: none;
-}
-
-/* line 9, ../../../sass/molecules/_forms.scss */
+/* line 5, ../../../sass/molecules/_forms.scss */
 form input[type="text"]:disabled {
   cursor: not-allowed;
   opacity: 0.25;
 }
-/* line 13, ../../../sass/molecules/_forms.scss */
+/* line 9, ../../../sass/molecules/_forms.scss */
 form .input-sm, form .input-group-sm > .form-control,
 form .input-group-sm > .input-group-addon,
 form .input-group-sm > .input-group-btn > .btn, form .input-lg, form .input-group-lg > .form-control,
@@ -13104,18 +12806,12 @@ form .input-group-lg > .input-group-btn > .btn {
   -ms-border-radius: 0;
   border-radius: 0;
 }
-/* line 16, ../../../sass/molecules/_forms.scss */
+/* line 12, ../../../sass/molecules/_forms.scss */
 form .col-md-6, form .col-md-4, form .col-sm-6, form .col-md-8, form .col-md-10, form .col-md-12, form .col-md-8 {
   padding-left: 0;
   margin-left: 0;
 }
-/* line 20, ../../../sass/molecules/_forms.scss */
-form label {
-  font-size: 18px;
-  font-weight: 300px;
-  padding-bottom: 4px;
-}
-/* line 25, ../../../sass/molecules/_forms.scss */
+/* line 17, ../../../sass/molecules/_forms.scss */
 form input, form textarea {
   font-size: 24px;
   font-weight: 300px;
@@ -13123,18 +12819,13 @@ form input, form textarea {
   margin: 0;
 }
 
-/* line 33, ../../../sass/molecules/_forms.scss */
-#info {
-  margin: 16px 0;
-}
-
-/* line 37, ../../../sass/molecules/_forms.scss */
+/* line 26, ../../../sass/molecules/_forms.scss */
 .feedback {
   font-size: 24px;
   display: none;
 }
 
-/* line 42, ../../../sass/molecules/_forms.scss */
+/* line 31, ../../../sass/molecules/_forms.scss */
 .form-control {
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
@@ -13144,17 +12835,7 @@ form input, form textarea {
   font-size: 24px;
 }
 
-/* line 48, ../../../sass/molecules/_forms.scss */
-.label {
-  opacity: 0.8;
-  cursor: pointer;
-}
-/* line 51, ../../../sass/molecules/_forms.scss */
-.label:hover {
-  opacity: 1;
-}
-
-/* line 56, ../../../sass/molecules/_forms.scss */
+/* line 37, ../../../sass/molecules/_forms.scss */
 .alert {
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
@@ -13162,13 +12843,13 @@ form input, form textarea {
   border-radius: 0;
 }
 
-/* line 60, ../../../sass/molecules/_forms.scss */
+/* line 41, ../../../sass/molecules/_forms.scss */
 .alert-error {
   background-color: #eac7c6;
   color: #ba4845;
 }
 
-/* line 65, ../../../sass/molecules/_forms.scss */
+/* line 46, ../../../sass/molecules/_forms.scss */
 .checkbox input[type=checkbox],
 .checkbox-inline input[type=checkbox],
 .radio input[type=radio],
@@ -13177,7 +12858,7 @@ form input, form textarea {
   margin-right: 4px;
 }
 
-/* line 73, ../../../sass/molecules/_forms.scss */
+/* line 54, ../../../sass/molecules/_forms.scss */
 textarea:focus,
 input[type="text"]:focus,
 input[type="password"]:focus,
@@ -13201,7 +12882,7 @@ input[type="color"]:focus,
   opacity: 1;
 }
 
-/* line 96, ../../../sass/molecules/_forms.scss */
+/* line 77, ../../../sass/molecules/_forms.scss */
 textarea,
 input[type="text"],
 input[type="password"],
@@ -13224,7 +12905,7 @@ input[type="color"],
   opacity: 0.75;
 }
 
-/* line 118, ../../../sass/molecules/_forms.scss */
+/* line 99, ../../../sass/molecules/_forms.scss */
 .form-input {
   width: 100%;
   padding: 6px 8px;
@@ -13235,14 +12916,14 @@ input[type="color"],
   background-color: #ebf5ff;
 }
 
-/* line 128, ../../../sass/molecules/_forms.scss */
+/* line 109, ../../../sass/molecules/_forms.scss */
 .parsley-required, .parsley-errors-list {
   font-size: 24px;
   color: #ff0033;
   font-weight: 500;
 }
 
-/* line 134, ../../../sass/molecules/_forms.scss */
+/* line 115, ../../../sass/molecules/_forms.scss */
 .form-text {
   width: 100%;
   padding: 6px 8px;
@@ -13255,7 +12936,7 @@ input[type="color"],
   border: solid 1px #39393D;
   opacity: 0.75;
 }
-/* line 146, ../../../sass/molecules/_forms.scss */
+/* line 127, ../../../sass/molecules/_forms.scss */
 .form-text:focus {
   color: #39393D;
   border: solid 1px #39393D;
@@ -13264,223 +12945,223 @@ input[type="color"],
   opacity: 1;
 }
 
-/* line 155, ../../../sass/molecules/_forms.scss */
+/* line 136, ../../../sass/molecules/_forms.scss */
 #contact-text li {
   padding-top: 16px;
   position: relative;
 }
-/* line 158, ../../../sass/molecules/_forms.scss */
+/* line 139, ../../../sass/molecules/_forms.scss */
 #contact-text li:last-child {
   padding-top: 4px;
 }
 
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 187, ../../../sass/molecules/_forms.scss */
+  /* line 168, ../../../sass/molecules/_forms.scss */
   #contact-text {
     margin: auto;
     width: 900px;
   }
 
-  /* line 192, ../../../sass/molecules/_forms.scss */
+  /* line 173, ../../../sass/molecules/_forms.scss */
   form .col-md-2, form .col-md-4, form .col-md-6, form .col-sm-6, form .col-md-8, form .col-md-10, form .col-md-12, form .col-md-8 {
     padding-left: 0;
     margin-left: 0;
   }
-  /* line 196, ../../../sass/molecules/_forms.scss */
+  /* line 177, ../../../sass/molecules/_forms.scss */
   form p {
     font-size: 32px;
     font-weight: 300px;
     padding-bottom: 4px;
   }
-  /* line 201, ../../../sass/molecules/_forms.scss */
+  /* line 182, ../../../sass/molecules/_forms.scss */
   form input, form textarea {
     font-size: 24px;
     font-weight: 300px;
     padding: 4px;
   }
-  /* line 206, ../../../sass/molecules/_forms.scss */
+  /* line 187, ../../../sass/molecules/_forms.scss */
   form input {
     height: 64px;
   }
-  /* line 209, ../../../sass/molecules/_forms.scss */
+  /* line 190, ../../../sass/molecules/_forms.scss */
   form textarea {
     height: 128px;
   }
 }
 @media (max-width: 1279px) and (min-width: 960px) {
-  /* line 216, ../../../sass/molecules/_forms.scss */
+  /* line 197, ../../../sass/molecules/_forms.scss */
   #contact-text {
     margin: auto;
     width: 768px;
   }
 
-  /* line 221, ../../../sass/molecules/_forms.scss */
+  /* line 202, ../../../sass/molecules/_forms.scss */
   form .col-md-2, form .col-md-4, form .col-md-6, form .col-sm-6, form .col-md-8, form .col-md-10, form .col-md-12, form .col-md-8 {
     padding-left: 0;
     margin-left: 0;
   }
-  /* line 225, ../../../sass/molecules/_forms.scss */
+  /* line 206, ../../../sass/molecules/_forms.scss */
   form p {
     font-size: 32px;
     font-weight: 300px;
     padding-bottom: 4px;
   }
-  /* line 230, ../../../sass/molecules/_forms.scss */
+  /* line 211, ../../../sass/molecules/_forms.scss */
   form input, form textarea {
     font-size: 24px;
     font-weight: 300px;
     padding: 4px;
   }
-  /* line 235, ../../../sass/molecules/_forms.scss */
+  /* line 216, ../../../sass/molecules/_forms.scss */
   form input {
     height: 64px;
   }
-  /* line 238, ../../../sass/molecules/_forms.scss */
+  /* line 219, ../../../sass/molecules/_forms.scss */
   form textarea {
     height: 128px;
   }
 }
 @media (max-width: 960px) and (min-width: 767px) {
-  /* line 247, ../../../sass/molecules/_forms.scss */
+  /* line 228, ../../../sass/molecules/_forms.scss */
   form .col-md-2, form .col-md-3, form .col-md-6, form .col-md-4, form .col-sm-6, form .col-md-8, form .col-md-10, form .col-md-12, form .col-md-8,
   form .col-xs-6, form .col-xs-8, form .col-xs-10 {
     padding-left: 0;
     margin-left: 0;
   }
-  /* line 252, ../../../sass/molecules/_forms.scss */
+  /* line 233, ../../../sass/molecules/_forms.scss */
   form p {
     font-size: 28px;
     font-weight: 300px;
     padding-bottom: 4px;
   }
-  /* line 257, ../../../sass/molecules/_forms.scss */
+  /* line 238, ../../../sass/molecules/_forms.scss */
   form input, form textarea {
     font-size: 18px;
     font-weight: 300px;
     padding: 4px;
   }
-  /* line 262, ../../../sass/molecules/_forms.scss */
+  /* line 243, ../../../sass/molecules/_forms.scss */
   form input {
     height: 64px;
   }
-  /* line 265, ../../../sass/molecules/_forms.scss */
+  /* line 246, ../../../sass/molecules/_forms.scss */
   form textarea {
     height: 128px;
   }
 }
 @media (max-width: 767px) and (min-width: 480px) {
-  /* line 274, ../../../sass/molecules/_forms.scss */
+  /* line 255, ../../../sass/molecules/_forms.scss */
   form .feedback {
     font-size: 18px;
     display: none;
   }
-  /* line 278, ../../../sass/molecules/_forms.scss */
+  /* line 259, ../../../sass/molecules/_forms.scss */
   form .parsley-required, form .parsley-errors-list {
     font-size: 16px;
     color: #ff0033;
     font-weight: 500;
   }
-  /* line 283, ../../../sass/molecules/_forms.scss */
+  /* line 264, ../../../sass/molecules/_forms.scss */
   form .col-md-2, form .col-md-3, form .col-md-6, form .col-md-4, form .col-sm-6, form .col-md-8, form .col-md-10, form .col-md-12, form .col-md-8,
   form .col-xs-6, form .col-xs-8, form .col-xs-10 {
     padding: 0;
     margin: 0;
   }
-  /* line 288, ../../../sass/molecules/_forms.scss */
+  /* line 269, ../../../sass/molecules/_forms.scss */
   form p {
     font-size: 28px;
     font-weight: 300px;
     padding-bottom: 4px;
   }
-  /* line 293, ../../../sass/molecules/_forms.scss */
+  /* line 274, ../../../sass/molecules/_forms.scss */
   form input, form textarea {
     font-size: 18px;
     font-weight: 300px;
     padding: 4px;
   }
-  /* line 298, ../../../sass/molecules/_forms.scss */
+  /* line 279, ../../../sass/molecules/_forms.scss */
   form input {
     height: 48px;
   }
-  /* line 301, ../../../sass/molecules/_forms.scss */
+  /* line 282, ../../../sass/molecules/_forms.scss */
   form textarea {
     height: 96px;
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 310, ../../../sass/molecules/_forms.scss */
+  /* line 291, ../../../sass/molecules/_forms.scss */
   form .feedback {
     font-size: 18px;
     display: none;
   }
-  /* line 314, ../../../sass/molecules/_forms.scss */
+  /* line 295, ../../../sass/molecules/_forms.scss */
   form .parsley-required, form .parsley-errors-list {
     font-size: 16px;
     color: #ff0033;
     font-weight: 500;
   }
-  /* line 319, ../../../sass/molecules/_forms.scss */
+  /* line 300, ../../../sass/molecules/_forms.scss */
   form .col-md-2, form .col-md-3, form .col-md-6, form .col-md-4, form .col-sm-6, form .col-md-8, form .col-md-10, form .col-md-12, form .col-md-8,
   form .col-xs-6, form .col-xs-8, form .col-xs-10 {
     padding: 0;
     margin: 0;
   }
-  /* line 324, ../../../sass/molecules/_forms.scss */
+  /* line 305, ../../../sass/molecules/_forms.scss */
   form p {
     font-size: 28px;
     font-weight: 300px;
     padding-bottom: 4px;
   }
-  /* line 329, ../../../sass/molecules/_forms.scss */
+  /* line 310, ../../../sass/molecules/_forms.scss */
   form input, form textarea {
     font-size: 18px;
     font-weight: 300px;
     padding: 4px;
   }
-  /* line 334, ../../../sass/molecules/_forms.scss */
+  /* line 315, ../../../sass/molecules/_forms.scss */
   form input {
     height: 48px;
   }
-  /* line 337, ../../../sass/molecules/_forms.scss */
+  /* line 318, ../../../sass/molecules/_forms.scss */
   form textarea {
     height: 96px;
   }
 }
 @media (max-width: 320px) {
-  /* line 346, ../../../sass/molecules/_forms.scss */
+  /* line 327, ../../../sass/molecules/_forms.scss */
   form .feedback {
     font-size: 18px;
     display: none;
   }
-  /* line 350, ../../../sass/molecules/_forms.scss */
+  /* line 331, ../../../sass/molecules/_forms.scss */
   form .parsley-required, form .parsley-errors-list {
     font-size: 16px;
     color: #ff0033;
     font-weight: 500;
   }
-  /* line 355, ../../../sass/molecules/_forms.scss */
+  /* line 336, ../../../sass/molecules/_forms.scss */
   form .col-md-2, form .col-md-3, form .col-md-6, form .col-md-4, form .col-sm-6, form .col-md-8, form .col-md-10, form .col-md-12, form .col-md-8,
   form .col-xs-6, form .col-xs-8, form .col-xs-10 {
     padding: 0;
     margin: 0;
   }
-  /* line 360, ../../../sass/molecules/_forms.scss */
+  /* line 341, ../../../sass/molecules/_forms.scss */
   form p {
     font-size: 26px;
     font-weight: 300px;
     padding-bottom: 4px;
   }
-  /* line 365, ../../../sass/molecules/_forms.scss */
+  /* line 346, ../../../sass/molecules/_forms.scss */
   form input, form textarea {
     font-size: 18px;
     font-weight: 300px;
     padding: 4px;
   }
-  /* line 370, ../../../sass/molecules/_forms.scss */
+  /* line 351, ../../../sass/molecules/_forms.scss */
   form input {
     height: 48px;
   }
-  /* line 373, ../../../sass/molecules/_forms.scss */
+  /* line 354, ../../../sass/molecules/_forms.scss */
   form textarea {
     height: 96px;
   }
@@ -13630,8 +13311,199 @@ blockquote footer {
   border-radius: 0;
   font-family: "Ubuntu", Arial, sans-serif;
   font-weight: 200;
+  opacity: 0.8;
+  cursor: pointer;
+}
+/* line 20, ../../../sass/molecules/_textelements.scss */
+.label:hover {
+  opacity: 1;
 }
 
+@media (min-width: 2400px) {
+  /* line 26, ../../../sass/molecules/_textelements.scss */
+  .text-block {
+    padding: 32px 0;
+  }
+
+  /* line 29, ../../../sass/molecules/_textelements.scss */
+  .text-container {
+    width: 900px;
+    margin: auto;
+  }
+
+  /* line 33, ../../../sass/molecules/_textelements.scss */
+  .gallery-text {
+    font-weight: 300;
+    font-size: 1.2em;
+    line-height: 1.5;
+  }
+}
+@media (max-width: 2400px) and (min-width: 1279px) {
+  /* line 41, ../../../sass/molecules/_textelements.scss */
+  .text-block {
+    padding: 32px 0;
+  }
+
+  /* line 44, ../../../sass/molecules/_textelements.scss */
+  .text-container {
+    width: 900px;
+    margin: auto;
+  }
+
+  /* line 48, ../../../sass/molecules/_textelements.scss */
+  .jumbo-text {
+    font-weight: 300;
+    font-size: 3.6em;
+    text-align: left;
+    width: 900px;
+    margin: 0 auto;
+  }
+
+  /* line 55, ../../../sass/molecules/_textelements.scss */
+  .gallery-text {
+    font-weight: 300;
+    font-size: 1.2em;
+    line-height: 1.5;
+  }
+}
+@media (max-width: 1279px) and (min-width: 960px) {
+  /* line 63, ../../../sass/molecules/_textelements.scss */
+  .text-container {
+    width: 900px;
+    margin: auto;
+  }
+
+  /* line 67, ../../../sass/molecules/_textelements.scss */
+  .text-block {
+    padding: 32px 0;
+  }
+
+  /* line 70, ../../../sass/molecules/_textelements.scss */
+  .jumbo-text {
+    font-weight: 300;
+    font-size: 2em;
+    text-align: left;
+    width: 642px;
+    margin: 0 auto;
+  }
+
+  /* line 77, ../../../sass/molecules/_textelements.scss */
+  .gallery-text {
+    font-weight: 300;
+    font-size: 1.2em;
+    line-height: 1.5;
+  }
+}
+@media (max-width: 960px) and (min-width: 767px) {
+  /* line 85, ../../../sass/molecules/_textelements.scss */
+  .text-block {
+    padding: 16px 0;
+  }
+
+  /* line 88, ../../../sass/molecules/_textelements.scss */
+  .text-container {
+    padding: 0 64px;
+    max-width: 900px;
+    margin: auto;
+  }
+
+  /* line 93, ../../../sass/molecules/_textelements.scss */
+  .jumbo-text {
+    font-weight: 300;
+    font-size: 2em;
+    text-align: left;
+    width: 556px;
+    margin: 0 auto;
+  }
+
+  /* line 100, ../../../sass/molecules/_textelements.scss */
+  .gallery-text {
+    font-weight: 300;
+    font-size: 1em;
+    line-height: 1.5;
+  }
+}
+@media (max-width: 767px) and (min-width: 480px) {
+  /* line 108, ../../../sass/molecules/_textelements.scss */
+  .text-block {
+    padding: 16px 0;
+  }
+
+  /* line 111, ../../../sass/molecules/_textelements.scss */
+  .text-container {
+    padding: 0 32px;
+  }
+
+  /* line 114, ../../../sass/molecules/_textelements.scss */
+  .jumbo-text {
+    font-weight: 300;
+    font-size: 2em;
+    text-align: left;
+    width: 428px;
+    margin: 0 auto;
+  }
+
+  /* line 121, ../../../sass/molecules/_textelements.scss */
+  .gallery-text {
+    font-weight: 300;
+    font-size: 0.9em;
+    line-height: 1.5;
+  }
+}
+@media (max-width: 480px) and (min-width: 320px) {
+  /* line 129, ../../../sass/molecules/_textelements.scss */
+  .gallery-text {
+    font-weight: 300;
+    font-size: 0.9em;
+    line-height: 1.5;
+  }
+
+  /* line 134, ../../../sass/molecules/_textelements.scss */
+  .jumbo-text {
+    font-weight: 300;
+    font-size: 1.8em;
+    text-align: left;
+    width: 256px;
+    margin: 0 auto;
+  }
+
+  /* line 141, ../../../sass/molecules/_textelements.scss */
+  .text-block {
+    padding: 16px 0;
+  }
+
+  /* line 144, ../../../sass/molecules/_textelements.scss */
+  .text-container {
+    padding: 0 32px;
+  }
+}
+@media (max-width: 320px) {
+  /* line 150, ../../../sass/molecules/_textelements.scss */
+  .text-block {
+    padding: 16px 0;
+  }
+
+  /* line 153, ../../../sass/molecules/_textelements.scss */
+  .text-container {
+    padding: 0 32px;
+  }
+
+  /* line 156, ../../../sass/molecules/_textelements.scss */
+  .jumbo-text {
+    font-weight: 300;
+    font-size: 1.8em;
+    text-align: left;
+    width: 256px;
+    margin: 0 auto;
+  }
+
+  /* line 163, ../../../sass/molecules/_textelements.scss */
+  .gallery-text {
+    font-weight: 300;
+    font-size: 0.9em;
+    line-height: 1.5;
+  }
+}
 /* line 4, ../../../sass/organisms/_nav.scss */
 header,
 body,
@@ -13661,7 +13533,14 @@ section {
   overflow: none;
 }
 
-/* line 32, ../../../sass/organisms/_nav.scss */
+/* line 33, ../../../sass/organisms/_nav.scss */
+.navmenu-fixed-right {
+  overflow-y: hidden !important;
+  height: 100%;
+  padding-bottom: 64px;
+}
+
+/* line 39, ../../../sass/organisms/_nav.scss */
 nav.navmenu {
   overflow: none;
   z-index: 9999;
@@ -13670,7 +13549,7 @@ nav.navmenu {
   border: none;
   color: #ebf5ff;
 }
-/* line 39, ../../../sass/organisms/_nav.scss */
+/* line 46, ../../../sass/organisms/_nav.scss */
 nav.navmenu li {
   padding: 16px 0;
   font-size: 1.5em;
@@ -13680,80 +13559,80 @@ nav.navmenu li {
   border-left: 0px;
   border-right: 0px;
 }
-/* line 47, ../../../sass/organisms/_nav.scss */
+/* line 54, ../../../sass/organisms/_nav.scss */
 nav.navmenu li:hover, nav.navmenu li:focus {
   cursor: pointer;
   background-color: #ff0033;
 }
-/* line 53, ../../../sass/organisms/_nav.scss */
+/* line 60, ../../../sass/organisms/_nav.scss */
 nav.navmenu a {
   text-decoration: none;
   color: #ebf5ff;
 }
-/* line 57, ../../../sass/organisms/_nav.scss */
+/* line 64, ../../../sass/organisms/_nav.scss */
 nav.navmenu #close {
-  height: 64px;
-  padding: 0 16px;
+  height: auto;
+  padding: 0 24px;
   background-color: #1C1C1C;
   color: #ebf5ff;
 }
-/* line 62, ../../../sass/organisms/_nav.scss */
+/* line 69, ../../../sass/organisms/_nav.scss */
 nav.navmenu #close .fa-close {
   font-size: 36px;
 }
-/* line 66, ../../../sass/organisms/_nav.scss */
+/* line 73, ../../../sass/organisms/_nav.scss */
 nav.navmenu .social {
   padding: 32px 0;
   margin: auto;
 }
-/* line 67, ../../../sass/organisms/_nav.scss */
+/* line 74, ../../../sass/organisms/_nav.scss */
 nav.navmenu .social a {
   width: 48px;
   padding: 0;
   margin: 0;
 }
-/* line 71, ../../../sass/organisms/_nav.scss */
+/* line 78, ../../../sass/organisms/_nav.scss */
 nav.navmenu .social a:hover, nav.navmenu .social a:focus, nav.navmenu .social a:active {
   background-color: #39393D;
 }
-/* line 78, ../../../sass/organisms/_nav.scss */
+/* line 85, ../../../sass/organisms/_nav.scss */
 nav.navmenu .social img {
   width: 48px;
 }
-/* line 83, ../../../sass/organisms/_nav.scss */
+/* line 89, ../../../sass/organisms/_nav.scss */
 nav.navmenu .social .icon {
   float: left;
   width: auto;
 }
-/* line 86, ../../../sass/organisms/_nav.scss */
+/* line 92, ../../../sass/organisms/_nav.scss */
 nav.navmenu .social .icon:hover, nav.navmenu .social .icon:focus {
   opacity: 0.5;
 }
 
-/* line 94, ../../../sass/organisms/_nav.scss */
+/* line 100, ../../../sass/organisms/_nav.scss */
 .navigation > a.active {
   z-index: 999;
   color: #ebf5ff;
 }
-/* line 96, ../../../sass/organisms/_nav.scss */
+/* line 102, ../../../sass/organisms/_nav.scss */
 .navigation > a.active li {
   background-color: #ff0033;
 }
 
-/* line 102, ../../../sass/organisms/_nav.scss */
+/* line 108, ../../../sass/organisms/_nav.scss */
 .navigation > a.inactive {
   background-color: #f6cc00;
   color: #ebf5ff;
 }
 
-/* line 107, ../../../sass/organisms/_nav.scss */
+/* line 113, ../../../sass/organisms/_nav.scss */
 .nav > li > a {
   position: relative;
   display: block;
   padding: 10px 15px;
 }
 
-/* line 113, ../../../sass/organisms/_nav.scss */
+/* line 119, ../../../sass/organisms/_nav.scss */
 .navbar {
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
@@ -13767,69 +13646,59 @@ nav.navmenu .social .icon:hover, nav.navmenu .social .icon:focus {
   padding: 0 8px;
   background-color: #39393D;
 }
-/* line 119, ../../../sass/organisms/_nav.scss */
+/* line 125, ../../../sass/organisms/_nav.scss */
 .navbar .fa-bars {
   font-size: 36px;
 }
-/* line 126, ../../../sass/organisms/_nav.scss */
+/* line 132, ../../../sass/organisms/_nav.scss */
 .navbar .dropdown-menu li:hover, .navbar .dropdown-menu li:focus {
   background-color: #ff0033;
   color: #ebf5ff;
 }
 
-/* line 134, ../../../sass/organisms/_nav.scss */
+/* line 140, ../../../sass/organisms/_nav.scss */
 .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
   background-color: #ff0033;
   color: #ebf5ff;
 }
 
 @media (min-width: 2400px) {
-  /* line 221, ../../../sass/organisms/_nav.scss */
-  ul#links {
-    height: 90vh;
-  }
-
-  /* line 224, ../../../sass/organisms/_nav.scss */
+  /* line 227, ../../../sass/organisms/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 
-  /* line 229, ../../../sass/organisms/_nav.scss */
+  /* line 232, ../../../sass/organisms/_nav.scss */
   .social {
     margin: auto;
   }
-  /* line 230, ../../../sass/organisms/_nav.scss */
+  /* line 233, ../../../sass/organisms/_nav.scss */
   .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 234, ../../../sass/organisms/_nav.scss */
+  /* line 237, ../../../sass/organisms/_nav.scss */
   .social a:hover, .social a:focus, .social a:active {
     background-color: #39393D;
   }
-  /* line 240, ../../../sass/organisms/_nav.scss */
+  /* line 243, ../../../sass/organisms/_nav.scss */
   .social img {
     width: 48px;
   }
-  /* line 245, ../../../sass/organisms/_nav.scss */
+  /* line 247, ../../../sass/organisms/_nav.scss */
   .social .icon {
     float: left;
     width: auto;
   }
-  /* line 248, ../../../sass/organisms/_nav.scss */
+  /* line 250, ../../../sass/organisms/_nav.scss */
   .social .icon:hover, .social .icon:focus {
     opacity: 0.5;
   }
 }
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 257, ../../../sass/organisms/_nav.scss */
-  ul#links {
-    height: 90vh;
-  }
-
   /* line 260, ../../../sass/organisms/_nav.scss */
   .navbar-brand {
     height: 49px;
@@ -13855,246 +13724,226 @@ nav.navmenu .social .icon:hover, nav.navmenu .social .icon:focus {
   .social img {
     width: 48px;
   }
-  /* line 281, ../../../sass/organisms/_nav.scss */
+  /* line 280, ../../../sass/organisms/_nav.scss */
   .social .icon {
     float: left;
     width: auto;
   }
-  /* line 284, ../../../sass/organisms/_nav.scss */
+  /* line 283, ../../../sass/organisms/_nav.scss */
   .social .icon:hover, .social .icon:focus {
     opacity: 0.5;
   }
 }
 @media (max-width: 1279px) and (min-width: 767px) {
-  /* line 294, ../../../sass/organisms/_nav.scss */
-  ul#links {
-    height: 90vh;
-  }
-
-  /* line 297, ../../../sass/organisms/_nav.scss */
+  /* line 293, ../../../sass/organisms/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 
-  /* line 302, ../../../sass/organisms/_nav.scss */
+  /* line 298, ../../../sass/organisms/_nav.scss */
   .social {
     margin: auto;
   }
-  /* line 303, ../../../sass/organisms/_nav.scss */
+  /* line 299, ../../../sass/organisms/_nav.scss */
   .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 307, ../../../sass/organisms/_nav.scss */
+  /* line 303, ../../../sass/organisms/_nav.scss */
   .social a:hover, .social a:focus, .social a:active {
     background-color: #39393D;
   }
-  /* line 313, ../../../sass/organisms/_nav.scss */
+  /* line 309, ../../../sass/organisms/_nav.scss */
   .social img {
     width: 48px;
   }
-  /* line 318, ../../../sass/organisms/_nav.scss */
+  /* line 313, ../../../sass/organisms/_nav.scss */
   .social .icon {
     float: left;
     width: auto;
   }
-  /* line 321, ../../../sass/organisms/_nav.scss */
+  /* line 316, ../../../sass/organisms/_nav.scss */
   .social .icon:hover, .social .icon:focus {
     opacity: 0.5;
   }
 }
 @media (max-width: 767px) and (min-width: 480px) {
-  /* line 331, ../../../sass/organisms/_nav.scss */
-  ul#links {
-    height: 90vh;
-  }
-
-  /* line 334, ../../../sass/organisms/_nav.scss */
+  /* line 326, ../../../sass/organisms/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 
-  /* line 339, ../../../sass/organisms/_nav.scss */
+  /* line 331, ../../../sass/organisms/_nav.scss */
   nav.navmenu {
     width: 100%;
     z-index: 9999;
     background-color: #1C1C1C;
     border: none;
   }
-  /* line 340, ../../../sass/organisms/_nav.scss */
+  /* line 332, ../../../sass/organisms/_nav.scss */
   nav.navmenu img {
     width: 48px;
   }
-  /* line 343, ../../../sass/organisms/_nav.scss */
+  /* line 335, ../../../sass/organisms/_nav.scss */
   nav.navmenu li {
     font-size: 1.2em;
     font-weight: 300;
     text-align: center;
   }
-  /* line 348, ../../../sass/organisms/_nav.scss */
+  /* line 340, ../../../sass/organisms/_nav.scss */
   nav.navmenu a {
     text-decoration: none;
     color: #fff;
   }
-  /* line 352, ../../../sass/organisms/_nav.scss */
+  /* line 344, ../../../sass/organisms/_nav.scss */
   nav.navmenu #close {
-    height: 64px;
-    padding: 0 16px;
+    height: auto;
+    padding: 0 24px;
     background-color: #1C1C1C;
     color: #ebf5ff;
   }
-  /* line 357, ../../../sass/organisms/_nav.scss */
+  /* line 349, ../../../sass/organisms/_nav.scss */
   nav.navmenu #close .fa-close {
     font-size: 36px;
   }
-  /* line 365, ../../../sass/organisms/_nav.scss */
+  /* line 357, ../../../sass/organisms/_nav.scss */
   nav.navmenu .social {
     margin: auto;
   }
-  /* line 366, ../../../sass/organisms/_nav.scss */
+  /* line 358, ../../../sass/organisms/_nav.scss */
   nav.navmenu .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 370, ../../../sass/organisms/_nav.scss */
+  /* line 362, ../../../sass/organisms/_nav.scss */
   nav.navmenu .social a:hover, nav.navmenu .social a:focus, nav.navmenu .social a:active {
     background-color: #39393D;
   }
-  /* line 378, ../../../sass/organisms/_nav.scss */
+  /* line 369, ../../../sass/organisms/_nav.scss */
   nav.navmenu .social .icon {
     float: left;
     width: auto;
   }
-  /* line 380, ../../../sass/organisms/_nav.scss */
+  /* line 371, ../../../sass/organisms/_nav.scss */
   nav.navmenu .social .icon:last-child:after {
     padding: 32px;
   }
 
-  /* line 387, ../../../sass/organisms/_nav.scss */
+  /* line 378, ../../../sass/organisms/_nav.scss */
   #links > a.active {
     background-color: #ff0033;
     color: #ebf5ff;
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 395, ../../../sass/organisms/_nav.scss */
-  ul#links {
-    height: 84vh;
-  }
-
-  /* line 398, ../../../sass/organisms/_nav.scss */
+  /* line 386, ../../../sass/organisms/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 
-  /* line 403, ../../../sass/organisms/_nav.scss */
+  /* line 391, ../../../sass/organisms/_nav.scss */
   nav.navmenu {
     width: 100%;
     z-index: 9999;
     background-color: #1C1C1C;
     border: none;
   }
-  /* line 404, ../../../sass/organisms/_nav.scss */
+  /* line 392, ../../../sass/organisms/_nav.scss */
   nav.navmenu img {
     width: 48px;
   }
-  /* line 411, ../../../sass/organisms/_nav.scss */
+  /* line 399, ../../../sass/organisms/_nav.scss */
   nav.navmenu li {
     font-size: 1.2em;
     font-weight: 300;
     text-align: center;
   }
-  /* line 416, ../../../sass/organisms/_nav.scss */
+  /* line 404, ../../../sass/organisms/_nav.scss */
   nav.navmenu a {
     text-decoration: none;
     color: #fff;
   }
-  /* line 420, ../../../sass/organisms/_nav.scss */
+  /* line 408, ../../../sass/organisms/_nav.scss */
   nav.navmenu #close {
-    height: 64px;
-    padding: 0 16px;
+    height: auto;
+    padding: 0 24px;
     background-color: #1C1C1C;
   }
-  /* line 424, ../../../sass/organisms/_nav.scss */
+  /* line 412, ../../../sass/organisms/_nav.scss */
   nav.navmenu #close .fa-close {
     font-size: 36px;
   }
-  /* line 428, ../../../sass/organisms/_nav.scss */
+  /* line 416, ../../../sass/organisms/_nav.scss */
   nav.navmenu .social {
     margin: auto;
   }
-  /* line 429, ../../../sass/organisms/_nav.scss */
+  /* line 417, ../../../sass/organisms/_nav.scss */
   nav.navmenu .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 433, ../../../sass/organisms/_nav.scss */
+  /* line 421, ../../../sass/organisms/_nav.scss */
   nav.navmenu .social a:hover, nav.navmenu .social a:focus, nav.navmenu .social a:active {
     background-color: #39393D;
   }
-  /* line 441, ../../../sass/organisms/_nav.scss */
+  /* line 428, ../../../sass/organisms/_nav.scss */
   nav.navmenu .social .icon {
     float: left;
     width: auto;
   }
-  /* line 443, ../../../sass/organisms/_nav.scss */
+  /* line 430, ../../../sass/organisms/_nav.scss */
   nav.navmenu .social .icon:last-child:after {
     padding: 32px;
   }
 
-  /* line 450, ../../../sass/organisms/_nav.scss */
+  /* line 437, ../../../sass/organisms/_nav.scss */
   #links > a.active {
     background-color: #ff0033;
     color: #ebf5ff;
   }
 }
 @media (max-width: 320px) {
-  /* line 458, ../../../sass/organisms/_nav.scss */
-  ul#links {
-    height: 85vh;
-  }
-
-  /* line 461, ../../../sass/organisms/_nav.scss */
+  /* line 445, ../../../sass/organisms/_nav.scss */
   .social {
     margin: auto;
   }
-  /* line 462, ../../../sass/organisms/_nav.scss */
+  /* line 446, ../../../sass/organisms/_nav.scss */
   .social a {
     width: 48px;
     padding: 0;
     margin: 0;
   }
-  /* line 466, ../../../sass/organisms/_nav.scss */
+  /* line 450, ../../../sass/organisms/_nav.scss */
   .social a:hover, .social a:focus, .social a:active {
     background-color: #39393D;
   }
-  /* line 472, ../../../sass/organisms/_nav.scss */
+  /* line 456, ../../../sass/organisms/_nav.scss */
   .social img {
     width: 48px;
   }
-  /* line 477, ../../../sass/organisms/_nav.scss */
+  /* line 460, ../../../sass/organisms/_nav.scss */
   .social .icon {
     float: left;
     width: auto;
   }
 
-  /* line 482, ../../../sass/organisms/_nav.scss */
+  /* line 465, ../../../sass/organisms/_nav.scss */
   .navbar-brand {
     height: 49px;
     width: 49px;
     padding: 9px;
   }
 }
-/* line 488, ../../../sass/organisms/_nav.scss */
+/* line 472, ../../../sass/organisms/_nav.scss */
 .canvas-sliding {
   -moz-transition: top 0.6s,left 0.6s,bottom 0.6s,right 0.6s;
   -o-transition: top 0.6s,left 0.6s,bottom 0.6s,right 0.6s;
@@ -14115,15 +13964,6 @@ footer {
 }
 
 /* line 14, ../../../sass/organisms/_footer.scss */
-blockquote .small:before, blockquote footer:before, blockquote small:before {
-  content: "";
-}
-/* line 16, ../../../sass/organisms/_footer.scss */
-blockquote .small:before :before, blockquote footer:before :before, blockquote small:before :before {
-  content: "";
-}
-
-/* line 21, ../../../sass/organisms/_footer.scss */
 footer {
   position: relative;
   bottom: 0;
@@ -14131,38 +13971,18 @@ footer {
   height: 32px;
   padding: 16px 0;
 }
-/* line 27, ../../../sass/organisms/_footer.scss */
+/* line 20, ../../../sass/organisms/_footer.scss */
 footer p {
   margin: 0;
 }
 
-/* line 32, ../../../sass/organisms/_footer.scss */
-.social {
-  padding: 16px 0 64px 0;
-  width: 144px;
-  margin: auto;
-}
-/* line 34, ../../../sass/organisms/_footer.scss */
-.social img {
-  width: 48px;
-}
-/* line 39, ../../../sass/organisms/_footer.scss */
-.social .icon {
-  float: left;
-  width: auto;
-}
-/* line 42, ../../../sass/organisms/_footer.scss */
-.social .icon:hover, .social .icon:focus {
-  opacity: 0.5;
-}
-
 @media (min-width: 1279px) {
-  /* line 51, ../../../sass/organisms/_footer.scss */
+  /* line 27, ../../../sass/organisms/_footer.scss */
   .foot {
     border-top: solid 32px #39393D;
   }
 
-  /* line 54, ../../../sass/organisms/_footer.scss */
+  /* line 30, ../../../sass/organisms/_footer.scss */
   .bottom {
     text-align: left;
     height: auto;
@@ -14170,9 +13990,37 @@ footer p {
     background-color: #39393D;
     font-size: 18px;
   }
-  /* line 60, ../../../sass/organisms/_footer.scss */
+  /* line 36, ../../../sass/organisms/_footer.scss */
   .bottom .contact-info {
     width: auto;
+  }
+  /* line 39, ../../../sass/organisms/_footer.scss */
+  .bottom li {
+    line-height: 2em;
+  }
+
+  /* line 43, ../../../sass/organisms/_footer.scss */
+  .footer-text {
+    display: block;
+    background-color: #39393D;
+    height: 100%;
+    padding: 16px;
+    margin: 32px 0;
+  }
+}
+@media (max-width: 1279px) and (min-width: 767px) {
+  /* line 54, ../../../sass/organisms/_footer.scss */
+  .foot {
+    border-top: solid 16px #39393D;
+  }
+
+  /* line 57, ../../../sass/organisms/_footer.scss */
+  .bottom {
+    text-align: left;
+    height: auto;
+    padding: 32px;
+    background-color: #39393D;
+    font-size: 16px;
   }
   /* line 63, ../../../sass/organisms/_footer.scss */
   .bottom li {
@@ -14184,43 +14032,15 @@ footer p {
     display: block;
     background-color: #39393D;
     height: 100%;
-    padding: 16px;
-    margin: 32px 0;
-  }
-}
-@media (max-width: 1279px) and (min-width: 767px) {
-  /* line 78, ../../../sass/organisms/_footer.scss */
-  .foot {
-    border-top: solid 16px #39393D;
-  }
-
-  /* line 81, ../../../sass/organisms/_footer.scss */
-  .bottom {
-    text-align: left;
-    height: auto;
-    padding: 32px;
-    background-color: #39393D;
-    font-size: 16px;
-  }
-  /* line 87, ../../../sass/organisms/_footer.scss */
-  .bottom li {
-    line-height: 2em;
-  }
-
-  /* line 91, ../../../sass/organisms/_footer.scss */
-  .footer-text {
-    display: block;
-    background-color: #39393D;
-    height: 100%;
   }
 }
 @media (max-width: 767px) and (min-width: 480px) {
-  /* line 100, ../../../sass/organisms/_footer.scss */
+  /* line 76, ../../../sass/organisms/_footer.scss */
   .foot {
     border-top: solid 16px #39393D;
   }
 
-  /* line 103, ../../../sass/organisms/_footer.scss */
+  /* line 79, ../../../sass/organisms/_footer.scss */
   .footer-text {
     font-size: 16px;
     display: block;
@@ -14228,7 +14048,7 @@ footer p {
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 112, ../../../sass/organisms/_footer.scss */
+  /* line 88, ../../../sass/organisms/_footer.scss */
   .foot {
     border-top: solid 16px #39393D;
   }
@@ -14236,7 +14056,7 @@ footer p {
   font-size: 16px;
 }
 @media (max-width: 320px) {
-  /* line 120, ../../../sass/organisms/_footer.scss */
+  /* line 96, ../../../sass/organisms/_footer.scss */
   .foot {
     border-top: solid 16px #39393D;
   }
