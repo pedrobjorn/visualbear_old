@@ -4,10 +4,15 @@
 html,
 body {
     font-family: $vb-body-font-family;
-    color: $vb-light;
     font-weight: $light;
     font-size: $base-font-size;
+    color: $vb-light;
     line-height: $base-line-height;
+}
+
+.font-secondary {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: $light;
 }
 
 h0,
@@ -21,9 +26,13 @@ h6 {
     font-weight: $semi-bold;
 }
 
+blockquote {
+    margin: 8px 0 8px 0;
+    padding: 8px 0 8px 0;
+}
+
 a {
     color: $vb-primary;
-    // text-decoration: underline;
     &:hover,
     &:focus {
         text-decoration: none;
@@ -32,15 +41,8 @@ a {
     }
 }
 
-
-blockquote{
-    margin:8px 0 8px 0;
-    padding:8px 0 8px 0;
-}
-
 nav.offcanvas {
     text-transform: uppercase;
-    font-weight: $light;
     a {
         &:hover,
         &:focus {
@@ -49,31 +51,14 @@ nav.offcanvas {
     }
 }
 
-.highlight {
-    font-weight: $semi-bold;
-    padding-bottom: 4px;
-    //text-decoration: underline;
-    &:hover,
-    &:focus {
-        box-shadow: 8px 0 0 $vb-primary, -8px 0 0 $vb-primary;
-        color: $vb-light;
-        text-decoration: none;
-        background-color: $vb-primary;
-        //text-decoration: underline;
+.page-header {
+    margin: 0 0 16px 0;
+    border-bottom: 1px solid $vb-grey;
+}
 
-    }
-}
-.page-header{
-      margin:0 0 16px 0;
-      border-bottom: 1px solid  $vb-grey;
-}
 .emphasis {
     font-weight: $semi-bold;
     color: #fff;
-}
-
-.text-container{
-
 }
 
 li#center-justified {
@@ -84,22 +69,18 @@ li#left-justified {
     text-align: justified-left;
 }
 
-.font-secondary{
-   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-   font-weight: 300;
-}
-strong{
-    font-style:bold;
-    font-weight:700;
+strong {
+    font-style: bold;
+    font-weight: $bold;
 }
 
 b {
     font-weight: $semi-bold;
-      font-style: bold;
+    font-style: bold;
 }
 
-i{
-        font-style: italic;
+i {
+    font-style: italic;
 }
 
 .light {
@@ -108,6 +89,18 @@ i{
 
 .title {
     margin: 0;
+}
+
+.highlight {
+    font-weight: $semi-bold;
+    padding-bottom: 4px;
+    &:hover,
+    &:focus {
+        box-shadow: 8px 0 0 $vb-primary, -8px 0 0 $vb-primary;
+        color: $vb-light;
+        text-decoration: none;
+        background-color: $vb-primary;
+    }
 }
 
 @media (min-width: $break-huge) {
@@ -144,7 +137,7 @@ i{
     .semi-bold {
         font-weight: $semi-bold;
     }
-      .text-block {
+    .text-block {
         padding: 32px 0;
     }
     .header-block {

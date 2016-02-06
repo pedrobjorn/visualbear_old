@@ -11712,20 +11712,26 @@ li#left-justified {
 
 /* line 61, ../../../sass/atoms/_base.scss */
 .bold {
-  font-weight: 500;
+  font-weight: 700;
 }
 
 /* line 4, ../../../sass/atoms/_typography.scss */
 html,
 body {
   font-family: "Ubuntu", Arial, sans-serif;
-  color: #ebf5ff;
   font-weight: 300;
   font-size: 1.2em;
+  color: #ebf5ff;
   line-height: 1.35;
 }
 
 /* line 13, ../../../sass/atoms/_typography.scss */
+.font-secondary {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+
+/* line 18, ../../../sass/atoms/_typography.scss */
 h0,
 h1,
 h2,
@@ -11737,39 +11743,87 @@ h6 {
   font-weight: 400;
 }
 
-/* line 24, ../../../sass/atoms/_typography.scss */
+/* line 29, ../../../sass/atoms/_typography.scss */
+blockquote {
+  margin: 8px 0 8px 0;
+  padding: 8px 0 8px 0;
+}
+
+/* line 34, ../../../sass/atoms/_typography.scss */
 a {
   color: #ff0033;
 }
-/* line 27, ../../../sass/atoms/_typography.scss */
+/* line 36, ../../../sass/atoms/_typography.scss */
 a:hover, a:focus {
   text-decoration: none;
   color: #ebf5ff;
   background-color: #ff0033;
 }
 
-/* line 36, ../../../sass/atoms/_typography.scss */
-blockquote {
-  margin: 8px 0 8px 0;
-  padding: 8px 0 8px 0;
-}
-
-/* line 41, ../../../sass/atoms/_typography.scss */
+/* line 44, ../../../sass/atoms/_typography.scss */
 nav.offcanvas {
   text-transform: uppercase;
-  font-weight: 300;
 }
-/* line 45, ../../../sass/atoms/_typography.scss */
+/* line 47, ../../../sass/atoms/_typography.scss */
 nav.offcanvas a:hover, nav.offcanvas a:focus {
   color: #ebf5ff;
 }
 
-/* line 52, ../../../sass/atoms/_typography.scss */
+/* line 54, ../../../sass/atoms/_typography.scss */
+.page-header {
+  margin: 0 0 16px 0;
+  border-bottom: 1px solid #39393D;
+}
+
+/* line 59, ../../../sass/atoms/_typography.scss */
+.emphasis {
+  font-weight: 400;
+  color: #fff;
+}
+
+/* line 64, ../../../sass/atoms/_typography.scss */
+li#center-justified {
+  text-align: center;
+}
+
+/* line 68, ../../../sass/atoms/_typography.scss */
+li#left-justified {
+  text-align: justified-left;
+}
+
+/* line 72, ../../../sass/atoms/_typography.scss */
+strong {
+  font-style: bold;
+  font-weight: 700;
+}
+
+/* line 77, ../../../sass/atoms/_typography.scss */
+b {
+  font-weight: 400;
+  font-style: bold;
+}
+
+/* line 82, ../../../sass/atoms/_typography.scss */
+i {
+  font-style: italic;
+}
+
+/* line 86, ../../../sass/atoms/_typography.scss */
+.light {
+  font-weight: 300;
+}
+
+/* line 90, ../../../sass/atoms/_typography.scss */
+.title {
+  margin: 0;
+}
+
+/* line 94, ../../../sass/atoms/_typography.scss */
 .highlight {
   font-weight: 400;
   padding-bottom: 4px;
 }
-/* line 56, ../../../sass/atoms/_typography.scss */
+/* line 97, ../../../sass/atoms/_typography.scss */
 .highlight:hover, .highlight:focus {
   box-shadow: 8px 0 0 #ff0033, -8px 0 0 #ff0033;
   color: #ebf5ff;
@@ -11777,133 +11831,78 @@ nav.offcanvas a:hover, nav.offcanvas a:focus {
   background-color: #ff0033;
 }
 
-/* line 66, ../../../sass/atoms/_typography.scss */
-.page-header {
-  margin: 0 0 16px 0;
-  border-bottom: 1px solid #39393D;
-}
-
-/* line 70, ../../../sass/atoms/_typography.scss */
-.emphasis {
-  font-weight: 400;
-  color: #fff;
-}
-
-/* line 79, ../../../sass/atoms/_typography.scss */
-li#center-justified {
-  text-align: center;
-}
-
-/* line 83, ../../../sass/atoms/_typography.scss */
-li#left-justified {
-  text-align: justified-left;
-}
-
-/* line 87, ../../../sass/atoms/_typography.scss */
-.font-secondary {
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  font-weight: 300;
-}
-
-/* line 91, ../../../sass/atoms/_typography.scss */
-strong {
-  font-style: bold;
-  font-weight: 700;
-}
-
-/* line 96, ../../../sass/atoms/_typography.scss */
-b {
-  font-weight: 400;
-  font-style: bold;
-}
-
-/* line 101, ../../../sass/atoms/_typography.scss */
-i {
-  font-style: italic;
-}
-
-/* line 105, ../../../sass/atoms/_typography.scss */
-.light {
-  font-weight: 300;
-}
-
-/* line 109, ../../../sass/atoms/_typography.scss */
-.title {
-  margin: 0;
-}
-
 @media (min-width: 2400px) {
-  /* line 114, ../../../sass/atoms/_typography.scss */
+  /* line 107, ../../../sass/atoms/_typography.scss */
   h0 {
     font-size: 3.6em;
   }
 
-  /* line 117, ../../../sass/atoms/_typography.scss */
+  /* line 110, ../../../sass/atoms/_typography.scss */
   h1 {
     font-size: 2em;
   }
 
-  /* line 120, ../../../sass/atoms/_typography.scss */
+  /* line 113, ../../../sass/atoms/_typography.scss */
   h2 {
     font-size: 1.5em;
   }
 
-  /* line 123, ../../../sass/atoms/_typography.scss */
+  /* line 116, ../../../sass/atoms/_typography.scss */
   h3 {
     font-size: 1.17em;
   }
 
-  /* line 126, ../../../sass/atoms/_typography.scss */
+  /* line 119, ../../../sass/atoms/_typography.scss */
   h4 {
     font-size: 1em;
   }
 
-  /* line 129, ../../../sass/atoms/_typography.scss */
+  /* line 122, ../../../sass/atoms/_typography.scss */
   h5 {
     font-size: 0.83em;
   }
 
-  /* line 132, ../../../sass/atoms/_typography.scss */
+  /* line 125, ../../../sass/atoms/_typography.scss */
   h6 {
     font-size: 0.75em;
   }
 
-  /* line 135, ../../../sass/atoms/_typography.scss */
+  /* line 128, ../../../sass/atoms/_typography.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 1.2em;
     line-height: 1.5;
   }
 
-  /* line 140, ../../../sass/atoms/_typography.scss */
+  /* line 133, ../../../sass/atoms/_typography.scss */
   #about-text, #contact-text {
     font-size: 1.2em;
     line-height: 1.35;
   }
 
-  /* line 144, ../../../sass/atoms/_typography.scss */
+  /* line 137, ../../../sass/atoms/_typography.scss */
   .semi-bold {
     font-weight: 400;
   }
 
-  /* line 147, ../../../sass/atoms/_typography.scss */
+  /* line 140, ../../../sass/atoms/_typography.scss */
   .text-block {
     padding: 32px 0;
   }
 
-  /* line 151, ../../../sass/atoms/_typography.scss */
+  /* line 144, ../../../sass/atoms/_typography.scss */
   .header-block .subtitle {
     font-weight: 300;
   }
 
-  /* line 155, ../../../sass/atoms/_typography.scss */
+  /* line 148, ../../../sass/atoms/_typography.scss */
   .text-container {
     width: 900px;
     margin: auto;
   }
 }
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 162, ../../../sass/atoms/_typography.scss */
+  /* line 155, ../../../sass/atoms/_typography.scss */
   .jumbo-text {
     font-weight: 300;
     font-size: 4em;
@@ -11912,77 +11911,77 @@ i {
     margin: 0 auto;
   }
 
-  /* line 169, ../../../sass/atoms/_typography.scss */
+  /* line 162, ../../../sass/atoms/_typography.scss */
   h0 {
     font-size: 3.6em;
   }
 
-  /* line 172, ../../../sass/atoms/_typography.scss */
+  /* line 165, ../../../sass/atoms/_typography.scss */
   h1 {
     font-size: 2em;
   }
 
-  /* line 175, ../../../sass/atoms/_typography.scss */
+  /* line 168, ../../../sass/atoms/_typography.scss */
   h2 {
     font-size: 1.5em;
   }
 
-  /* line 178, ../../../sass/atoms/_typography.scss */
+  /* line 171, ../../../sass/atoms/_typography.scss */
   h3 {
     font-size: 1.17em;
   }
 
-  /* line 181, ../../../sass/atoms/_typography.scss */
+  /* line 174, ../../../sass/atoms/_typography.scss */
   h4 {
     font-size: 1em;
   }
 
-  /* line 184, ../../../sass/atoms/_typography.scss */
+  /* line 177, ../../../sass/atoms/_typography.scss */
   h5 {
     font-size: 0.83em;
   }
 
-  /* line 187, ../../../sass/atoms/_typography.scss */
+  /* line 180, ../../../sass/atoms/_typography.scss */
   h6 {
     font-size: 0.75em;
   }
 
-  /* line 190, ../../../sass/atoms/_typography.scss */
+  /* line 183, ../../../sass/atoms/_typography.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 1.2em;
     line-height: 1.5;
   }
 
-  /* line 195, ../../../sass/atoms/_typography.scss */
+  /* line 188, ../../../sass/atoms/_typography.scss */
   #about-text, #contact-text {
     font-size: 1.2em;
     line-height: 1.35;
   }
 
-  /* line 199, ../../../sass/atoms/_typography.scss */
+  /* line 192, ../../../sass/atoms/_typography.scss */
   .semi-bold {
     font-weight: 400;
   }
 
-  /* line 202, ../../../sass/atoms/_typography.scss */
+  /* line 195, ../../../sass/atoms/_typography.scss */
   .text-block {
     padding: 32px 0;
   }
 
-  /* line 205, ../../../sass/atoms/_typography.scss */
+  /* line 198, ../../../sass/atoms/_typography.scss */
   .subtitle {
     font-weight: 300;
   }
 
-  /* line 208, ../../../sass/atoms/_typography.scss */
+  /* line 201, ../../../sass/atoms/_typography.scss */
   .text-container {
     width: 900px;
     margin: auto;
   }
 }
 @media (max-width: 1279px) and (min-width: 960px) {
-  /* line 215, ../../../sass/atoms/_typography.scss */
+  /* line 208, ../../../sass/atoms/_typography.scss */
   .jumbo-text {
     font-weight: 300;
     font-size: 2.8em;
@@ -11991,77 +11990,77 @@ i {
     margin: 0 auto;
   }
 
-  /* line 222, ../../../sass/atoms/_typography.scss */
+  /* line 215, ../../../sass/atoms/_typography.scss */
   h0 {
     font-size: 3.6em;
   }
 
-  /* line 225, ../../../sass/atoms/_typography.scss */
+  /* line 218, ../../../sass/atoms/_typography.scss */
   h1 {
     font-size: 2em;
   }
 
-  /* line 228, ../../../sass/atoms/_typography.scss */
+  /* line 221, ../../../sass/atoms/_typography.scss */
   h2 {
     font-size: 1.5em;
   }
 
-  /* line 231, ../../../sass/atoms/_typography.scss */
+  /* line 224, ../../../sass/atoms/_typography.scss */
   h3 {
     font-size: 1.17em;
   }
 
-  /* line 234, ../../../sass/atoms/_typography.scss */
+  /* line 227, ../../../sass/atoms/_typography.scss */
   h4 {
     font-size: 1em;
   }
 
-  /* line 237, ../../../sass/atoms/_typography.scss */
+  /* line 230, ../../../sass/atoms/_typography.scss */
   h5 {
     font-size: 0.83em;
   }
 
-  /* line 240, ../../../sass/atoms/_typography.scss */
+  /* line 233, ../../../sass/atoms/_typography.scss */
   h6 {
     font-size: 0.75em;
   }
 
-  /* line 243, ../../../sass/atoms/_typography.scss */
+  /* line 236, ../../../sass/atoms/_typography.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 1.2em;
     line-height: 1.5;
   }
 
-  /* line 248, ../../../sass/atoms/_typography.scss */
+  /* line 241, ../../../sass/atoms/_typography.scss */
   #about-text, #contact-text {
     font-size: 1.2em;
     line-height: 1.5;
   }
 
-  /* line 252, ../../../sass/atoms/_typography.scss */
+  /* line 245, ../../../sass/atoms/_typography.scss */
   .semi-bold {
     font-weight: 400;
   }
 
-  /* line 255, ../../../sass/atoms/_typography.scss */
+  /* line 248, ../../../sass/atoms/_typography.scss */
   .text-block {
     padding: 32px 0;
   }
 
-  /* line 258, ../../../sass/atoms/_typography.scss */
+  /* line 251, ../../../sass/atoms/_typography.scss */
   .subtitle {
     font-weight: 300;
   }
 
-  /* line 261, ../../../sass/atoms/_typography.scss */
+  /* line 254, ../../../sass/atoms/_typography.scss */
   .text-container {
     width: 900px;
     margin: auto;
   }
 }
 @media (max-width: 960px) and (min-width: 767px) {
-  /* line 269, ../../../sass/atoms/_typography.scss */
+  /* line 262, ../../../sass/atoms/_typography.scss */
   .jumbo-text {
     font-weight: 300;
     font-size: 2.8em;
@@ -12070,70 +12069,70 @@ i {
     margin: 0 auto;
   }
 
-  /* line 276, ../../../sass/atoms/_typography.scss */
+  /* line 269, ../../../sass/atoms/_typography.scss */
   h0 {
     font-size: 3.6em;
   }
 
-  /* line 279, ../../../sass/atoms/_typography.scss */
+  /* line 272, ../../../sass/atoms/_typography.scss */
   h1 {
     font-size: 2em;
   }
 
-  /* line 282, ../../../sass/atoms/_typography.scss */
+  /* line 275, ../../../sass/atoms/_typography.scss */
   h2 {
     font-size: 1.5em;
   }
 
-  /* line 285, ../../../sass/atoms/_typography.scss */
+  /* line 278, ../../../sass/atoms/_typography.scss */
   h3 {
     font-size: 1.17em;
   }
 
-  /* line 288, ../../../sass/atoms/_typography.scss */
+  /* line 281, ../../../sass/atoms/_typography.scss */
   h4 {
     font-size: 1em;
   }
 
-  /* line 291, ../../../sass/atoms/_typography.scss */
+  /* line 284, ../../../sass/atoms/_typography.scss */
   h5 {
     font-size: 0.83em;
   }
 
-  /* line 294, ../../../sass/atoms/_typography.scss */
+  /* line 287, ../../../sass/atoms/_typography.scss */
   h6 {
     font-size: 0.75em;
   }
 
-  /* line 297, ../../../sass/atoms/_typography.scss */
+  /* line 290, ../../../sass/atoms/_typography.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 1em;
     line-height: 1.5;
   }
 
-  /* line 302, ../../../sass/atoms/_typography.scss */
+  /* line 295, ../../../sass/atoms/_typography.scss */
   #about-text, #contact-text {
     font-size: 1.2em;
     line-height: 1.35;
   }
 
-  /* line 306, ../../../sass/atoms/_typography.scss */
+  /* line 299, ../../../sass/atoms/_typography.scss */
   .semi-bold {
     font-weight: 400;
   }
 
-  /* line 309, ../../../sass/atoms/_typography.scss */
+  /* line 302, ../../../sass/atoms/_typography.scss */
   .text-block {
     padding: 16px 0;
   }
 
-  /* line 312, ../../../sass/atoms/_typography.scss */
+  /* line 305, ../../../sass/atoms/_typography.scss */
   .subtitle {
     font-weight: 300;
   }
 
-  /* line 315, ../../../sass/atoms/_typography.scss */
+  /* line 308, ../../../sass/atoms/_typography.scss */
   .text-container {
     padding: 0 64px;
     max-width: 900px;
@@ -12141,7 +12140,7 @@ i {
   }
 }
 @media (max-width: 767px) and (min-width: 480px) {
-  /* line 324, ../../../sass/atoms/_typography.scss */
+  /* line 317, ../../../sass/atoms/_typography.scss */
   .jumbo-text {
     font-weight: 300;
     font-size: 2.1em;
@@ -12150,76 +12149,76 @@ i {
     margin: 0 auto;
   }
 
-  /* line 331, ../../../sass/atoms/_typography.scss */
+  /* line 324, ../../../sass/atoms/_typography.scss */
   h0 {
     font-size: 3.6em;
   }
 
-  /* line 334, ../../../sass/atoms/_typography.scss */
+  /* line 327, ../../../sass/atoms/_typography.scss */
   h1 {
     font-size: 2em;
   }
 
-  /* line 337, ../../../sass/atoms/_typography.scss */
+  /* line 330, ../../../sass/atoms/_typography.scss */
   h2 {
     font-size: 1.5em;
   }
 
-  /* line 340, ../../../sass/atoms/_typography.scss */
+  /* line 333, ../../../sass/atoms/_typography.scss */
   h3 {
     font-size: 1.17em;
   }
 
-  /* line 343, ../../../sass/atoms/_typography.scss */
+  /* line 336, ../../../sass/atoms/_typography.scss */
   h4 {
     font-size: 1em;
   }
 
-  /* line 346, ../../../sass/atoms/_typography.scss */
+  /* line 339, ../../../sass/atoms/_typography.scss */
   h5 {
     font-size: 0.83em;
   }
 
-  /* line 349, ../../../sass/atoms/_typography.scss */
+  /* line 342, ../../../sass/atoms/_typography.scss */
   h6 {
     font-size: 0.75em;
   }
 
-  /* line 352, ../../../sass/atoms/_typography.scss */
+  /* line 345, ../../../sass/atoms/_typography.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 0.9em;
     line-height: 1.5;
   }
 
-  /* line 357, ../../../sass/atoms/_typography.scss */
+  /* line 350, ../../../sass/atoms/_typography.scss */
   #about-text, #contact-text {
     font-size: 0.9em;
     line-height: 1.35;
   }
 
-  /* line 361, ../../../sass/atoms/_typography.scss */
+  /* line 354, ../../../sass/atoms/_typography.scss */
   .semi-bold {
     font-weight: 400;
   }
 
-  /* line 364, ../../../sass/atoms/_typography.scss */
+  /* line 357, ../../../sass/atoms/_typography.scss */
   .text-block {
     padding: 16px 0;
   }
 
-  /* line 367, ../../../sass/atoms/_typography.scss */
+  /* line 360, ../../../sass/atoms/_typography.scss */
   .subtitle {
     font-weight: 300;
   }
 
-  /* line 370, ../../../sass/atoms/_typography.scss */
+  /* line 363, ../../../sass/atoms/_typography.scss */
   .text-container {
     padding: 0 32px;
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 377, ../../../sass/atoms/_typography.scss */
+  /* line 370, ../../../sass/atoms/_typography.scss */
   .jumbo-text {
     font-weight: 300;
     font-size: 2.1em;
@@ -12228,76 +12227,76 @@ i {
     margin: 0 auto;
   }
 
-  /* line 384, ../../../sass/atoms/_typography.scss */
+  /* line 377, ../../../sass/atoms/_typography.scss */
   h0 {
     font-size: 2em;
   }
 
-  /* line 387, ../../../sass/atoms/_typography.scss */
+  /* line 380, ../../../sass/atoms/_typography.scss */
   h1 {
     font-size: 1.8em;
   }
 
-  /* line 390, ../../../sass/atoms/_typography.scss */
+  /* line 383, ../../../sass/atoms/_typography.scss */
   h2 {
     font-size: 1.3em;
   }
 
-  /* line 393, ../../../sass/atoms/_typography.scss */
+  /* line 386, ../../../sass/atoms/_typography.scss */
   h3 {
     font-size: 1em;
   }
 
-  /* line 396, ../../../sass/atoms/_typography.scss */
+  /* line 389, ../../../sass/atoms/_typography.scss */
   h4 {
     font-size: 0.9em;
   }
 
-  /* line 399, ../../../sass/atoms/_typography.scss */
+  /* line 392, ../../../sass/atoms/_typography.scss */
   h5 {
     font-size: 0.7em;
   }
 
-  /* line 402, ../../../sass/atoms/_typography.scss */
+  /* line 395, ../../../sass/atoms/_typography.scss */
   h6 {
     font-size: 0.6em;
   }
 
-  /* line 405, ../../../sass/atoms/_typography.scss */
+  /* line 398, ../../../sass/atoms/_typography.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 0.9em;
     line-height: 1.5;
   }
 
-  /* line 410, ../../../sass/atoms/_typography.scss */
+  /* line 403, ../../../sass/atoms/_typography.scss */
   #about-text, #contact-text {
     font-size: 0.9em;
     line-height: 1.35;
   }
 
-  /* line 414, ../../../sass/atoms/_typography.scss */
+  /* line 407, ../../../sass/atoms/_typography.scss */
   .semi-bold {
     font-weight: 400;
   }
 
-  /* line 417, ../../../sass/atoms/_typography.scss */
+  /* line 410, ../../../sass/atoms/_typography.scss */
   .text-block {
     padding: 16px 0;
   }
 
-  /* line 420, ../../../sass/atoms/_typography.scss */
+  /* line 413, ../../../sass/atoms/_typography.scss */
   .subtitle {
     font-weight: 300;
   }
 
-  /* line 423, ../../../sass/atoms/_typography.scss */
+  /* line 416, ../../../sass/atoms/_typography.scss */
   .text-container {
     padding: 0 32px;
   }
 }
 @media (max-width: 320px) {
-  /* line 430, ../../../sass/atoms/_typography.scss */
+  /* line 423, ../../../sass/atoms/_typography.scss */
   .jumbo-text {
     font-weight: 300;
     font-size: 1.35em;
@@ -12306,70 +12305,70 @@ i {
     margin: 0 auto;
   }
 
-  /* line 437, ../../../sass/atoms/_typography.scss */
+  /* line 430, ../../../sass/atoms/_typography.scss */
   h0 {
     font-size: 2em;
   }
 
-  /* line 440, ../../../sass/atoms/_typography.scss */
+  /* line 433, ../../../sass/atoms/_typography.scss */
   h1 {
     font-size: 1.8em;
   }
 
-  /* line 443, ../../../sass/atoms/_typography.scss */
+  /* line 436, ../../../sass/atoms/_typography.scss */
   h2 {
     font-size: 1.3em;
   }
 
-  /* line 446, ../../../sass/atoms/_typography.scss */
+  /* line 439, ../../../sass/atoms/_typography.scss */
   h3 {
     font-size: 1em;
   }
 
-  /* line 449, ../../../sass/atoms/_typography.scss */
+  /* line 442, ../../../sass/atoms/_typography.scss */
   h4 {
     font-size: 0.9em;
   }
 
-  /* line 452, ../../../sass/atoms/_typography.scss */
+  /* line 445, ../../../sass/atoms/_typography.scss */
   h5 {
     font-size: 0.7em;
   }
 
-  /* line 455, ../../../sass/atoms/_typography.scss */
+  /* line 448, ../../../sass/atoms/_typography.scss */
   h6 {
     font-size: 0.6em;
   }
 
-  /* line 458, ../../../sass/atoms/_typography.scss */
+  /* line 451, ../../../sass/atoms/_typography.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 0.9em;
     line-height: 1.5;
   }
 
-  /* line 463, ../../../sass/atoms/_typography.scss */
+  /* line 456, ../../../sass/atoms/_typography.scss */
   #about-text, #contact-text {
     font-size: 0.9em;
     line-height: 1.35;
   }
 
-  /* line 467, ../../../sass/atoms/_typography.scss */
+  /* line 460, ../../../sass/atoms/_typography.scss */
   .semi-bold {
     font-weight: 400;
   }
 
-  /* line 470, ../../../sass/atoms/_typography.scss */
+  /* line 463, ../../../sass/atoms/_typography.scss */
   .text-block {
     padding: 16px 0;
   }
 
-  /* line 473, ../../../sass/atoms/_typography.scss */
+  /* line 466, ../../../sass/atoms/_typography.scss */
   .subtitle {
     font-weight: 300;
   }
 
-  /* line 476, ../../../sass/atoms/_typography.scss */
+  /* line 469, ../../../sass/atoms/_typography.scss */
   .text-container {
     padding: 0 32px;
   }
