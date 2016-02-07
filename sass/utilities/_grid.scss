@@ -15,11 +15,14 @@ section {
     margin-top: 48px;
 }
 
+.row {
+    padding: 0;
+    margin: 0;
+}
+
 .section {
-    .row {
-        padding: 0;
-        margin: 0;
-    }
+      padding: 0;
+    margin: 0;
 }
 
 .outer-container {
@@ -45,8 +48,6 @@ section {
         max-height: 100%;
         position: relative;
         display: inline-block;
-        padding: 0;
-        margin: 0;
         .text-container {
             padding-top: 128px;
             padding-bottom: 128px;
@@ -63,8 +64,6 @@ section {
         display: inline-block;
         min-height: 100vh;
         max-height: 100%;
-        padding: 0;
-        margin: 0;
         .text-container {
             padding-top: 128px;
             padding-bottom: 128px;
@@ -79,8 +78,6 @@ section {
         border-bottom: solid 4px $vb-primary;
         min-height: 100vh;
         max-height: 100%;
-        padding: 0;
-        margin: 0;
         .text-container {
             padding-top: 128px;
             padding-bottom: 128px;
@@ -95,8 +92,6 @@ section {
         border-bottom: solid 4px $vb-primary;
         min-height: 100vh;
         max-height: 100%;
-        padding: 0;
-        margin: 0;
         .text-container {
             padding-top: 128px;
             padding-bottom: 128px;
@@ -110,8 +105,6 @@ section {
         min-height: 100vh;
         max-height: 100%;
         width: 100%;
-        padding: 0;
-        margin: 0;
         border-bottom: solid 4px $vb-primary;
         .text-container {
             padding-top: 64px;
@@ -127,8 +120,6 @@ section {
         border-bottom: solid 4px $vb-primary;
         min-height: 100vh;
         max-height: 100%;
-        padding: 0;
-        margin: 0;
         .text-container {
             padding-top: 64px;
             padding-bottom: 64px;

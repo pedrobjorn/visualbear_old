@@ -11514,31 +11514,37 @@ section {
   margin-top: 48px;
 }
 
-/* line 19, ../../../sass/utilities/_grid.scss */
-.section .row {
+/* line 18, ../../../sass/utilities/_grid.scss */
+.row {
   padding: 0;
   margin: 0;
 }
 
-/* line 25, ../../../sass/utilities/_grid.scss */
+/* line 23, ../../../sass/utilities/_grid.scss */
+.section {
+  padding: 0;
+  margin: 0;
+}
+
+/* line 28, ../../../sass/utilities/_grid.scss */
 .outer-container {
   display: table;
   width: 100%;
   height: 100vh;
 }
-/* line 29, ../../../sass/utilities/_grid.scss */
+/* line 32, ../../../sass/utilities/_grid.scss */
 .outer-container .inner-container {
   display: table-cell;
   vertical-align: middle;
 }
-/* line 32, ../../../sass/utilities/_grid.scss */
+/* line 35, ../../../sass/utilities/_grid.scss */
 .outer-container .inner-container .text-container {
   margin-left: auto;
   margin-right: auto;
 }
 
 @media (min-width: 2400px) {
-  /* line 41, ../../../sass/utilities/_grid.scss */
+  /* line 44, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -11546,17 +11552,15 @@ section {
     max-height: 100%;
     position: relative;
     display: inline-block;
-    padding: 0;
-    margin: 0;
   }
-  /* line 50, ../../../sass/utilities/_grid.scss */
+  /* line 51, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 59, ../../../sass/utilities/_grid.scss */
+  /* line 60, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -11564,74 +11568,64 @@ section {
     display: inline-block;
     min-height: 100vh;
     max-height: 100%;
-    padding: 0;
-    margin: 0;
   }
-  /* line 68, ../../../sass/utilities/_grid.scss */
+  /* line 67, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 1279px) and (min-width: 767px) {
-  /* line 77, ../../../sass/utilities/_grid.scss */
+  /* line 76, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
     min-height: 100vh;
     max-height: 100%;
-    padding: 0;
-    margin: 0;
   }
-  /* line 84, ../../../sass/utilities/_grid.scss */
+  /* line 81, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 767px) and (min-width: 480px) {
-  /* line 93, ../../../sass/utilities/_grid.scss */
+  /* line 90, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
     min-height: 100vh;
     max-height: 100%;
-    padding: 0;
-    margin: 0;
   }
-  /* line 100, ../../../sass/utilities/_grid.scss */
+  /* line 95, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 109, ../../../sass/utilities/_grid.scss */
+  /* line 104, ../../../sass/utilities/_grid.scss */
   .section {
     min-height: 100vh;
     max-height: 100%;
     width: 100%;
-    padding: 0;
-    margin: 0;
     border-bottom: solid 4px #ff0033;
   }
-  /* line 116, ../../../sass/utilities/_grid.scss */
+  /* line 109, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 64px;
     padding-bottom: 64px;
   }
 }
 @media (max-width: 320px) {
-  /* line 125, ../../../sass/utilities/_grid.scss */
+  /* line 118, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
     min-height: 100vh;
     max-height: 100%;
-    padding: 0;
-    margin: 0;
   }
-  /* line 132, ../../../sass/utilities/_grid.scss */
+  /* line 123, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 64px;
     padding-bottom: 64px;
