@@ -11499,47 +11499,46 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 /* line 4, ../../../sass/utilities/_grid.scss */
 body,
-html,
-section {
+html {
   height: 100%;
   box-sizing: border-box;
 }
 
-/* line 11, ../../../sass/utilities/_grid.scss */
+/* line 10, ../../../sass/utilities/_grid.scss */
 section {
   width: 100%;
 }
 
-/* line 15, ../../../sass/utilities/_grid.scss */
+/* line 14, ../../../sass/utilities/_grid.scss */
 .main {
   margin-top: 48px;
 }
 
-/* line 20, ../../../sass/utilities/_grid.scss */
+/* line 19, ../../../sass/utilities/_grid.scss */
 .section .row {
   padding: 0;
   margin: 0;
 }
 
-/* line 26, ../../../sass/utilities/_grid.scss */
+/* line 25, ../../../sass/utilities/_grid.scss */
 .outer-container {
   display: table;
   width: 100%;
   height: 100vh;
 }
-/* line 30, ../../../sass/utilities/_grid.scss */
+/* line 29, ../../../sass/utilities/_grid.scss */
 .outer-container .inner-container {
   display: table-cell;
   vertical-align: middle;
 }
-/* line 33, ../../../sass/utilities/_grid.scss */
+/* line 32, ../../../sass/utilities/_grid.scss */
 .outer-container .inner-container .text-container {
   margin-left: auto;
   margin-right: auto;
 }
 
 @media (min-width: 2400px) {
-  /* line 42, ../../../sass/utilities/_grid.scss */
+  /* line 41, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -11550,14 +11549,14 @@ section {
     padding: 0;
     margin: 0;
   }
-  /* line 51, ../../../sass/utilities/_grid.scss */
+  /* line 50, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 60, ../../../sass/utilities/_grid.scss */
+  /* line 59, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -11568,14 +11567,14 @@ section {
     padding: 0;
     margin: 0;
   }
-  /* line 69, ../../../sass/utilities/_grid.scss */
+  /* line 68, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 1279px) and (min-width: 767px) {
-  /* line 78, ../../../sass/utilities/_grid.scss */
+  /* line 77, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -11584,14 +11583,14 @@ section {
     padding: 0;
     margin: 0;
   }
-  /* line 85, ../../../sass/utilities/_grid.scss */
+  /* line 84, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 767px) and (min-width: 480px) {
-  /* line 94, ../../../sass/utilities/_grid.scss */
+  /* line 93, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -11600,14 +11599,14 @@ section {
     padding: 0;
     margin: 0;
   }
-  /* line 101, ../../../sass/utilities/_grid.scss */
+  /* line 100, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 110, ../../../sass/utilities/_grid.scss */
+  /* line 109, ../../../sass/utilities/_grid.scss */
   .section {
     min-height: 100vh;
     max-height: 100%;
@@ -11616,14 +11615,14 @@ section {
     margin: 0;
     border-bottom: solid 4px #ff0033;
   }
-  /* line 117, ../../../sass/utilities/_grid.scss */
+  /* line 116, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 64px;
     padding-bottom: 64px;
   }
 }
 @media (max-width: 320px) {
-  /* line 126, ../../../sass/utilities/_grid.scss */
+  /* line 125, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 4px #ff0033;
@@ -11632,7 +11631,7 @@ section {
     padding: 0;
     margin: 0;
   }
-  /* line 133, ../../../sass/utilities/_grid.scss */
+  /* line 132, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 64px;
     padding-bottom: 64px;
