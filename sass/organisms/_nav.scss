@@ -1,12 +1,6 @@
 @import "utilities/variables";
 @import "utilities/mixins";
 
-header,
-body,
-section {
-    width: 100%;
-}
-
 .navbar-brand {
     .pre-hover {
         display: initial;
@@ -63,36 +57,11 @@ nav.navmenu {
     }
     #close {
         height: auto;
-            padding: 0 24px;
+        padding: 0 24px;
         background-color: $vb-dark;
         color: $vb-light;
         .fa-close {
             font-size: 36px;
-        }
-    }
-    .social {
-        a {
-            width: 48px;
-            padding: 0;
-            margin: 0;
-            &:hover,
-            &:focus,
-            &:active {
-                background-color: $vb-grey;
-            }
-        }
-        padding: 32px 0;
-        img {
-            width: 48px;
-        }
-        margin: auto;
-        .icon {
-            float: left;
-            width: auto;
-            &:hover,
-            &:focus {
-                opacity: 0.5;
-            }
         }
     }
 }
@@ -229,30 +198,6 @@ nav.navmenu {
         width: 49px;
         padding: 9px;
     }
-    .social {
-        a {
-            width: 48px;
-            padding: 0;
-            margin: 0;
-            &:hover,
-            &:focus,
-            &:active {
-                background-color: $vb-grey;
-            }
-        }
-        img {
-            width: 48px;
-        }
-        margin: auto;
-        .icon {
-            float: left;
-            width: auto;
-            &:hover,
-            &:focus {
-                opacity: 0.5;
-            }
-        }
-    }
 }
 
 //2500px< & >1200px
@@ -262,30 +207,6 @@ nav.navmenu {
         width: 49px;
         padding: 9px;
     }
-    .social {
-        a {
-            width: 48px;
-            padding: 0;
-            margin: 0;
-            &:hover,
-            &:focus,
-            &:active {
-                background-color: $vb-grey;
-            }
-        }
-        img {
-            width: 48px;
-        }
-        margin: auto;
-        .icon {
-            float: left;
-            width: auto;
-            &:hover,
-            &:focus {
-                opacity: 0.5;
-            }
-        }
-    }
 }
 
 //1200px< & >767px
@@ -294,30 +215,6 @@ nav.navmenu {
         height: 49px;
         width: 49px;
         padding: 9px;
-    }
-    .social {
-        a {
-            width: 48px;
-            padding: 0;
-            margin: 0;
-            &:hover,
-            &:focus,
-            &:active {
-                background-color: $vb-grey;
-            }
-        }
-        img {
-            width: 48px;
-        }
-        margin: auto;
-        .icon {
-            float: left;
-            width: auto;
-            &:hover,
-            &:focus {
-                opacity: 0.5;
-            }
-        }
     }
 }
 
@@ -354,26 +251,6 @@ nav.navmenu {
         z-index: 9999;
         background-color: $vb-dark;
         border: none;
-        .social {
-            a {
-                width: 48px;
-                padding: 0;
-                margin: 0;
-                &:hover,
-                &:focus,
-                &:active {
-                    background-color: $vb-grey;
-                }
-            }
-            margin: auto;
-            .icon {
-                float: left;
-                &:last-child:after {
-                    padding: 32px;
-                }
-                width: auto;
-            }
-        }
     }
     #links > a.active {
         background-color: $vb-primary;
@@ -413,26 +290,6 @@ nav.navmenu {
                 font-size: 36px;
             }
         }
-        .social {
-            a {
-                width: 48px;
-                padding: 0;
-                margin: 0;
-                &:hover,
-                &:focus,
-                &:active {
-                    background-color: $vb-grey;
-                }
-            }
-            margin: auto;
-            .icon {
-                float: left;
-                &:last-child:after {
-                    padding: 32px;
-                }
-                width: auto;
-            }
-        }
     }
     #links > a.active {
         background-color: $vb-primary;
@@ -442,26 +299,6 @@ nav.navmenu {
 
 //320px<
 @media (max-width: $break-tiny) {
-    .social {
-        a {
-            width: 48px;
-            padding: 0;
-            margin: 0;
-            &:hover,
-            &:focus,
-            &:active {
-                background-color: $vb-grey;
-            }
-        }
-        img {
-            width: 48px;
-        }
-        margin: auto;
-        .icon {
-            float: left;
-            width: auto;
-        }
-    }
     .navbar-brand {
         height: 49px;
         width: 49px;

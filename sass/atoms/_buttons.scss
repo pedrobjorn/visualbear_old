@@ -81,20 +81,22 @@
     }
 }
 
-.social {
-    padding: 16px 0 64px 0;
-    img {
-        width: 48px;
+.vb-btn-icon {
+    float: left;
+    width: 48px;
+    padding: 0;
+    margin: 0;
+    &:hover,
+    &:focus {
+        opacity: 0.5;
     }
-    width: 144px;
-    margin: auto;
-    .icon {
-        float: left;
-        width: auto;
-        &:hover,
-        &:focus {
-            opacity: 0.5;
-        }
+    &:hover,
+    &:focus,
+    &:active {
+        background-color: $vb-grey;
+    }
+    &:last-child:after {
+        padding: 32px;
     }
 }
 
