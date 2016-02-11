@@ -4,694 +4,326 @@
 		"selected_items":
 		[
 			[
-				"imag",
-				"image_container	(gallery_dukebox.hbs)"
+				"border",
+				"border-radius"
 			],
 			[
-				"un",
-				"underline"
-			],
-			[
-				"text",
-				"text-decoration"
-			],
-			[
-				"pos",
-				"position	(_buttons.scss)"
-			],
-			[
-				"gro",
-				"group	(table.service.js)"
-			],
-			[
-				"tabl",
-				"tableFunctions"
-			],
-			[
-				"selec",
-				"selectVar"
-			],
-			[
-				"obj",
-				"obj"
-			],
-			[
-				"cline",
-				"clientObj"
-			],
-			[
-				"nodeo",
-				"nodeObj"
-			],
-			[
-				"sune",
-				"subnetObj"
-			],
-			[
-				"owner",
-				"ownerObj"
-			],
-			[
-				"client",
-				"clientObj"
-			],
-			[
-				"paren",
-				"parentObj"
-			],
-			[
-				"parent",
-				"parent=\"parentObj	(dropdown.html)"
-			],
-			[
-				"server",
-				"serverBool"
-			],
-			[
-				"update",
-				"updatedObj"
-			],
-			[
-				"displa",
-				"display	(_dash.scss)"
-			],
-			[
-				"scrol",
-				"scrollit	(table.html)"
-			],
-			[
-				"scroll",
-				"scrollit	(_table.scss)"
-			],
-			[
-				"wid",
-				"width	(table.directive.js)"
-			],
-			[
-				"rel",
-				"relative	(_dash.scss)"
+				"font-s",
+				"font-style"
 			],
 			[
 				"back",
-				"background"
+				"background-color:   (property)"
 			],
 			[
-				"setres",
-				"setResponseHeaders"
-			],
-			[
-				"subnet",
-				"subnetObj"
-			],
-			[
-				"collapse",
-				"collapseObj"
-			],
-			[
-				"nodet",
-				"nodeTime"
-			],
-			[
-				"tab",
-				"tabActive"
-			],
-			[
-				"tabAc",
-				"tabActivate"
-			],
-			[
-				"pull-left",
-				"pull-left	 bootstrap.css"
-			],
-			[
-				"pull-",
-				"pull-left	 font-awesome.css"
-			],
-			[
-				"submit",
-				"submitDatetime"
-			],
-			[
-				"manual",
-				"manualDate"
-			],
-			[
-				"col-md",
-				"col-md-3	 bootstrap.css"
-			],
-			[
-				"show",
-				"showTimeAdjust"
-			],
-			[
-				"fil",
-				"filter:search"
-			],
-			[
-				"filter",
-				"filters"
-			],
-			[
-				"ngiv",
-				"ng-view	AngularJS"
-			],
-			[
-				"$s",
-				"${1:false"
-			],
-			[
-				"unit",
-				"angular: $sanitize"
-			],
-			[
-				"toggle",
-				"toggleOpen"
-			],
-			[
-				"maxread",
-				"maxReadDone"
-			],
-			[
-				"decimal",
-				"decimalValue"
-			],
-			[
-				"disb",
-				"disable"
-			],
-			[
-				"selected",
-				"selectedNode"
-			],
-			[
-				"selece",
-				"selectedObj"
-			],
-			[
-				"tmp",
-				"tmpObjects"
-			],
-			[
-				"input",
-				"inputId"
-			],
-			[
-				"nodety",
-				"nodeType"
-			],
-			[
-				"creat",
-				"createdObj"
-			],
-			[
-				"sele",
-				"selectedObj"
-			],
-			[
-				"len",
-				"length"
-			],
-			[
-				"index",
-				"indexOf"
-			],
-			[
-				"selectobj",
-				"selectedObj"
-			],
-			[
-				"clien",
-				"clientId"
-			],
-			[
-				"pa",
-				"parent"
-			],
-			[
-				"select",
-				"selectObject"
-			],
-			[
-				"ths",
-				"thisObj"
-			],
-			[
-				"clinet",
-				"clientId"
-			],
-			[
-				"object",
-				"objects"
-			],
-			[
-				"add",
-				"addObject"
+				"cycle",
+				"cycleTimer"
 			],
 			[
 				"get",
-				"getElement"
-			],
-			[
-				"delete",
-				"deleteElement"
-			],
-			[
-				"create",
-				"createElement"
-			],
-			[
-				"o",
-				"objects"
-			],
-			[
-				"read",
-				"readElement"
-			],
-			[
-				"obje",
-				"objects"
-			],
-			[
-				"domain",
-				"domainId"
-			],
-			[
-				"schedule",
-				"schedule"
-			],
-			[
-				"font",
-				"fontawesome"
-			],
-			[
-				"mon",
-				"monthsSelect"
-			],
-			[
-				"days",
-				"daysSelect"
-			],
-			[
-				"dates",
-				"datesSelect"
-			],
-			[
-				"remov",
-				"removeItem"
-			],
-			[
-				"p",
-				"properties"
+				"getElementById  (function)"
 			],
 			[
 				"data",
-				"dataMenu"
+				"dataInt"
 			],
 			[
-				"proper",
-				"propertyMenu"
+				"font-st",
+				"font-style:   (property)"
 			],
 			[
-				"property",
-				"propertyView"
+				"font",
+				"font-size"
 			],
 			[
-				"Day",
-				"Days:2,3,5,7,10,24,24,46,23,41,23,12,42"
+				"ds",
+				"dist"
 			],
 			[
-				"con",
-				"controllers"
+				"vb-",
+				"vb-light"
 			],
 			[
-				"attr",
-				"attr"
+				"vb",
+				"vb-primary"
 			],
 			[
-				"accord",
-				"accordionMenu"
+				"work",
+				"workLink"
 			],
 			[
-				"todo",
-				"todos"
+				"font-",
+				"font-weight"
 			],
 			[
-				"post",
-				"post"
+				"text",
+				"text-decoration:   (property)"
 			],
 			[
-				"Clien",
-				"ClientList"
+				"in",
+				"inline-block"
 			],
 			[
-				"limit",
-				"limitTo:2"
+				"pos",
+				"position"
 			],
 			[
-				"iscol",
-				"isCollapsedSubnet"
+				"ba",
+				"background-color:   (property)"
 			],
 			[
-				"iscoll",
-				"isCollapsedInput"
-			],
-			[
-				"display",
-				"displayVar"
-			],
-			[
-				"form",
-				"form-group	 bootstrap.min.css"
-			],
-			[
-				"parens",
-				"parentSelect"
-			],
-			[
-				"max",
-				"maxRead"
-			],
-			[
-				"selecte",
-				"selectedVal"
-			],
-			[
-				"ng",
-				"ngModel"
-			],
-			[
-				"wr",
-				"break-word"
-			],
-			[
-				"white",
-				"white-space"
-			],
-			[
-				"maxRea",
-				"maxRange"
+				"inline",
+				"inline-block  (value)"
 			],
 			[
 				"click",
-				"clickCount"
+				"clickHandler"
 			],
 			[
-				"node",
-				"nodeType"
+				"z",
+				"z-index"
 			],
 			[
-				"disable",
-				"disableItem"
+				"padding-",
+				"padding-bottom"
 			],
 			[
-				"disabl",
-				"disableItem"
+				"padd",
+				"padding"
 			],
 			[
-				"is",
-				"isActive"
+				"min",
+				"min-height"
 			],
 			[
-				"t",
-				"type"
+				"blo",
+				"block"
 			],
 			[
-				"de",
-				"default"
+				"margi",
+				"margin-top"
 			],
 			[
-				"trans",
-				"transparent"
+				"paddi",
+				"padding"
 			],
 			[
-				"col-",
-				"col-xs-2	 bootstrap.css"
+				"tex",
+				"text-align"
 			],
 			[
-				"widt",
+				"style",
+				"border-style"
+			],
+			[
+				"p",
+				"pre-line"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"BORDER",
+				"border-color"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"quot",
+				"quote2"
+			],
+			[
+				"numwo",
+				"numWords1"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"bolc",
+				"inline-block"
+			],
+			[
+				"wid",
 				"width"
 			],
 			[
-				"inpuT",
-				"Input"
+				"wi",
+				"widows:   (property)"
 			],
 			[
-				"this",
-				"thisObj"
+				"padding",
+				"padding"
 			],
 			[
-				"multi",
-				"multiApp"
+				"text-",
+				"text-align"
 			],
 			[
-				"col",
-				"col-md-11	 bootstrap.css"
+				"legend",
+				"legendCube"
 			],
 			[
-				"left",
-				"pull-left	 bootstrap.css"
+				"sele",
+				"selectAll"
 			],
 			[
-				"nav",
-				"navbar	 bootstrap.css"
+				"cont",
+				"countryName"
+			],
+			[
+				"con",
+				"countryName"
+			],
+			[
+				"country",
+				"countryName"
+			],
+			[
+				"svg",
+				"svgEl"
+			],
+			[
+				"mypr",
+				"myPreviousText"
+			],
+			[
+				"legen",
+				"legendText"
+			],
+			[
+				"countr",
+				"countryName"
+			],
+			[
+				"count",
+				"countryName"
+			],
+			[
+				"line",
+				"lineData"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"select",
+				"selectAll"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"child",
+				"child  (function)"
+			],
+			[
+				"i",
+				"id"
+			],
+			[
+				"chil",
+				"child  (function)"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"crea",
+				"createElement  (function)"
+			],
+			[
+				"g",
+				"get	Get Elements"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ran",
+				"rangeRoundBands"
+			],
+			[
+				"tran",
+				"translate"
+			],
+			[
+				"range",
+				"rangeBand"
+			],
+			[
+				"bar",
+				"barWidth"
 			],
 			[
 				"background",
 				"background-color"
 			],
 			[
-				"box-s",
-				"box-sizing"
-			],
-			[
-				"properti",
-				"propertyView"
-			],
-			[
-				"remove",
-				"removeObj"
-			],
-			[
-				"toggl",
-				"toggleOpen"
-			],
-			[
-				"Sub",
-				"Subnet2"
-			],
-			[
-				"marg",
-				"margin"
-			],
-			[
-				"margin",
-				"margin-top"
-			],
-			[
-				"app",
-				"angularTutApp"
-			],
-			[
-				"localt",
-				"localStorageService"
-			],
-			[
-				"things",
-				"thingsInStore"
-			],
-			[
-				"ad",
-				"addTodo"
-			],
-			[
-				"ponto",
-				"ponto1-1"
-			],
-			[
-				"grand",
-				"granditude-light"
-			],
-			[
-				"grandi",
-				"granditude-light"
+				"pis",
+				"position"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "sass/pages/_gallery.scss",
+			"file": "src/templates/partials/styleguide.intro.hbs",
 			"settings":
 			{
-				"buffer_size": 9499,
+				"buffer_size": 912,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "sass/helpers/_mixins.scss",
+			"file": "sass/atoms/_typography.scss",
 			"settings":
 			{
-				"buffer_size": 486,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/partials/work.hbs",
-			"settings":
-			{
-				"buffer_size": 1806,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/templates/pages/gallery_dukebox.hbs",
-			"settings":
-			{
-				"buffer_size": 1038,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/pages/gallery_adhops.hbs",
-			"settings":
-			{
-				"buffer_size": 1037,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/pages/gallery_lynx.hbs",
-			"settings":
-			{
-				"buffer_size": 1053,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/pages/gallery_visualbear.hbs",
-			"settings":
-			{
-				"buffer_size": 1050,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/pages/gallery_sos.hbs",
-			"settings":
-			{
-				"buffer_size": 1052,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/pages/gallery_copafeel.hbs",
-			"settings":
-			{
-				"buffer_size": 1046,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "sass/layout/_grid.scss",
-			"settings":
-			{
-				"buffer_size": 1810,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "sass/helpers/_variables.scss",
-			"settings":
-			{
-				"buffer_size": 1507,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "sass/pages/_index.scss",
-			"settings":
-			{
-				"buffer_size": 5299,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/partials/jumbo.hbs",
-			"settings":
-			{
-				"buffer_size": 786,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/scripts/ui.js",
-			"settings":
-			{
-				"buffer_size": 2240,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "sass/main.scss",
-			"settings":
-			{
-				"buffer_size": 430,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/pages/resume.hbs",
-			"settings":
-			{
-				"buffer_size": 298,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "sass/layout/_nav.scss",
-			"settings":
-			{
-				"buffer_size": 4178,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/partials/navbar-fixed-top.hbs",
-			"settings":
-			{
-				"buffer_size": 1388,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/layouts/default.hbs",
-			"settings":
-			{
-				"buffer_size": 2266,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "sass/components/_buttons.scss",
-			"settings":
-			{
-				"buffer_size": 5505,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config.rb",
-			"settings":
-			{
-				"buffer_size": 1000,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "sass/base/_typography.scss",
-			"settings":
-			{
-				"buffer_size": 3028,
+				"buffer_size": 4302,
 				"line_ending": "Unix"
 			}
 		}
@@ -704,11 +336,11 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "bea",
+		"last_filter": "sass",
 		"selected_items":
 		[
 			[
-				"bea",
+				"sass",
 				"SassBeautify"
 			],
 			[
@@ -716,210 +348,86 @@
 				"HTMLBeautify"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
+				"ht",
+				"HTMLBeautify"
 			],
 			[
-				"HTML",
-				"HTMLBeautify"
+				"s",
+				"SassBeautify"
 			],
 			[
 				"java",
 				"Javascript Beautify"
 			],
 			[
-				"git mer",
-				"GitGutter: Compare Against Branch"
+				"package",
+				"Package Control: List Packages"
 			],
 			[
-				"git pull",
-				"Git: Pull Current Branch"
-			],
-			[
-				"git commit",
-				"Git: Quick Commit"
-			],
-			[
-				"git add",
-				"Git: Add..."
-			],
-			[
-				"git quick",
-				"Git: Quick Commit"
-			],
-			[
-				"git fetch",
-				"Git: Fetch"
-			],
-			[
-				"git fe",
-				"Git: Fetch"
-			],
-			[
-				"git",
-				"Git: Commit history"
-			],
-			[
-				"push",
-				"Git: Push"
-			],
-			[
-				"commit",
-				"Git: Commit"
-			],
-			[
-				"pull",
-				"Git: Pull"
-			],
-			[
-				"pull cu",
-				"Git: Pull Current Branch"
-			],
-			[
-				"git push",
-				"Git: Push"
-			],
-			[
-				"git quic",
-				"Git: Quick Commit"
-			],
-			[
-				"git com",
-				"Git: Commit"
-			],
-			[
-				"gif",
-				"Git: Add Current File"
-			],
-			[
-				"git ",
-				"Git: Commit"
-			],
-			[
-				"git diff",
-				"Git: Diff Current File"
-			],
-			[
-				"jslin",
-				"JSLint"
-			],
-			[
-				"fetch",
-				"Git: Fetch"
-			],
-			[
-				"trimm",
-				"Trimmer: Trim trailing whitespace."
-			],
-			[
-				"trim",
-				"Trimmer: Collapse lines."
-			],
-			[
-				"align",
-				"Trimmer: Trim trailing whitespace."
-			],
-			[
-				"JSHINT",
-				"JSHint"
-			],
-			[
-				"INSTALL",
+				"install",
 				"Package Control: Install Package"
 			],
 			[
-				"PACK",
-				"Package Control: Remove Package"
+				"ja",
+				"Javascript Beautify"
 			],
 			[
-				"jshint",
-				"JSHint"
+				"javasc",
+				"Javascript Beautify"
 			],
 			[
-				"package",
-				"Package Control: Remove Package"
+				"jav",
+				"Javascript Beautify"
 			],
 			[
-				"set",
-				"Set Syntax: JavaScript"
+				"",
+				"About"
 			],
 			[
-				"js",
-				"jshintify: show errors list for current line"
+				"beau",
+				"SassBeautify"
 			],
 			[
-				"jshin",
-				"JSHint"
+				"beaut",
+				"SassBeautify"
 			],
 			[
-				"jshi",
-				"JSHint"
+				"beautif",
+				"SassBeautify"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"scss",
+				"SassBeautify: Convert from SASS to current type"
+			],
+			[
+				"h",
+				"HTMLBeautify"
 			],
 			[
 				"instal",
 				"Package Control: Install Package"
 			],
 			[
-				"angular ",
-				"AngularJS: Toggle - Disable All Completions"
+				"Adva",
+				"Package Control: Discover Packages"
 			],
 			[
-				"rebuild",
-				"AngularJS: Rebuild Search Index"
-			],
-			[
-				"gitgutter",
-				"GitGutter: Compare Against Commit"
-			],
-			[
-				"INSTAL",
+				"instal p",
 				"Package Control: Install Package"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
-			],
-			[
-				"instal	",
-				"Package Control: Install Package"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"packa",
-				"Package Control: Install Package"
-			],
-			[
-				"Snippet:usr/bin/env",
-				"Snippet: #!/usr/bin/env"
-			],
-			[
-				"css",
-				"Set Syntax: CSS"
-			],
-			[
-				"box",
-				"Snippet: box-shadow+"
-			],
-			[
-				"sass",
-				"Set Syntax: Sass"
-			],
-			[
-				"",
-				"Set Syntax: Sass"
 			]
 		],
-		"width": 593.0
+		"width": 536.0
 	},
 	"console":
 	{
-		"height": 195.0,
+		"height": 126.0,
 		"history":
 		[
-			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
 	"distraction_free":
@@ -933,175 +441,199 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/visualbear/Work/Fun/Web/visualbear",
-		"/Users/visualbear/Work/Fun/Web/visualbear/bower_components",
-		"/Users/visualbear/Work/Fun/Web/visualbear/bower_components/bootflat",
-		"/Users/visualbear/Work/Fun/Web/visualbear/bower_components/bootflat/js",
-		"/Users/visualbear/Work/Fun/Web/visualbear/sass",
-		"/Users/visualbear/Work/Fun/Web/visualbear/sass/base",
-		"/Users/visualbear/Work/Fun/Web/visualbear/sass/components",
-		"/Users/visualbear/Work/Fun/Web/visualbear/sass/helpers",
-		"/Users/visualbear/Work/Fun/Web/visualbear/sass/layout",
-		"/Users/visualbear/Work/Fun/Web/visualbear/sass/pages",
-		"/Users/visualbear/Work/Fun/Web/visualbear/src",
-		"/Users/visualbear/Work/Fun/Web/visualbear/src/assets",
-		"/Users/visualbear/Work/Fun/Web/visualbear/src/content",
-		"/Users/visualbear/Work/Fun/Web/visualbear/src/scripts",
-		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates",
-		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/assets",
-		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/layouts",
-		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/pages",
-		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/partials"
+		"/F/Work/Fun/Web/Projects/visualbear",
+		"/F/Work/Fun/Design/Current/01_Projects/visualbear/Website/vbear/visualbear",
+		"/F/Work/Fun/Design/Current/01_Projects/visualbear/Website/vbear/visualbear/sass",
+		"/F/Work/Fun/Design/Current/01_Projects/visualbear/Website/vbear/visualbear/sass/atoms",
+		"/F/Work/Fun/Design/Current/01_Projects/visualbear/Website/vbear/visualbear/sass/molecules",
+		"/F/Work/Fun/Design/Current/01_Projects/visualbear/Website/vbear/visualbear/sass/organisms",
+		"/F/Work/Fun/Design/Current/01_Projects/visualbear/Website/vbear/visualbear/sass/templates",
+		"/F/Work/Fun/Design/Current/01_Projects/visualbear/Website/vbear/visualbear/sass/utilities",
+		"/F/Work/Fun/Design/Current/01_Projects/visualbear/Website/vbear/visualbear/src",
+		"/F/Work/Fun/Design/Current/01_Projects/visualbear/Website/vbear/visualbear/src/data",
+		"/F/Work/Fun/Design/Current/01_Projects/visualbear/Website/vbear/visualbear/src/templates",
+		"/F/Work/Fun/Design/Current/01_Projects/visualbear/Website/vbear/visualbear/src/templates/pages",
+		"/F/Work/Fun/Design/Current/01_Projects/visualbear/Website/vbear/visualbear/src/templates/partials"
 	],
 	"file_history":
 	[
-		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/pages/gallery.html",
-		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/pages/index.hbs",
-		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/pages/gallery_visualbear.hbs",
-		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/pages/gallery_copafeel.hbs",
-		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/pages/gallery_adhops.html",
-		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/partials/work.hbs",
-		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/partials/jumbo.hbs",
-		"/Users/visualbear/Work/Fun/Web/visualbear/src/templates/pages/work.hbs",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/package.json",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/table/table.html",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/table/table.directive.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/components/table/table.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/scss/partials/_table.scss",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/scripts/app/views/sales/optimisation/optimisation.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/.gitignore",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/Gruntfile.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/webapp/index.html",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP/grandapp/src/main/scss/modules/_mixins.scss",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/ECOMDashboard/ec-web/src/main/java/com/granditude/ec/web/PriceController.java",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/MEGACON Dashboard/multilog/src/main/java/se/megacon/multilog/web/MultilogController.java",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/MEGACON Dashboard/multilog/src/test/java/se/megacon/multilog/db/TestMemoryDB.java",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/.gitignore",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/.jshintrc",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/services/sessions.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/table/table.html",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/partials/_table.scss",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/dash/template/dash.html",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/table/grPagination.template.html",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/partials/_forms.scss",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/bower_components/angular-smart-table/dist/smart-table.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/partials/_dash.scss",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/table/table.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/table/table.directive.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/app.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/account.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/activate/activate.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/activate/activate.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/login/login.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/login/login.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/logout/logout.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/logout/logout.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/password/password.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/password/password.directive.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/password/password.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/register/register.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/register/register.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/reset/finish/reset.finish.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/reset/finish/reset.finish.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/reset/request/reset.request.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/reset/request/reset.request.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/sessions/sessions.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/sessions/sessions.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/settings/settings.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/account/settings/settings.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/admin.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/audits/audits.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/audits/audits.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/configuration/configuration.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/configuration/configuration.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/docs/docs.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/health/health.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/health/health.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/logs/logs.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/logs/logs.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/metrics/metrics.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/admin/metrics/metrics.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/dash/dash.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/entities/entity.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/error/error.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/main/main.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/main/main.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/admin/audits.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/admin/configuration.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/admin/logs.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/admin/monitoring.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/auth.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/authority.directive.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/principal.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/provider/auth.session.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/services/account.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/services/activate.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/services/password.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/auth/services/register.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/dash/dash.directive.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/form/form.directive.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/form/pager.directive.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/form/pagination.directive.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/language/language.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/language/language.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/navbar/navbar.controller.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/navbar/navbar.directive.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/sidepanel/sidepanel.directive.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/user/user.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/util/base64.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/util/parse-links.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/util/truncate.filter.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/test/javascript/spec/app/account/health/healthControllerSpec.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/modules/_variables.scss",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/main.scss",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/partials/_typography.scss",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/test/javascript/spec/app/account/login/loginControllerSpec.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/test/javascript/spec/app/account/password/passwordControllerSpec.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/test/javascript/spec/app/account/password/passwordDirectiveSpec.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/test/javascript/spec/app/account/sessions/sessionsControllerSpec.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/test/javascript/spec/app/account/settings/settingsControllerSpec.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/test/javascript/spec/components/auth/authServicesSpec.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/Gruntfile.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/main.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/app/app.constants.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/assets/styles/main.css",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/index.html",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/table/grPaginationBig.template.html",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/table/grPagination_big.html",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/table/grPagination.html",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/form/pagination.html",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/bower_components/angular-smart-table/src/smart-table.module.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/node_modules/generator-jhipster/app/templates/src/main/webapp/scripts/components/form/_pagination.html",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/table/templates/pagination.html",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/bower_components/angular-smart-table/src/stPagination.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/partials/_base.scss",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/modules/_all.scss",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/D3/d3.service.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/navbar/template/navbar.html",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/bower_components/angu-fixed-header-table/angu-fixed-header-table.js",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/scss/modules/_variable.scss",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/navbar/template/table.html",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/dash/dash.html",
-		"/Users/visualbear/Work/Fun/Design/Projects/Current/1_Granditude/Apps/GrandRepo/GRANDAPP /grandapp/src/main/webapp/scripts/components/D3/d3.directive.js"
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/layouts/default.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/jumbo.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/work.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/about.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/contact.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/pages/gallery_sos.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/navbar-fixed-top.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/nav-menu.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/footer.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/pages/styleguide.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/social-buttons.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.intro.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.atoms.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.molecules.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.organisms.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.templates.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/main.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/atoms/_base.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/utilities/_mixins.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/utilities/_variables.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/atoms/_typography.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/molecules/_textelements.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/utilities/_grid.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/molecules/_forms.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/templates/_gallery.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/organisms/_nav.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/atoms/_buttons.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/node_modules/assemble/test/fixtures/partials/nav-main.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/node_modules/generator-fe/app/templates/bootstrap/html/partials/header.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/node_modules/showup/src/includes/navbar.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/templates/_pages.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/organisms/_footer.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/src/scripts/ui.js",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/pages/index.hbs",
+		"/F/Work/Fun/Design/Current/01_Projects/visualbear/Website/visualbear/bower.json",
+		"/F/Work/Fun/Web/Projects/visualbear/node_modules/generator-assemble/app/templates/inc-navbar-fixed-top.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/bower_components/boilerplate-bootstrap/templates/components.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/bower_components/boilerplate-bootstrap/templates/_includes/nav-main.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/bower_components/boilerplate-bootstrap/templates/javascript.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/node_modules/generator-fe/app/templates/foundation/sass/foundation/components/_top-bar.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/node_modules/generator-fe/app/templates/foundation/sass/foundation/_variables.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/default.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/bower_components/jasny-bootstrap/scss/_navmenu.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/bower_components/jasny-bootstrap/scss/_nav-tab-alignment.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.navbar.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.lists.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.labels.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.images.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.form-controls.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.definition-lists.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.colours.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.buttons.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.headings.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.text-elements.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.blockquote.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_type.scss",
+		"/C/Users/visualbear/AppData/Local/Temp/Rar$DIa0.058/_styleguide.php",
+		"/C/Users/visualbear/AppData/Local/Temp/Rar$DIa0.057/_patterns.php",
+		"/C/Users/visualbear/AppData/Local/Temp/Rar$EXa0.448/barebones-master/_patterns/image-framed-circular.html",
+		"/C/Users/visualbear/AppData/Local/Temp/Rar$DIa0.452/_patterns.php",
+		"/C/Users/visualbear/AppData/Local/Temp/Rar$EXa0.903/barebones-master/_patterns/link-tip.html",
+		"/C/Users/visualbear/AppData/Local/Temp/Rar$DIa0.856/README.md",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.address.hbs",
+		"/F/Work/Fun/Web/Projects/styleguide/Style-Guide-Boilerplate-Bootstrap-Edition/markup/patterns/navs.html",
+		"/F/Work/Fun/Web/Projects/styleguide/Style-Guide-Boilerplate-Bootstrap-Edition/markup/patterns/panels.html",
+		"/F/Work/Fun/Web/Projects/styleguide/Style-Guide-Boilerplate-Bootstrap-Edition/markup/patterns/thumbnails.html",
+		"/F/Work/Fun/Web/Projects/styleguide/Style-Guide-Boilerplate-Bootstrap-Edition/markup/patterns/buttons-advanced.html",
+		"/F/Work/Fun/Web/Projects/styleguide/Style-Guide-Boilerplate-Bootstrap-Edition/index.php",
+		"/F/Work/Fun/Web/Projects/styleguide/Style-Guide-Boilerplate-Bootstrap-Edition/css/styleguide.css",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/styleguide.typography.hbs",
+		"/F/Work/Fun/Web/Projects/styleguide/Style-Guide-Boilerplate-Bootstrap-Edition/markup/patterns/alerts.html",
+		"/F/Work/Fun/Web/Projects/styleguide/Style-Guide-Boilerplate-Bootstrap-Edition/markup/patterns/breadcrumbs.html",
+		"/F/Work/Fun/Web/Projects/styleguide/Style-Guide-Boilerplate-Bootstrap-Edition/markup/base/address.html",
+		"/F/Work/Fun/Web/Projects/styleguide/Style-Guide-Boilerplate-Bootstrap-Edition/js/collapse.js",
+		"/F/Work/Fun/Web/Projects/styleguide/Style-Guide-Boilerplate-Bootstrap-Edition/markup/patterns/forms.html",
+		"/F/Work/Fun/Web/Projects/styleguide/Style-Guide-Boilerplate-Bootstrap-Edition/README.md",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/pages/gallery_lynx.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/pages/gallery_dukebox.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/pages/gallery_visualbear.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/pages/gallery_adhops.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/pages/gallery_copafeel.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/pages/_gallery.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/layout/_footer.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/components/_forms.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/components/_buttons.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/layout/_nav.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/pages/_pages.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/layout/_grid.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/base/_typography.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/helpers/_variables.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/pages/resume.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/base/_icons.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/components/_d3.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/src/scripts/d3.js",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/html/pretty-ugly-data.html",
+		"/F/Work/Fun/Web/Projects/visualbear/Gruntfile.js",
+		"/F/Work/Fun/Web/Projects/visualbear/src/assets/css/main.css",
+		"/F/Work/Fun/Web/Projects/visualbear/node_modules/generator-fe/app/templates/foundation/sass/foundation/components/_visibility.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/node_modules/generator-fe/app/templates/foundation/sass/foundation/components/_global.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/stylesheet/styleguide.typography",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/stylesheet/intro.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/pages/_template.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/pages/blog.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/partials/navbar-fixed-top-nojs.hbs",
+		"/F/Work/Fun/Web/Projects/visualbear/.gitignore",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/pages/_index.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/base/_base.scss",
+		"/F/Work/Fun/Web/Projects/visualbear/dist/blog.html",
+		"/F/Work/Fun/Web/Projects/visualbear/src/templates/pages/gallery.html",
+		"/F/Work/Fun/Web/Projects/visualbear/dist/gallery_adhops.html",
+		"/F/Work/Fun/Web/Projects/visualbear/sass/helpers/_mixins.scss",
+		"/C/Users/visualbear/.gitconfig",
+		"/F/Work/Fun/Web/Projects/visualbear/bower.json",
+		"/F/Work/Fun/Web/visualbear/src/templates/partials/jumbo.hbs",
+		"/F/Work/Fun/Web/visualbear/src/templates/html/pretty-ugly-data.html",
+		"/F/Work/Fun/Web/visualbear/sass/components/_d3.scss",
+		"/F/Work/Fun/Web/visualbear/src/scripts/d3.js",
+		"/F/Work/Fun/Web/visualbear/src/templates/pages/gallery_visualbear.hbs",
+		"/F/Work/Fun/Web/visualbear/src/templates/pages/gallery_sos.hbs",
+		"/F/Work/Fun/Web/visualbear/src/templates/pages/gallery_lynx.hbs",
+		"/F/Work/Fun/Web/visualbear/src/templates/pages/gallery_adhops.hbs",
+		"/F/Work/Fun/Web/visualbear/src/templates/pages/gallery_copafeel.hbs",
+		"/F/Work/Fun/Web/visualbear/sass/pages/_pages.scss",
+		"/F/Work/Fun/Web/visualbear/sass/layout/_grid.scss",
+		"/F/Work/Fun/Web/visualbear/sass/pages/_index.scss",
+		"/F/Work/Fun/Web/visualbear/src/scripts/ui.js",
+		"/F/Work/Fun/Web/visualbear/sass/components/_forms.scss",
+		"/F/Work/Fun/Web/visualbear/src/templates/pages/gallery_dukebox.hbs"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 45.0
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 123.0,
 		"where_history":
 		[
+			"*.hbs",
 			"*.scss",
-			"*.js",
+			"*.hbs",
+			"*.scss",
+			"sass/*.scss",
+			"*.scss",
+			"*.hbs",
+			"*.scss",
+			"*.hbs",
+			"*.scss",
+			"*HBS",
+			"*html",
+			"*scss",
+			"*hbs",
+			"*scss",
+			"*hbs",
+			"*html",
+			"*scss",
+			"*html",
+			"*scss",
 			"*",
 			"*.scss",
+			"*",
 			"*.js",
 			"*.scss",
-			"*.js",
-			"*.html",
+			"*.hbs",
 			"*.scss",
+			"*.js",
+			"*.scss",
+			"dist/sass/*.scss",
+			"*.scss",
+			"",
+			"*css",
+			"*sass",
+			"*.sass",
+			"",
+			"*.sass",
+			"|.sass",
+			".sass",
 			""
 		]
 	},
@@ -1110,134 +642,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"    .image_container{\n    	border-top:solid 4px  $vb-primary;\n      	border-bottom: solid 4px $vb-primary;\n    }",
-			"            #dukebox {\n                @include background-image(\"../img/work/thumbs/gallery_thumb_adhops_short.jpg\");\n            }",
-			"            #visualbear {\n                @include background-image(\"../img/work/thumbs/gallery_thumb_adhops_short.jpg\");\n            }",
-			"            #lynx {\n                @include background-image(\"../img/work/thumbs/gallery_thumb_adhops_short.jpg\");\n            }",
-			"            #sos {\n                @include background-image(\"../img/work/thumbs/gallery_thumb_adhops_short.jpg\");\n            }",
-			"                &:hover,\n                &:focus {\n                    background-color: red;\n                }",
-			"border-bottom: solid 2px $vb-primary;",
-			"\n\n      				border-bottom: solid 2px $vb-primary;",
-			"\n      			border-bottom: solid 1px $vb-primary;",
-			"border-bottom",
-			"			#sos{\n				@include background-image(\"../img/work/thumbs/gallery_thumb_adhop.jpg\");\n			}",
-			"				#sos{\n					@include background-image(\"../img/work/thumbs/gallery_thumb_sos.jpg\");\n				}",
-			"				#sos{\n					@include background-image(\"../img/work/thumbs/gallery_thumb_adhop.jpg\");\n				}",
-			"			#lynx{\n				@include background-image(\"../img/work/thumbs/gallery_thumb_adhop.jpg\");\n			}",
-			"			#visualbear{\n				@include background-image(\"../img/work/thumbs/gallery_thumb_adhop.jpg\");\n			}",
-			"			#dukebox{\n				@include background-image(\"../img/work/thumbs/gallery_thumb_adhop.jpg\");\n			}",
-			"col-lg-4 ",
-			"background-image:url",
-			"_barbus",
-			"barbus",
-			"gallery_thumb_adhops_short",
-			"../img/work/thumbs/splash_visualbear_transparent_icon.png",
-			"site",
-			"adhoc",
-			"sm",
-			"barbus",
-			"class='span-tile'",
-			"@extend .section;",
-			"@extend .section",
-			"background-color:red;",
-			"background-color:blue;",
-			"height:$tile-height-medium;",
-			"height:400px;",
-			"site/splash_visualbear_transparent_icon.png",
-			"src=\"\" alt=\"\"",
-			"img",
-			"article#splash",
-			"font-weight",
 			"font-size",
+			"        font-size: $base-font-size;",
+			"font-size",
+			"btn-icon",
+			"class=\"icon",
+			"social",
+			"24",
+			"24px",
+			"45px",
+			"45",
+			"#close",
+			".navmenu-fixed-left, .navmenu-fixed-right, .navbar-offcanvas",
+			"fixed",
+			"#close",
+			"    #close {\n        height: 64px;",
+			"class=\"label",
+			"label",
+			"id=\"info\"",
+			"label",
+			"gallery-text",
+			"thin",
+			"/#work",
+			"storeHash",
+			"offcanvas",
+			"$mobile-big-h1-size",
+			"$mobile-big-h2-size",
+			"$mobileline-height",
+			"$mobile-line-height",
+			"$mobileBig-line-height",
+			"$bold",
+			"$$bold",
+			"$semi-bold",
+			"$light",
+			"page-header",
+			"font-size: 75%;",
+			"subtitle",
+			"jumbo-text",
+			"subtitle",
+			"font-weight: $semi-bold;",
+			"  font-family",
 			"font-weight",
-			"selectionObject",
-			"priceTable",
-			"addcolumn",
-			"doonce",
-			"row",
-			"scope",
-			"$fa-version",
-			"hiddenTableColumns",
-			"hiddencolumns",
-			"k",
-			"0.85em",
-			"input",
-			"dark",
-			"fonts",
-			"bower_components",
-			"font-awesome",
-			"ui-grid-cell",
-			"18",
-			"edit",
-			"ui-grid-cell",
-			"build",
-			"concat",
-			"wiredep",
-			"font-awesome",
-			"guiprice",
-			"5t",
-			"inheritVal",
-			"inherit",
-			"getschedule",
-			"month",
-			"parentObj",
-			"parent",
-			"parentObj",
-			"parent-obj",
-			"parentObj",
-			"parent-obj",
-			"parentObj",
-			"gets",
-			"setschedule",
-			"$scope.parentObj",
-			"getschedule",
-			"listenonce",
-			"$scope.months.months",
-			"$scope.parentObj.months.months",
-			"$scope.months.months",
-			"getschedule",
-			"schedule",
-			"getschedule",
-			"cleanUpFunc",
-			"getschedule",
-			"setschedule",
-			"retrieveSchedule",
-			"schedule",
-			"retrieve",
-			"input",
-			"localhost",
-			"multilog",
-			"$scope.client",
-			"client",
-			"$scope.client",
-			"update",
-			"menufactory.select",
-			"select",
-			"get",
-			"clientobj",
-			"client",
-			"obtain",
-			"datetime",
-			"obtainNode",
-			"obtain",
-			"principal",
+			"text-container",
+			"offcanvas",
+			"off",
+			"overflow",
+			".navmenu-fixed",
+			".navmenu-fixed-left",
+			".navbar",
+			"fixed",
+			"form-text",
+			"textarea",
+			": red",
+			":red",
+			"red",
+			"form-control",
+			"footer",
+			"text-block",
+			"text-container",
+			"badges",
+			"$page-header-border-color",
+			"page-header",
+			"    .header-block {\n        color: $vb-light;\n    }",
+			"header-block",
+			".page-header",
+			"helpers/",
+			".jumbo-text",
+			"article",
+			"gallery-text",
+			".container",
+			"gallery-text",
+			"gallery-container",
+			"    .gallery-container {",
+			".light",
+			"    .gallery-container {",
+			"#barbus_container",
+			"main",
+			"    .gallery-container {\n        padding-top: 48px;",
+			"gallery-container",
+			"nav.offcanvas li",
+			"h1",
+			"header-block",
+			"header-block\n    h3 {\n        font-size: $base-h3-size;\n    }\nheader-block",
+			"    h0 {\n        font-size: $base-h0-size;\n    }\n    h1 {\n        font-size: $base-h1-size;\n    }\n    h2 {\n        font-size: $base-h2-size;\n    }\n    h3 {\n        font-size: $base-h3-size;\n    }\n    h4 {\n        font-size: $base-h4-size;\n    }\n    h5 {\n        font-size: $base-h5-size;\n    }\n    h6 {\n        font-size: $base-h6-size;\n        h0 {\n        font-size: $base-h0-size;\n    }\n    h1 {\n        font-size: $base-h1-size;\n    }\n    h2 {\n        font-size: $base-h2-size;\n    }\n    h3 {\n        font-size: $base-h3-size;\n    }\nheader-block",
+			".gallery-text",
+			"gallery-text",
+			"    .gallery-container {\n        .container{",
+			"    .gallery-container {",
+			"gallery-text",
+			"ubuntu",
+			"text-container",
+			"font-weight",
+			"$semi-bold-line-height",
+			"line-height: $semi-bold-line-height;",
+			" $semi-bold-line-height",
+			"b>",
+			"<b>",
+			"div",
+			"span",
+			"    .gallery-container {",
+			"gallery-container",
+			".header-image",
+			"    .foot {\n        padding-top:32px;",
+			"$medium",
+			"cssmin",
+			".main",
+			".diagram-body",
+			".diagram-body .main",
+			"margin-top: -48px",
+			"48",
+			"margin-top: -48px",
+			"    margin-top: -48px",
+			"diagram-body",
+			"    .foot {",
+			"foot",
+			"font-weight",
+			"    .light {\n        font-weight: $light;\n    }",
+			"light",
+			"  .light",
+			"gallery-container",
+			"h1",
 			"console.log",
-			"console.oog",
-			"grandapp",
-			"grandappApp",
-			"HEAD",
-			"css",
-			"main.css",
-			"displayedCollection",
-			"pagination.html",
-			"uigridService",
-			"smartTableService",
-			"smartTable",
-			"table",
-			".directive(\"table\"",
-			".directive('table'",
-			"table",
-			"angular"
+			"gallery-text ",
+			"textblock",
+			"</text>",
+			" <text class=\"emphasis\">",
+			"   .image_container {\n        padding-top: 32px;",
+			"gallery_container",
+			"padding-top: 48px;"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1245,134 +777,134 @@
 		"regex": false,
 		"replace_history":
 		[
-			"    .image_container{\n    	border-top:solid 4px  $vb-primary;\n      	border-bottom: solid 4px $vb-primary;\n   \n      		height:300px; }",
-			"            #dukebox {\n                @include background-image(\"../img/work/thumbs/gallery_thumb_dukebox_short.jpg\");\n            }",
-			"            #visualbear {\n                @include background-image(\"../img/work/thumbs/gallery_thumb_visualbear_short.jpg\");\n            }",
-			"            #sos {\n                @include background-image(\"../img/work/thumbs/gallery_thumb_lynx_short.jpg\");\n            }",
-			"            #sos {\n                @include background-image(\"../img/work/thumbs/gallery_thumb_sos_short.jpg\");\n            }",
+			"vb-btn-icon",
+			"class=\"btn-icon ",
+			"48px",
+			"    #close {\n        height: 48px;",
+			"$font-bold",
+			"$font-semi-bold",
+			"$font-light",
+			"font-size: 65%;",
+			"navmenu",
 			"",
-			"border",
-			"				#sos{\n					@include background-image(\"../img/work/thumbs/gallery_thumb_sos_short.jpg\");\n				}",
-			"				#sos{\n					@include background-image(\"../img/work/thumbs/gallery_thumb_sos.jpg\");\n				}",
-			"			#lynx{\n				@include background-image(\"../img/work/thumbs/gallery_thumb_lynx.jpg\");\n			}",
-			"			#visualbear{\n				@include background-image(\"../img/work/thumbs/gallery_thumb_visualbear.jpg\");\n			}",
-			"			#dukebox{\n				@include background-image(\"../img/work/thumbs/gallery_thumb_visualbear.jpg\");\n			}",
-			"			#dukebox{\n				@include background-image(\"../img/work/thumbs/gallery_thumb_dukebox.jpg\");\n			}",
-			"col-lg-12 ",
-			"col-lg-12",
-			"@include background-image",
-			"_copafeel",
-			"copafeel",
-			"gallery_thumb_adhop",
-			"../img/work/thumbs/gallery_thumb_adhops_short.jpg",
-			"work/thumbs",
-			"adhop",
-			"md",
+			"utilities/",
+			"section",
+			"    .gallery-container {\n      border-bottom: solid 4px $vb-primary;",
+			"    .gallery-container {\n        padding-bottom:16px;",
+			"    .gallery-container {",
+			"h0",
+			"line-height: $lineheight-base;",
+			"sb>",
+			"    .gallery-container {\n        padding-top:48px;",
+			"    .foot {",
+			"$semi-bold",
+			"    .foot {\n        padding-top:32px;",
+			"    .semi-bold {\n        font-weight: $semi-bold;\n    }",
+			"semi-bold",
+			"h0",
+			"textblock",
+			"</b>",
+			"<b>",
+			"   .image_container {",
+			"padding-top: 32px;",
+			".image_container {\npadding-top: 32px;",
+			"   .image_container {\n        padding-top: 32px;",
+			"   .image_container {",
+			" padding-top:48px; ",
+			" .image_container {\n padding-top:48px;    ",
+			"      .image_container {\n       padding-top:48px;    ",
+			"    span.header-image {\n        padding:48px;",
+			"    .gallery-container {\n        .gallery-image {\n            padding-top:48px;",
 			"",
-			"height:auto;",
+			"    h2 {\n        font-size: 1.1em;\n    }",
+			"    h2 {\n        font-size: 1.2em;\n    }",
+			"    h2 {\n        font-size: 1.6em;\n    }",
+			"class=\"light\"",
+			"</b>",
+			"<b>",
+			"alt=\"Cop a Feel image\"",
+			"alt=\"Ad Hops image\"",
+			"alt=\"Projecto Lynx image\"",
+			"alt=\"Sons of Satyr image\"",
+			"alt=\"visualbear image\"",
+			"    .light {\n        font-weight: $light;\n    }",
+			"light",
+			".gallery",
+			".jumbo-text",
+			"p",
+			" .row",
+			"                .text-block {\n                    border:solid 2px $vb-primary;",
+			"cardinal",
+			"cardinal-closed",
+			"cardinal-open",
+			"data",
+			"variableText",
+			"d[1]",
+			"d[0]",
+			"d.[1]",
+			"d.[0]",
+			"assets",
+			"            font-size: 0.4em;",
+			"            font-size: 0.6em;",
+			"            font-size: 0.8em;",
+			"            font-size: .8em;",
+			"            font-size: 1em;",
+			"text",
+			"    ul#links {\n        height:90vh;\n    }",
 			"",
-			"icon/left_arrow.png",
+			"    ul#links {\n        height:100vh;\n    }",
+			"    ul#links {\n        height:90%;\n    }",
+			"    ul#links {\n        height:100%;\n        overflow-y:none;\n    }",
+			"    ul#links {\n        height:100%;\n    }",
 			"",
-			"span",
-			"#splash",
-			"$table-font-size",
-			"ownerObj",
-			"bleh-obj",
-			"$scope.parentObj.months.months",
-			"grandappApp",
-			"grandapp",
-			"uigrid",
-			" ",
-			"right\" rotate-flip=\"!isCollapsedClient\"",
+			"   .subtitle {\n        font-weight: $light;\n        font-size: 0.8em;\n    }",
+			"        .subtitle {\n            font-size: 0.8em;\n        }",
+			"    @extend .vb-btn;\n        padding: 0;",
+			"        height: 64px;",
+			"        height: 64;",
+			"        padding:0 64px;",
+			"        textarea{\n          height:128px;\n        }",
+			"    .navbar-brand {\n        height: 49px;\n        width: 49px;\n        padding: 9px;\n    }",
+			" display: none;\n",
+			"        border: solid 4px $vb-primary;",
+			"    .navbar-brand {\n        height: 49px;\n        width: 49px;\n        padding: 9px;\n    }",
+			"6s",
+			"8s",
+			"        padding: 32px  64px;",
+			"        padding: 32px  128px;",
+			"    .gallery-text {\n        margin: auto;",
+			"        .col-lg-12 {\n            padding: 0  32px;\n        }",
 			"",
-			"dateForm",
-			"scope",
-			"$scope",
-			"ng-model",
-			"quick-ng-repeat",
+			"    .text-block {",
+			"  font-size: 6em;",
 			"",
-			"blur='submit'",
-			"blur='ignore'",
-			"blur='cancel'",
-			"blur='ignore'",
-			"blur='cancel'",
-			"blur='submit'",
-			"form",
-			",node,object)",
-			"clientOpen",
+			"text-transform: none;",
+			"        top: 60%;\n        transform: translateY(-60%);",
+			"border:solid 2px $vb-primary;",
 			"",
-			"subnet",
-			"node",
-			"$scope.subnet",
-			"$scope.node",
-			"isCollapsedNode",
-			"isCollapsedSubnet",
-			"parent-obj='subnet'",
-			"parent-obj='node'",
-			"id='node'",
-			"id='subnet'",
-			"nodes",
-			"subnets",
-			"$scope.nodes",
-			"$scope.subnets",
-			"nodeType",
-			"$scope.selectedObj",
-			"removeObject",
-			")",
-			"(",
-			"selectObject",
-			"ServerFactory",
-			"===",
-			"+ owner.type +'.'+ owner.id",
-			"+ owner.type +'.'+owner.id ",
-			"{{parentObj.id}} {{parentObj.type}}",
-			"owner.id +'.'+owner.type",
-			"owner.id)",
-			",parentObj,",
-			"{{parentObj.id}}",
-			"owner.id",
-			"parentObj",
-			"parentObj.id",
-			"btn-app-small",
-			"None",
-			"All",
-			"parent-obj",
-			"parentObj.type",
-			"parentobj.type",
-			"minute",
-			"open: false,                    schedule:{\n                        name:'',\n                        month:[],\n                        date:[],\n                        day:[],\n                        hour:[],\n                        minutes:[]\n                    },",
-			"                        name:'',\n                        month:[],\n                        date:[],\n                        day:[],\n                        hour:[],\n                        minutes:[]",
-			"",
-			"open:true",
-			"><i class=\"fa fa-caret-right\"></i><",
-			"><i class=\"fa fa-times\"></i><",
-			"<i class=\"fa fa-times\"></i>",
-			"'removeItem(\"{{obj.type}}\"",
-			"propertyMenu",
-			"'",
-			"object",
-			"obj",
-			"",
-			"dataCreate",
-			"dataRead",
-			"ui-view=\"dropdown\"",
-			"propertyMenu.view.dropdown",
-			"}\"",
-			"\"{",
-			"'",
-			"Save",
-			"</input> ",
-			"<input ",
-			"<input",
-			"-",
-			"name",
-			"Install",
-			"Instal",
-			"outClick",
-			"ng-attr-id",
-			"property",
-			"multiLog",
-			""
+			".gallery-text",
+			"        span.header-image {",
+			"    .social {\n        a {\n            padding:0;\n            margin:0;\n             }",
+			"    .social {\n        a {\n            padding:0;\n            margin:0;",
+			"        a {\n            padding:0;\n            margin:0;",
+			"        width: 161px;",
+			"        width: 148px;",
+			"gallery_thumb_sos.jpg",
+			"      border-bottom: solid 8px $vb-primary;",
+			".vb-submit{\n    background-color: $vb-primary;",
+			".vb-submit{\n    background-color: $vb-light;",
+			"background-color:$vb-light;",
+			"border:solid 2px $vb-grey;",
+			"    background-color:$vb-light;\n           border:solid 2px $vb-grey;",
+			"    padding:32px;",
+			"    .col-md-6, .col-md-4,     .col-sm-6, .col-sm-8",
+			".col-md-6, .col-md-4",
+			"  .col-md-8",
+			"$vb-grey",
+			"        .icon {\n            float: left;\n            width: auto;\n            &:hover,\n            &:focus{\n               opacity:0.5;\n            }\n        }",
+			"        .icon {\n            float: left;\n            width: auto;\n            &:hover,\n            &:focus{\n                 box-sizing: border-box;\n                border: solid 2px $vb-primary;\n            }\n        }",
+			"        .icon {\n            float: left;\n            width: auto;\n            &:hover,\n            &:focus{\n                border: solid 2px $vb-primary;\n            }\n        }",
+			"        width: 144px;"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -1388,48 +920,66 @@
 			[
 				{
 					"buffer": 0,
-					"file": "sass/pages/_gallery.scss",
+					"file": "src/templates/partials/styleguide.intro.hbs",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9499,
+						"buffer_size": 912,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4103,
-								4103
+								544,
+								544
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Handlebars/Handlebars.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2249.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
 				{
 					"buffer": 1,
-					"file": "sass/helpers/_mixins.scss",
+					"file": "sass/atoms/_typography.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 486,
+						"buffer_size": 4302,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								396,
-								396
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1446,834 +996,14 @@
 								}
 							],
 							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/templates/partials/work.hbs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1806,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								305,
-								305
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 84.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "src/templates/pages/gallery_dukebox.hbs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1038,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								122,
-								99
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "src/templates/pages/gallery_adhops.hbs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1037,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								123,
-								123
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "src/templates/pages/gallery_lynx.hbs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1053,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								141,
-								117
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "src/templates/pages/gallery_visualbear.hbs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1050,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								132,
-								132
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "src/templates/pages/gallery_sos.hbs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1052,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								141,
-								141
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "src/templates/pages/gallery_copafeel.hbs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1046,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								132,
-								132
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "sass/layout/_grid.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1810,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1599,
-								1555
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1164.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "sass/helpers/_variables.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1507,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1481,
-								1481
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 480.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 16,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "sass/pages/_index.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5299,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2105,
-								2105
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1132.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "src/templates/partials/jumbo.hbs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 786,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								327,
-								327
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "src/scripts/ui.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2240,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								972,
-								976
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 158.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 19,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "sass/main.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 430,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								420,
-								427
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 18,
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "src/templates/pages/resume.hbs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 298,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 16,
-					"file": "sass/layout/_nav.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4178,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								120,
-								120
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 17,
-					"file": "src/templates/partials/navbar-fixed-top.hbs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1388,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 138.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 18,
-					"file": "src/templates/layouts/default.hbs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2266,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1711,
-								1711
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 17,
-					"type": "text"
-				},
-				{
-					"buffer": 19,
-					"file": "sass/components/_buttons.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5505,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2136,
-								2136
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 164.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 20,
-					"type": "text"
-				},
-				{
-					"buffer": 20,
-					"file": "config.rb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1000,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								233,
-								233
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 21,
-					"type": "text"
-				},
-				{
-					"buffer": 21,
-					"file": "sass/base/_typography.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3028,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1708,
-								1708
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2114.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
 					"type": "text"
 				}
 			]
@@ -2281,11 +1011,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 37.0
 	},
 	"input":
 	{
-		"height": 41.0
+		"height": 47.0
 	},
 	"layout":
 	{
@@ -2296,6 +1026,12 @@
 				0,
 				1,
 				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
 			]
 		],
 		"cols":
@@ -2306,6 +1042,7 @@
 		"rows":
 		[
 			0.0,
+			0.631977474428,
 			1.0
 		]
 	},
@@ -2316,21 +1053,17 @@
 	},
 	"output.exec":
 	{
-		"height": 58.0
+		"height": 50.0
 	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
-	"output.git":
-	{
-		"height": 35.0
-	},
 	"pinned_build_system": "",
 	"project": "visualbear.sublime-project",
 	"replace":
 	{
-		"height": 216.0
+		"height": 84.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -2340,24 +1073,28 @@
 		"selected_items":
 		[
 			[
-				"multlilogcontr",
-				"main/java/se/megacon/multilog/web/MultilogController.java"
+				"_gallery",
+				"sass\\pages\\_gallery.scss"
 			],
 			[
-				"pagination.html",
-				"src/main/webapp/scripts/components/form/pagination.html"
+				"_nav",
+				"sass\\layout\\_nav.scss"
+			],
+			[
+				"gallery.",
+				"sass\\pages\\_gallery.scss"
 			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
@@ -2376,9 +1113,10 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 201.0,
+	"side_bar_width": 213.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
+		"max_columns": 2
 	}
 }

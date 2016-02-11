@@ -15,11 +15,6 @@ blockquote {
     @include border-radius(0);
     font-family: $vb-body-font-family;
     font-weight: 200;
-    opacity: 0.8;
-    cursor: pointer;
-    &:hover {
-        opacity: 1;
-    }
 }
 
 @media (min-width: $break-huge) {
