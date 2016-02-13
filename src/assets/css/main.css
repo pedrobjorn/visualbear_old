@@ -12058,6 +12058,14 @@ i {
     font-size: 0.6em;
   }
 }
+/* line 1, ../../../sass/atoms/_icons.scss */
+.icon-container {
+  width: 100%;
+  height: 4em;
+  margin-bottom: 0.2em;
+  display: block;
+}
+
 /* line 4, ../../../sass/atoms/_buttons.scss */
 .btn {
   text-transform: uppercase;
@@ -13324,14 +13332,18 @@ blockquote footer {
   .text-block {
     padding: 32px 0;
   }
+  /* line 23, ../../../sass/molecules/_textelements.scss */
+  .text-block li {
+    padding-bottom: 16px;
+  }
 
-  /* line 24, ../../../sass/molecules/_textelements.scss */
+  /* line 27, ../../../sass/molecules/_textelements.scss */
   .text-container {
     width: 900px;
     margin: auto;
   }
 
-  /* line 28, ../../../sass/molecules/_textelements.scss */
+  /* line 31, ../../../sass/molecules/_textelements.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 1.2em;
@@ -13339,18 +13351,22 @@ blockquote footer {
   }
 }
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 36, ../../../sass/molecules/_textelements.scss */
+  /* line 39, ../../../sass/molecules/_textelements.scss */
   .text-block {
     padding: 32px 0;
   }
+  /* line 41, ../../../sass/molecules/_textelements.scss */
+  .text-block li {
+    padding-bottom: 16px;
+  }
 
-  /* line 39, ../../../sass/molecules/_textelements.scss */
+  /* line 45, ../../../sass/molecules/_textelements.scss */
   .text-container {
     width: 900px;
     margin: auto;
   }
 
-  /* line 43, ../../../sass/molecules/_textelements.scss */
+  /* line 49, ../../../sass/molecules/_textelements.scss */
   .jumbo-text {
     font-weight: 300;
     font-size: 3.6em;
@@ -13359,7 +13375,7 @@ blockquote footer {
     margin: 0 auto;
   }
 
-  /* line 50, ../../../sass/molecules/_textelements.scss */
+  /* line 56, ../../../sass/molecules/_textelements.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 1.2em;
@@ -13367,18 +13383,22 @@ blockquote footer {
   }
 }
 @media (max-width: 1279px) and (min-width: 960px) {
-  /* line 58, ../../../sass/molecules/_textelements.scss */
+  /* line 64, ../../../sass/molecules/_textelements.scss */
   .text-container {
     width: 900px;
     margin: auto;
   }
 
-  /* line 62, ../../../sass/molecules/_textelements.scss */
+  /* line 68, ../../../sass/molecules/_textelements.scss */
   .text-block {
     padding: 32px 0;
   }
+  /* line 70, ../../../sass/molecules/_textelements.scss */
+  .text-block li {
+    padding-bottom: 16px;
+  }
 
-  /* line 65, ../../../sass/molecules/_textelements.scss */
+  /* line 74, ../../../sass/molecules/_textelements.scss */
   .jumbo-text {
     font-weight: 300;
     font-size: 2em;
@@ -13387,7 +13407,7 @@ blockquote footer {
     margin: 0 auto;
   }
 
-  /* line 72, ../../../sass/molecules/_textelements.scss */
+  /* line 81, ../../../sass/molecules/_textelements.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 1.2em;
@@ -13395,19 +13415,23 @@ blockquote footer {
   }
 }
 @media (max-width: 960px) and (min-width: 767px) {
-  /* line 80, ../../../sass/molecules/_textelements.scss */
+  /* line 89, ../../../sass/molecules/_textelements.scss */
   .text-block {
     padding: 16px 0;
   }
+  /* line 91, ../../../sass/molecules/_textelements.scss */
+  .text-block li {
+    padding-bottom: 8px;
+  }
 
-  /* line 83, ../../../sass/molecules/_textelements.scss */
+  /* line 95, ../../../sass/molecules/_textelements.scss */
   .text-container {
     padding: 0 64px;
     max-width: 900px;
     margin: auto;
   }
 
-  /* line 88, ../../../sass/molecules/_textelements.scss */
+  /* line 100, ../../../sass/molecules/_textelements.scss */
   .jumbo-text {
     font-weight: 300;
     font-size: 2em;
@@ -13416,7 +13440,7 @@ blockquote footer {
     margin: 0 auto;
   }
 
-  /* line 95, ../../../sass/molecules/_textelements.scss */
+  /* line 107, ../../../sass/molecules/_textelements.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 1em;
@@ -13424,17 +13448,21 @@ blockquote footer {
   }
 }
 @media (max-width: 767px) and (min-width: 480px) {
-  /* line 103, ../../../sass/molecules/_textelements.scss */
+  /* line 115, ../../../sass/molecules/_textelements.scss */
   .text-block {
     padding: 16px 0;
   }
+  /* line 117, ../../../sass/molecules/_textelements.scss */
+  .text-block li {
+    padding-bottom: 8px;
+  }
 
-  /* line 106, ../../../sass/molecules/_textelements.scss */
+  /* line 121, ../../../sass/molecules/_textelements.scss */
   .text-container {
     padding: 0 32px;
   }
 
-  /* line 109, ../../../sass/molecules/_textelements.scss */
+  /* line 124, ../../../sass/molecules/_textelements.scss */
   .jumbo-text {
     font-weight: 300;
     font-size: 2em;
@@ -13443,7 +13471,7 @@ blockquote footer {
     margin: 0 auto;
   }
 
-  /* line 116, ../../../sass/molecules/_textelements.scss */
+  /* line 131, ../../../sass/molecules/_textelements.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 0.9em;
@@ -13451,14 +13479,23 @@ blockquote footer {
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 124, ../../../sass/molecules/_textelements.scss */
+  /* line 139, ../../../sass/molecules/_textelements.scss */
+  .text-block {
+    padding: 16px 0;
+  }
+  /* line 141, ../../../sass/molecules/_textelements.scss */
+  .text-block li {
+    padding-bottom: 8px;
+  }
+
+  /* line 145, ../../../sass/molecules/_textelements.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 0.9em;
     line-height: 1.5;
   }
 
-  /* line 129, ../../../sass/molecules/_textelements.scss */
+  /* line 150, ../../../sass/molecules/_textelements.scss */
   .jumbo-text {
     font-weight: 300;
     font-size: 1.8em;
@@ -13467,28 +13504,27 @@ blockquote footer {
     margin: 0 auto;
   }
 
-  /* line 136, ../../../sass/molecules/_textelements.scss */
-  .text-block {
-    padding: 16px 0;
-  }
-
-  /* line 139, ../../../sass/molecules/_textelements.scss */
+  /* line 157, ../../../sass/molecules/_textelements.scss */
   .text-container {
     padding: 0 32px;
   }
 }
 @media (max-width: 320px) {
-  /* line 145, ../../../sass/molecules/_textelements.scss */
+  /* line 163, ../../../sass/molecules/_textelements.scss */
   .text-block {
     padding: 16px 0;
   }
+  /* line 165, ../../../sass/molecules/_textelements.scss */
+  .text-block li {
+    padding-bottom: 8px;
+  }
 
-  /* line 148, ../../../sass/molecules/_textelements.scss */
+  /* line 169, ../../../sass/molecules/_textelements.scss */
   .text-container {
     padding: 0 32px;
   }
 
-  /* line 151, ../../../sass/molecules/_textelements.scss */
+  /* line 172, ../../../sass/molecules/_textelements.scss */
   .jumbo-text {
     font-weight: 300;
     font-size: 1.8em;
@@ -13497,7 +13533,7 @@ blockquote footer {
     margin: 0 auto;
   }
 
-  /* line 158, ../../../sass/molecules/_textelements.scss */
+  /* line 179, ../../../sass/molecules/_textelements.scss */
   .gallery-text {
     font-weight: 300;
     font-size: 0.9em;
