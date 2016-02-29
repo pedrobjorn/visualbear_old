@@ -88,14 +88,13 @@ nav.navmenu {
 .navbar {
     @include border-radius(0);
     border: 0;
-    border-bottom: solid 4px $vb-primary;
     z-index: 9998;
     width: 100%;
     .fa-bars {
         font-size: 36px;
     }
     height: 48px;
-    padding: 0 8px;
+    padding: 0;
     background-color: $vb-grey;
     .dropdown-menu li {
         &:hover,
@@ -194,8 +193,8 @@ nav.navmenu {
 // }
 @media (min-width: $break-huge) {
     .navbar-brand {
-        height: 49px;
-        width: 49px;
+        height: 50px;
+        width: 50px;
         padding: 9px;
     }
 }
@@ -203,8 +202,8 @@ nav.navmenu {
 //2500px< & >1200px
 @media (max-width: $break-huge) and (min-width: $break-large) {
     .navbar-brand {
-        height: 49px;
-        width: 49px;
+        height: 50px;
+        width: 50px;
         padding: 9px;
     }
 }
@@ -212,8 +211,8 @@ nav.navmenu {
 //1200px< & >767px
 @media (max-width: $break-large) and (min-width: $break-medium) {
     .navbar-brand {
-        height: 49px;
-        width: 49px;
+        height: 50px;
+        width: 50px;
         padding: 9px;
     }
 }
@@ -221,8 +220,8 @@ nav.navmenu {
 //767px< & >480px
 @media (max-width: $break-medium) and (min-width: $break-small) {
     .navbar-brand {
-        height: 49px;
-        width: 49px;
+        height: 50px;
+        width: 50px;
         padding: 9px;
     }
     nav.navmenu {
@@ -261,8 +260,8 @@ nav.navmenu {
 //480px< & >320px
 @media (max-width: $break-small) and (min-width: $break-tiny) {
     .navbar-brand {
-        height: 49px;
-        width: 49px;
+        height: 50px;
+        width: 50px;
         padding: 9px;
     }
     nav.navmenu {
@@ -300,8 +299,8 @@ nav.navmenu {
 //320px<
 @media (max-width: $break-tiny) {
     .navbar-brand {
-        height: 49px;
-        width: 49px;
+        height: 50px;
+        width: 50px;
         padding: 9px;
     }
 }

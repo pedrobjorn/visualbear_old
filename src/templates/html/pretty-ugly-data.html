@@ -35,15 +35,15 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
-    <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-20266178-1', 'auto');
-    ga('send', 'pageview');
-    </script>
-<meta name="google-site-verification" content="X0A86vn2fgO_z5MvWvCMsjqLk57dI9xlbOHz89U5Gww" />
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-20266178-1', 'auto');
+        ga('send', 'pageview');
+        </script>
+        <meta name="google-site-verification" content="X0A86vn2fgO_z5MvWvCMsjqLk57dI9xlbOHz89U5Gww" />
     </head>
     <body class="diagram-body">
         <nav class="navmenu navmenu-fixed-right offcanvas"
@@ -93,87 +93,86 @@
                                 </li>
                             </a>
                         </div>
-                        <div class="social">
-                            <a id="follow-button" class="icon" title="Follow @pedrobjorn on Twitter" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Flocalh…rc=twsrc%5Etfw&region=follow_link&screen_name=pedrobjorn&tw_p=followbutton">
+                        <ul class="socialContainer">
+                            <a id="follow-button" class="vb-btn-icon " title="Follow @pedrobjorn on Twitter" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Flocalh…rc=twsrc%5Etfw&region=follow_link&screen_name=pedrobjorn&tw_p=followbutton">
                                 <img src="assets/img/icons/twitter_icon_64.jpg" alt="Smiley face">
                             </a>
-                            <a href="https://www.behance.net/visualbear" class="icon">
+                            <a href="https://www.behance.net/visualbear" class="vb-btn-icon ">
                                 <img src="assets/img/icons/behance_icon_64.jpg" alt="Smiley face">
                             </a>
-                            <a href="https://se.linkedin.com/pub/pedro-björn/4b/732/741" class="icon">
+                            <a href="https://se.linkedin.com/pub/pedro-björn/4b/732/741" class="vb-btn-icon ">
                                 <img src="assets/img/icons/linkdin_icon_64.jpg" alt="Smiley face">
                             </a>
-                        </div>
+                        </ul>
+                    </span>
+                </ul>
+            </nav>
+            <div class=" navbar  navbar-fixed-top  col-sm-12 hiding" id="data-menu" role="navigation">
+                <li class="col-md-12 ">
+                    <div class="data-nav pull-right">
+                        <button type="button" class="btn vb-btn bar pull-right" data-toggle="offcanvas" data-target=".navmenu">
+                        <!--<i class="fa fa-bars fa-lg"></i>-->
+                        <span class="bar"></span>
+                        </button>
+                        <button type="button" id="suicide" class="btn data-button pull-right hiding">
+                        US Army Suicides
+                        </button>
+                        <button type="button" id="spain" class="btn data-button pull-right hiding">
+                        Spanish Unemployment
+                        </button>
+                        <button type="button" id="education" class="btn data-button pull-right hiding">
+                        World Education
+                        </button>
+                        <button type="button" id="child" class="btn data-button pull-right hiding">
+                        Infant Mortality Rate
+                        </button>
+                        <button type="button" id="crimeus" class="btn data-button pull-right hiding active">
+                        Crime Rate USA
+                        </button>
+                        <button type="button" id="carbon" class="btn data-button pull-right hiding">
+                        CO2 Emissions
+                        </button>
                     </div>
-                </span>
-            </ul>
-        </nav>
-        <div class=" navbar  navbar-fixed-top  col-sm-12 hiding" id="data-menu" role="navigation">
-            <li class="col-md-12 ">
-                <div class="data-nav pull-right">
-                    <button type="button" class="btn vb-btn bar pull-right" data-toggle="offcanvas" data-target=".navmenu">
-                    <!--<i class="fa fa-bars fa-lg"></i>-->
-                    <span class="bar"></span>
+                    <!--<button type="button"
+                    class="btn vb-btn  pull-right"
+                    data-toggle="offcanvas"
+                    data-target=".navmenu">
+                    <span>toggle menu</span>
+                    </button>-->
+                </li>
+                <!-- <li class="col-md-6  ">
+                    <button type="button"
+                    class="btn vb-btn  pull-right"
+                    data-toggle="offcanvas"
+                    data-target=".navmenu">
+                    <span>toggle menu</span>
                     </button>
-                    <button type="button" id="suicide" class="btn data-button pull-right hiding">
-                    US Army Suicides
+                    <button type="button" class="btn vb-btn pull-right" data-toggle="offcanvas" data-target=".navmenu">
+                    <i class="fa fa-bars fa-lg"></i>
                     </button>
-                    <button type="button" id="spain" class="btn data-button pull-right hiding">
-                    Spanish Unemployment
-                    </button>
-                    <button type="button" id="education" class="btn data-button pull-right hiding">
-                    World Education
-                    </button>
-                    <button type="button" id="child" class="btn data-button pull-right hiding">
-                    Infant Mortality Rate
-                    </button>
-                    <button type="button" id="crimeus" class="btn data-button pull-right hiding active">
-                    Crime Rate USA
-                    </button>
-                    <button type="button" id="carbon" class="btn data-button pull-right hiding">
-                    CO2 Emissions
-                    </button>
-                </div>
-                <!--<button type="button"
-                class="btn vb-btn  pull-right"
-                data-toggle="offcanvas"
-                data-target=".navmenu">
-                <span>toggle menu</span>
-                </button>-->
-            </li>
-            <!-- <li class="col-md-6  ">
-                <button type="button"
-                class="btn vb-btn  pull-right"
-                data-toggle="offcanvas"
-                data-target=".navmenu">
-                <span>toggle menu</span>
-                </button>
-                <button type="button" class="btn vb-btn pull-right" data-toggle="offcanvas" data-target=".navmenu">
-                <i class="fa fa-bars fa-lg"></i>
-                </button>
-            </li>-->
-        </div>
-        <div class="main" role="main">
-        </div>
-        <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,300' rel='stylesheet' type='text/css'>
-        <!-- Latest compiled and minified JavaScript -->
-        <!--  <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.1.3/js/jasny-bootstrap.min.js"></script>-->
-        <!-- Include all compiled plugins (below), or include individual files as needed -->
-        <script src="assets/js/jquery.min.js"></script>
-        <script src="assets/js/bootstrap.min.js"></script>
-        <script class="d3" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
-        <!--  <script src="assets/js/jasny-bootstrap.min.js"></script>-->
-        <script src="assets/js/parsley.min.js"></script>
-        <script src="assets/js/main.min.js"></script>
-        <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', 'UA-20266178-1', 'auto');
-        ga('send', 'pageview');
-        </script>
-    </body>
-</html>
+                </li>-->
+            </div>
+            <div class="main" role="main">
+            </div>
+            <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,300' rel='stylesheet' type='text/css'>
+            <!-- Latest compiled and minified JavaScript -->
+            <!--  <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.1.3/js/jasny-bootstrap.min.js"></script>-->
+            <!-- Include all compiled plugins (below), or include individual files as needed -->
+            <script src="assets/js/jquery.min.js"></script>
+            <script src="assets/js/bootstrap.min.js"></script>
+            <script class="d3" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+            <!--  <script src="assets/js/jasny-bootstrap.min.js"></script>-->
+            <script src="assets/js/parsley.min.js"></script>
+            <script src="assets/js/main.min.js"></script>
+            <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-20266178-1', 'auto');
+            ga('send', 'pageview');
+            </script>
+        </body>
+    </html>

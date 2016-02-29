@@ -72,7 +72,6 @@ label {
     padding-bottom: 2px;
 }
 
-
 a {
     color: $vb-primary;
     &:hover,
@@ -147,14 +146,79 @@ i {
     }
 }
 
+a {
+    .gallery-image {
+        color: $vb-light;
+    }
+}
+
 @media (min-width: $break-huge) {}
 
-@media (max-width: $break-huge) and (min-width: $break-large) {}
+@media (max-width: $break-huge) and (min-width: $break-large) {
+    a {
+        .gallery-image {
+            color: $vb-light;
+            &:hover,
+            &:focus {
+                .image-block {
+                    padding:32px;
+                    width: 75%;
+                    margin: auto;
+                    color: $vb-light;
+                    background-color: $vb-primary;
+                    &:after {
+                        border-left: 23px solid transparent;
+                        border-right: 23px solid transparent;
+                        border-bottom: 18px solid $vb-primary;
+                        margin-left: -23px;
+                    }
+                }
+            }
+        }
+    }
+}
 
-@media (max-width: $break-large) and (min-width: $break-big) {}
+@media (max-width: $break-large) and (min-width: $break-big) {
+    a {
+        .gallery-image {
+            color: $vb-light;
+            &:hover,
+            &:focus {
+                .image-block {
+                    padding:32px;
+                    width: 80%;
+                    margin: auto;
+                    color: $vb-light;
+                    background-color: $vb-primary;
+                    &:after {
+                        border-left: 23px solid transparent;
+                        border-right: 23px solid transparent;
+                        border-bottom: 18px solid $vb-primary;
+                        margin-left: -23px;
+                    }
+                }
+            }
+        }
+    }
+}
 
 //1200px< & >767px
-@media (max-width: $break-big) and (min-width: $break-medium) {}
+@media (max-width: $break-big) and (min-width: $break-medium) {
+    a {
+        .gallery-image {
+            color: $vb-light;
+            &:hover,
+            &:focus {
+                .image-block {
+                    padding:16px;
+                    margin: auto;
+                    color: $vb-light;
+                    background-color: $vb-primary;
+                }
+            }
+        }
+    }
+}
 
 //767px< & >480px
 @media (max-width: $break-medium) and (min-width: $break-small) {
@@ -193,6 +257,19 @@ i {
     }
     h6 {
         font-size: $mobile-h6-size;
+    }
+    a {
+        .gallery-image {
+            color: $vb-light;
+            &:hover,
+            &:focus {
+                .image-block {
+                    padding:16px;
+                    color: $vb-light;
+                    background-color: $vb-primary;
+                }
+            }
+        }
     }
 }
 
@@ -234,6 +311,19 @@ i {
     h6 {
         font-size: $mobile-h6-size;
     }
+    a {
+        .gallery-image {
+            color: $vb-light;
+            &:hover,
+            &:focus {
+                .image-block {
+                    padding:16px;
+                    color: $vb-light;
+                    background-color: $vb-primary;
+                }
+            }
+        }
+    }
 }
 
 //320px<
@@ -273,5 +363,18 @@ i {
     }
     h6 {
         font-size: $mobile-h6-size;
+    }
+    a {
+        .gallery-image {
+            color: $vb-light;
+            &:hover,
+            &:focus {
+                .image-block {
+                    padding:16px;
+                    color: $vb-light;
+                    background-color: $vb-primary;
+                }
+            }
+        }
     }
 }

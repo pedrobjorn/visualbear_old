@@ -50,12 +50,12 @@
 .vb-btn {
     font-size: 12px;
     background-color: $vb-grey;
-    height: 45px;
+    height: 50px;
+    width: 50px;
     position: relative;
     overflow: hidden;
     margin: 0;
-    padding: 4px 4px 0 4px;
-    width: 45px;
+    padding: 6px 6px 0 6px;
     cursor: pointer;
     color: $vb-primary;
     font-weight: 500;
@@ -63,7 +63,6 @@
     &:hover,
     &:focus {
         padding: 3px 4px 0 4px;
-        height: 46px;
         color: $vb-light;
         background-color: $vb-primary;
     }
@@ -72,7 +71,7 @@
             content: "";
             position: absolute;
             top: 28%;
-            left: 6px;
+            left: 9px;
             width: 30px;
             height: 22px;
             border-top: 13px double #fff;
@@ -150,6 +149,8 @@
 }
 
 .vb-btn-dark {
+    height: 50px;
+    width: 50px;
     font-size: 28px;
     font-weight: 500;
     color: #fff;
@@ -159,7 +160,6 @@
     background-color: $vb-dark;
     &:hover,
     &:focus {
-        height: 45px;
         padding: 0;
         background-color: $vb-primary;
     }
