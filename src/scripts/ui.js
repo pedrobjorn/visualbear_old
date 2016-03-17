@@ -1,5 +1,7 @@
 "use strict";
 
+var storeHash = '';
+
 function scroller(destination) {
     if (destination) {
         $('html, body').animate({
@@ -8,9 +10,55 @@ function scroller(destination) {
     }
 }
 
+var addEvent = function(object, type, callback) {
+    if (object == null || typeof(object) == 'undefined') return;
+    if (object.addEventListener) {
+        object.addEventListener(type, callback, false);
+    } else if (object.attachEvent) {
+        object.attachEvent("on" + type, callback);
+    } else {
+        object["on" + type] = callback;
+    }
+};
+
+var resize = function() {
+    var clientHeight = $(window).height();
+    $('.js-container').css('height', clientHeight - 48);
+    console.log('??');
+}
+
+var clickHandler = function(anchor) {
+    anchor.setAttribute('class', 'active');
+    $('.navmenu').offcanvas('toggle');
+}
+
+var linkFinder = function(hash) {
+    var els = document.getElementsByTagName("a"),
+        els_length = els.length;
+
+    if (storeHash != hash || storeHash.length == 0) {
+        for (var i = 0, l = els_length; i < l; i++) {
+            var el = els[i];
+            if (el.href === '/' + hash) {
+                storeHash = hash;
+
+                console.log(el.href);
+            }
+        }
+    }
+}
+
 $(document).ready(function() {
 
+    window.addEventListener('resize', function(event) {
+        resize();
+    });
+
     var bootstrapButton = $.fn.button.noConflict(); // return $.fn.button to previously assigned value
+    var menu = document.querySelector('.navigation');
+    var anchors = menu.getElementsByTagName('a');
+    var url = "http://localhost:9000";
+
     $.fn.bootstrapBtn = bootstrapButton; // give $().bootstrapBtn the Bootstrap functionality
 
     $('.navmenu').offcanvas({
@@ -20,11 +68,6 @@ $(document).ready(function() {
         recalc: false,
         canvas: false
     });
-
-    var menu = document.querySelector('.navigation');
-    var anchors = menu.getElementsByTagName('a');
-    var url = "http://localhost:9000";
-    var storeHash = '';
 
     // $('img').bind('contextmenu', function(e){
     //     return false;
@@ -55,6 +98,7 @@ $(document).ready(function() {
         // This global callback will be called for any field that fails validation.
         console.log('Validation failed for: ', this.$element);
     });
+
     window.Parsley.on('form:success', function() {
         document.getElementById("success").style.display = "initial";
         document.getElementById("submit").disabled = true;
@@ -62,36 +106,11 @@ $(document).ready(function() {
             document.getElementById("submit").disabled = false;
             document.getElementById("success").style.display = "none";
         }, 3000);
-
     });
-
-    function clickHandler(anchor) {
-        anchor.setAttribute('class', 'active');
-        $('.navmenu').offcanvas('toggle');
-    }
 
     // $(window).scroll(function() {
     //     console.log(($('#about-text').offset().top < $(this).height() + $(this).scrollTop()) || ($('#about-text').height > $(this).height() + $(this).scrollTop()));
     // });
-
-    function linkFinder(hash) {
-        var els = document.getElementsByTagName("a"),
-            els_length = els.length;
-
-        if (storeHash != hash || storeHash.length == 0) {
-
-            for (var i = 0, l = els_length; i < l; i++) {
-                var el = els[i];
-                if (el.href === '/' + hash) {
-                    storeHash = hash;
-
-                    console.log(el.href);
-                }
-
-            }
-        }
-
-    }
 
     $("#jumbo").mouseover(function() {
         linkFinder("#jumbo");
@@ -326,7 +345,10 @@ $(document).ready(function() {
             }
         })
 
-        if (this.options.disableScrolling) this.disableScrolling()
+        if (this.options.disableScrolling)
+        {
+            this.disableScrolling()
+        }
 
         var complete = function() {
             if (this.state != 'slide-in') return
@@ -437,7 +459,6 @@ $(document).ready(function() {
         $.fn.offcanvas = old
         return this
     }
-
 
     // OFFCANVAS DATA-API
     // =================

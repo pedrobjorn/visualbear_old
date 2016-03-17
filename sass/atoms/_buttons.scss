@@ -37,6 +37,7 @@
     background-color: $vb-grey;
     width: auto;
     color: #fff;
+    height:50px;
     padding: 13px;
     font-weight: 300;
     float: left;
@@ -45,6 +46,14 @@
         color: $vb-light;
         background-color: $vb-primary;
     }
+}
+
+
+.icon-container{
+  width: 100%;
+   height: 4em;
+   margin-bottom: 0.2em;
+   display: block;
 }
 
 .vb-btn {
@@ -230,6 +239,7 @@
         .data-button {
             @include border-radius(0);
             margin: 0;
+            height:50px;
             background-color: $vb-grey;
             border: solid #999;
             border-width: 0  2px 0 0;
@@ -296,9 +306,10 @@
         .data-button {
             @include border-radius(0);
             margin: 0;
+            height:50px;
             background-color: $vb-grey;
             border: solid #999;
-            border-width: 0  2px 0 0;
+            border-width: 0  0 0 1px;
             width: auto;
             color: #fff;
             padding: 13px;
@@ -362,6 +373,7 @@
         .data-button {
             @include border-radius(0);
             margin: 0;
+            height:50px;
             background-color: $vb-grey;
             border: solid #999;
             border-width: 0  1px 0 0;
@@ -435,6 +447,7 @@
         .data-button {
             @include border-radius(0);
             margin: 0;
+            height:50px;
             background-color: $vb-grey;
             margin: 4px 0;
             width: 100%;
@@ -501,6 +514,7 @@
         .data-button {
             @include border-radius(0);
             margin: 0;
+            height:50px;
             background-color: $vb-grey;
             margin: 4px 0;
             width: 100%;
@@ -567,6 +581,7 @@
         .data-button {
             @include border-radius(0);
             margin: 0;
+            height:50px;
             background-color: $vb-grey;
             width: 100%;
             color: #fff;

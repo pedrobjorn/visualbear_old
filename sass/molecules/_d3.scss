@@ -1,12 +1,19 @@
-body.diagram-body {
+article.js-container{
+    height:100vh;
+    width:100%;
+    display:block;
+    position:relative;
+}
+.diagram-body {
     background-color: #999;
     width: 100%;
     height: 100%;
+    display:block;
     #data-menu {
         border: none;
         background-color: transparent;
     }
-    .main {
+    .svg {
         height: 100%;
     }
 }

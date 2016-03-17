@@ -11511,40 +11511,41 @@ section {
 
 /* line 14, ../../../sass/utilities/_grid.scss */
 .main {
+  height: auto;
   margin-top: 48px;
 }
 
-/* line 18, ../../../sass/utilities/_grid.scss */
+/* line 19, ../../../sass/utilities/_grid.scss */
 .row {
   padding: 0;
   margin: 0;
 }
 
-/* line 23, ../../../sass/utilities/_grid.scss */
+/* line 24, ../../../sass/utilities/_grid.scss */
 .section {
   padding: 0;
   margin: 0;
 }
 
-/* line 28, ../../../sass/utilities/_grid.scss */
+/* line 29, ../../../sass/utilities/_grid.scss */
 .outer-container {
   display: table;
   width: 100%;
   height: 100vh;
 }
-/* line 32, ../../../sass/utilities/_grid.scss */
+/* line 33, ../../../sass/utilities/_grid.scss */
 .outer-container .inner-container {
   display: table-cell;
   vertical-align: middle;
 }
-/* line 35, ../../../sass/utilities/_grid.scss */
+/* line 36, ../../../sass/utilities/_grid.scss */
 .outer-container .inner-container .text-container {
   margin-left: auto;
   margin-right: auto;
 }
 
 @media (min-width: 2400px) {
-  /* line 44, ../../../sass/utilities/_grid.scss */
+  /* line 45, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 1px #39393D;
@@ -11553,14 +11554,14 @@ section {
     position: relative;
     display: inline-block;
   }
-  /* line 51, ../../../sass/utilities/_grid.scss */
+  /* line 52, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 60, ../../../sass/utilities/_grid.scss */
+  /* line 61, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 1px #39393D;
@@ -11569,63 +11570,63 @@ section {
     min-height: 100vh;
     max-height: 100%;
   }
-  /* line 67, ../../../sass/utilities/_grid.scss */
+  /* line 68, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 1279px) and (min-width: 767px) {
-  /* line 76, ../../../sass/utilities/_grid.scss */
+  /* line 77, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 1px #39393D;
     min-height: 100vh;
     max-height: 100%;
   }
-  /* line 81, ../../../sass/utilities/_grid.scss */
+  /* line 82, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 767px) and (min-width: 480px) {
-  /* line 90, ../../../sass/utilities/_grid.scss */
+  /* line 91, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 1px #39393D;
     min-height: 100vh;
     max-height: 100%;
   }
-  /* line 95, ../../../sass/utilities/_grid.scss */
+  /* line 96, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 128px;
     padding-bottom: 128px;
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 104, ../../../sass/utilities/_grid.scss */
+  /* line 105, ../../../sass/utilities/_grid.scss */
   .section {
     min-height: 100vh;
     max-height: 100%;
     width: 100%;
     border-bottom: solid 1px #39393D;
   }
-  /* line 109, ../../../sass/utilities/_grid.scss */
+  /* line 110, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 64px;
     padding-bottom: 64px;
   }
 }
 @media (max-width: 320px) {
-  /* line 118, ../../../sass/utilities/_grid.scss */
+  /* line 119, ../../../sass/utilities/_grid.scss */
   .section {
     width: 100%;
     border-bottom: solid 1px #39393D;
     min-height: 100vh;
     max-height: 100%;
   }
-  /* line 123, ../../../sass/utilities/_grid.scss */
+  /* line 124, ../../../sass/utilities/_grid.scss */
   .section .text-container {
     padding-top: 64px;
     padding-bottom: 64px;
@@ -12202,17 +12203,26 @@ a .gallery-image {
   background-color: #39393D;
   width: auto;
   color: #fff;
+  height: 50px;
   padding: 13px;
   font-weight: 300;
   float: left;
 }
-/* line 43, ../../../sass/atoms/_buttons.scss */
+/* line 44, ../../../sass/atoms/_buttons.scss */
 .data-button:hover, .data-button:focus {
   color: #ebf5ff;
   background-color: #ff0033;
 }
 
-/* line 50, ../../../sass/atoms/_buttons.scss */
+/* line 52, ../../../sass/atoms/_buttons.scss */
+.icon-container {
+  width: 100%;
+  height: 4em;
+  margin-bottom: 0.2em;
+  display: block;
+}
+
+/* line 59, ../../../sass/atoms/_buttons.scss */
 .vb-btn, .vb-btn-dark {
   font-size: 12px;
   background-color: #39393D;
@@ -12230,13 +12240,13 @@ a .gallery-image {
   -ms-border-radius: 0;
   border-radius: 0;
 }
-/* line 63, ../../../sass/atoms/_buttons.scss */
+/* line 72, ../../../sass/atoms/_buttons.scss */
 .vb-btn:hover, .vb-btn-dark:hover, .vb-btn:focus, .vb-btn-dark:focus {
   padding: 3px 4px 0 4px;
   color: #ebf5ff;
   background-color: #ff0033;
 }
-/* line 70, ../../../sass/atoms/_buttons.scss */
+/* line 79, ../../../sass/atoms/_buttons.scss */
 .vb-btn .bar:before, .vb-btn-dark .bar:before {
   content: "";
   position: absolute;
@@ -12248,7 +12258,7 @@ a .gallery-image {
   border-bottom: 4px solid #fff;
 }
 
-/* line 83, ../../../sass/atoms/_buttons.scss */
+/* line 92, ../../../sass/atoms/_buttons.scss */
 .vb-btn-icon {
   cursor: pointer;
   float: left;
@@ -12256,20 +12266,20 @@ a .gallery-image {
   padding: 0;
   margin: 0;
 }
-/* line 89, ../../../sass/atoms/_buttons.scss */
+/* line 98, ../../../sass/atoms/_buttons.scss */
 .vb-btn-icon:hover, .vb-btn-icon:focus {
   opacity: 0.5;
 }
-/* line 93, ../../../sass/atoms/_buttons.scss */
+/* line 102, ../../../sass/atoms/_buttons.scss */
 .vb-btn-icon:hover, .vb-btn-icon:focus, .vb-btn-icon:active {
   background-color: #39393D;
 }
-/* line 98, ../../../sass/atoms/_buttons.scss */
+/* line 107, ../../../sass/atoms/_buttons.scss */
 .vb-btn-icon:last-child:after {
   padding: 32px;
 }
 
-/* line 103, ../../../sass/atoms/_buttons.scss */
+/* line 112, ../../../sass/atoms/_buttons.scss */
 .vb-btn-text, .vb-btn-text-dark {
   font-size: 24px;
   background-color: #39393D;
@@ -12286,7 +12296,7 @@ a .gallery-image {
   -ms-border-radius: 0;
   border-radius: 0;
 }
-/* line 115, ../../../sass/atoms/_buttons.scss */
+/* line 124, ../../../sass/atoms/_buttons.scss */
 .vb-btn-text:hover, .vb-btn-text-dark:hover, .vb-btn-text:focus, .vb-btn-text-dark:focus {
   padding: 4px 16px 0 16px;
   height: 46px;
@@ -12294,17 +12304,17 @@ a .gallery-image {
   background-color: #ff0033;
 }
 
-/* line 124, ../../../sass/atoms/_buttons.scss */
+/* line 133, ../../../sass/atoms/_buttons.scss */
 .vb-btn-text-dark {
   background-color: #1C1C1C;
 }
-/* line 127, ../../../sass/atoms/_buttons.scss */
+/* line 136, ../../../sass/atoms/_buttons.scss */
 .vb-btn-text-dark:hover, .vb-btn-text-dark:focus {
   height: 46px;
   background-color: #ff0033;
 }
 
-/* line 134, ../../../sass/atoms/_buttons.scss */
+/* line 143, ../../../sass/atoms/_buttons.scss */
 .vb-btn-down {
   font-size: 1.2em;
   cursor: default;
@@ -12314,7 +12324,7 @@ a .gallery-image {
   -ms-border-radius: 0;
   border-radius: 0;
 }
-/* line 140, ../../../sass/atoms/_buttons.scss */
+/* line 149, ../../../sass/atoms/_buttons.scss */
 .vb-btn-down a:hover, .vb-btn-down a:focus, .vb-btn-down a:active {
   outline: none;
   border: none;
@@ -12322,7 +12332,7 @@ a .gallery-image {
   color: #ff0033;
 }
 
-/* line 151, ../../../sass/atoms/_buttons.scss */
+/* line 160, ../../../sass/atoms/_buttons.scss */
 .vb-btn-dark {
   height: 50px;
   width: 50px;
@@ -12333,20 +12343,21 @@ a .gallery-image {
   padding: 0;
   background-color: #1C1C1C;
 }
-/* line 161, ../../../sass/atoms/_buttons.scss */
+/* line 170, ../../../sass/atoms/_buttons.scss */
 .vb-btn-dark:hover, .vb-btn-dark:focus {
   padding: 0;
   background-color: #ff0033;
 }
 
 @media (min-width: 2400px) {
-  /* line 230, ../../../sass/atoms/_buttons.scss */
+  /* line 239, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     -ms-border-radius: 0;
     border-radius: 0;
     margin: 0;
+    height: 50px;
     background-color: #39393D;
     border: solid #999;
     border-width: 0  2px 0 0;
@@ -12356,23 +12367,23 @@ a .gallery-image {
     font-weight: 300;
     float: left;
   }
-  /* line 241, ../../../sass/atoms/_buttons.scss */
+  /* line 251, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button:hover, .data-nav .data-button:focus {
     color: #ebf5ff;
     background-color: #ff0033;
   }
-  /* line 247, ../../../sass/atoms/_buttons.scss */
+  /* line 257, ../../../sass/atoms/_buttons.scss */
   .data-nav .active {
     color: #ebf5ff;
     background-color: #ff0033;
   }
 
-  /* line 253, ../../../sass/atoms/_buttons.scss */
+  /* line 263, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button {
     display: none;
   }
 
-  /* line 257, ../../../sass/atoms/_buttons.scss */
+  /* line 267, ../../../sass/atoms/_buttons.scss */
   .vb-submit {
     background-color: #ff0033;
     position: relative;
@@ -12389,13 +12400,13 @@ a .gallery-image {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 269, ../../../sass/atoms/_buttons.scss */
+  /* line 279, ../../../sass/atoms/_buttons.scss */
   .vb-submit:hover, .vb-submit:focus {
     color: #ff0033;
     background-color: #ebf5ff;
   }
 
-  /* line 275, ../../../sass/atoms/_buttons.scss */
+  /* line 285, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down {
     font-size: 0.6em;
     cursor: default;
@@ -12405,7 +12416,7 @@ a .gallery-image {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 281, ../../../sass/atoms/_buttons.scss */
+  /* line 291, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down a:hover, .vb-btn-down a:focus, .vb-btn-down a:active {
     outline: none;
     border: none;
@@ -12414,39 +12425,40 @@ a .gallery-image {
   }
 }
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 296, ../../../sass/atoms/_buttons.scss */
+  /* line 306, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     -ms-border-radius: 0;
     border-radius: 0;
     margin: 0;
+    height: 50px;
     background-color: #39393D;
     border: solid #999;
-    border-width: 0  2px 0 0;
+    border-width: 0  0 0 1px;
     width: auto;
     color: #fff;
     padding: 13px;
     font-weight: 300;
     float: left;
   }
-  /* line 307, ../../../sass/atoms/_buttons.scss */
+  /* line 318, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button:hover, .data-nav .data-button:focus {
     color: #ebf5ff;
     background-color: #ff0033;
   }
-  /* line 313, ../../../sass/atoms/_buttons.scss */
+  /* line 324, ../../../sass/atoms/_buttons.scss */
   .data-nav .active {
     color: #ebf5ff;
     background-color: #ff0033;
   }
 
-  /* line 319, ../../../sass/atoms/_buttons.scss */
+  /* line 330, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button {
     display: none;
   }
 
-  /* line 323, ../../../sass/atoms/_buttons.scss */
+  /* line 334, ../../../sass/atoms/_buttons.scss */
   .vb-submit {
     background-color: #ff0033;
     position: relative;
@@ -12463,13 +12475,13 @@ a .gallery-image {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 335, ../../../sass/atoms/_buttons.scss */
+  /* line 346, ../../../sass/atoms/_buttons.scss */
   .vb-submit:hover, .vb-submit:focus {
     color: #ff0033;
     background-color: #ebf5ff;
   }
 
-  /* line 341, ../../../sass/atoms/_buttons.scss */
+  /* line 352, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down {
     font-size: 0.6em;
     cursor: default;
@@ -12479,7 +12491,7 @@ a .gallery-image {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 347, ../../../sass/atoms/_buttons.scss */
+  /* line 358, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down a:hover, .vb-btn-down a:focus, .vb-btn-down a:active {
     outline: none;
     border: none;
@@ -12488,13 +12500,14 @@ a .gallery-image {
   }
 }
 @media (max-width: 1279px) and (min-width: 815px) {
-  /* line 362, ../../../sass/atoms/_buttons.scss */
+  /* line 373, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     -ms-border-radius: 0;
     border-radius: 0;
     margin: 0;
+    height: 50px;
     background-color: #39393D;
     border: solid #999;
     border-width: 0  1px 0 0;
@@ -12505,23 +12518,23 @@ a .gallery-image {
     font-size: 11px;
     float: left;
   }
-  /* line 374, ../../../sass/atoms/_buttons.scss */
+  /* line 386, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button:hover, .data-nav .data-button:focus {
     color: #ebf5ff;
     background-color: #ff0033;
   }
-  /* line 380, ../../../sass/atoms/_buttons.scss */
+  /* line 392, ../../../sass/atoms/_buttons.scss */
   .data-nav .active {
     color: #ebf5ff;
     background-color: #ff0033;
   }
 
-  /* line 386, ../../../sass/atoms/_buttons.scss */
+  /* line 398, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button {
     display: none;
   }
 
-  /* line 390, ../../../sass/atoms/_buttons.scss */
+  /* line 402, ../../../sass/atoms/_buttons.scss */
   .vb-submit {
     background-color: #ff0033;
     position: relative;
@@ -12538,13 +12551,13 @@ a .gallery-image {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 402, ../../../sass/atoms/_buttons.scss */
+  /* line 414, ../../../sass/atoms/_buttons.scss */
   .vb-submit:hover, .vb-submit:focus {
     color: #ff0033;
     background-color: #ebf5ff;
   }
 
-  /* line 408, ../../../sass/atoms/_buttons.scss */
+  /* line 420, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down {
     font-size: 0.6em;
     cursor: default;
@@ -12554,7 +12567,7 @@ a .gallery-image {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 414, ../../../sass/atoms/_buttons.scss */
+  /* line 426, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down a:hover, .vb-btn-down a:focus, .vb-btn-down a:active {
     outline: none;
     border: none;
@@ -12563,22 +12576,23 @@ a .gallery-image {
   }
 }
 @media (max-width: 815px) and (min-width: 480px) {
-  /* line 429, ../../../sass/atoms/_buttons.scss */
+  /* line 441, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button {
     display: none;
   }
 
-  /* line 433, ../../../sass/atoms/_buttons.scss */
+  /* line 445, ../../../sass/atoms/_buttons.scss */
   .data-menu {
     padding-bottom: 16px;
   }
-  /* line 435, ../../../sass/atoms/_buttons.scss */
+  /* line 447, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     -ms-border-radius: 0;
     border-radius: 0;
     margin: 0;
+    height: 50px;
     background-color: #39393D;
     margin: 4px 0;
     width: 100%;
@@ -12587,18 +12601,18 @@ a .gallery-image {
     font-weight: 300;
     float: left;
   }
-  /* line 445, ../../../sass/atoms/_buttons.scss */
+  /* line 458, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button:hover, .data-menu .data-button:focus {
     color: #ebf5ff;
     background-color: #ff0033;
   }
-  /* line 451, ../../../sass/atoms/_buttons.scss */
+  /* line 464, ../../../sass/atoms/_buttons.scss */
   .data-menu .active {
     color: #ebf5ff;
     background-color: #ff0033;
   }
 
-  /* line 456, ../../../sass/atoms/_buttons.scss */
+  /* line 469, ../../../sass/atoms/_buttons.scss */
   .vb-submit {
     background-color: #ff0033;
     position: relative;
@@ -12615,13 +12629,13 @@ a .gallery-image {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 468, ../../../sass/atoms/_buttons.scss */
+  /* line 481, ../../../sass/atoms/_buttons.scss */
   .vb-submit:hover, .vb-submit:focus {
     color: #ff0033;
     background-color: #ebf5ff;
   }
 
-  /* line 474, ../../../sass/atoms/_buttons.scss */
+  /* line 487, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down {
     font-size: 0.6em;
     cursor: default;
@@ -12631,7 +12645,7 @@ a .gallery-image {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 480, ../../../sass/atoms/_buttons.scss */
+  /* line 493, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down a:hover, .vb-btn-down a:focus, .vb-btn-down a:active {
     outline: none;
     border: none;
@@ -12640,22 +12654,23 @@ a .gallery-image {
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 495, ../../../sass/atoms/_buttons.scss */
+  /* line 508, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button {
     display: none;
   }
 
-  /* line 499, ../../../sass/atoms/_buttons.scss */
+  /* line 512, ../../../sass/atoms/_buttons.scss */
   .data-menu {
     padding-bottom: 16px;
   }
-  /* line 501, ../../../sass/atoms/_buttons.scss */
+  /* line 514, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     -ms-border-radius: 0;
     border-radius: 0;
     margin: 0;
+    height: 50px;
     background-color: #39393D;
     margin: 4px 0;
     width: 100%;
@@ -12664,18 +12679,18 @@ a .gallery-image {
     font-weight: 300;
     float: left;
   }
-  /* line 511, ../../../sass/atoms/_buttons.scss */
+  /* line 525, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button:hover, .data-menu .data-button:focus {
     color: #ebf5ff;
     background-color: #ff0033;
   }
-  /* line 517, ../../../sass/atoms/_buttons.scss */
+  /* line 531, ../../../sass/atoms/_buttons.scss */
   .data-menu .active {
     color: #ebf5ff;
     background-color: #ff0033;
   }
 
-  /* line 522, ../../../sass/atoms/_buttons.scss */
+  /* line 536, ../../../sass/atoms/_buttons.scss */
   .vb-submit {
     background-color: #ff0033;
     position: relative;
@@ -12692,13 +12707,13 @@ a .gallery-image {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 534, ../../../sass/atoms/_buttons.scss */
+  /* line 548, ../../../sass/atoms/_buttons.scss */
   .vb-submit:hover, .vb-submit:focus {
     color: #ff0033;
     background-color: #ebf5ff;
   }
 
-  /* line 540, ../../../sass/atoms/_buttons.scss */
+  /* line 554, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down {
     font-size: 0.5em;
     cursor: default;
@@ -12708,7 +12723,7 @@ a .gallery-image {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 546, ../../../sass/atoms/_buttons.scss */
+  /* line 560, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down a:hover, .vb-btn-down a:focus, .vb-btn-down a:active {
     outline: none;
     border: none;
@@ -12717,22 +12732,23 @@ a .gallery-image {
   }
 }
 @media (max-width: 320px) {
-  /* line 561, ../../../sass/atoms/_buttons.scss */
+  /* line 575, ../../../sass/atoms/_buttons.scss */
   .data-nav .data-button {
     display: none;
   }
 
-  /* line 565, ../../../sass/atoms/_buttons.scss */
+  /* line 579, ../../../sass/atoms/_buttons.scss */
   .data-menu {
     padding-bottom: 16px;
   }
-  /* line 567, ../../../sass/atoms/_buttons.scss */
+  /* line 581, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     -ms-border-radius: 0;
     border-radius: 0;
     margin: 0;
+    height: 50px;
     background-color: #39393D;
     width: 100%;
     color: #fff;
@@ -12741,18 +12757,18 @@ a .gallery-image {
     font-weight: 300;
     float: left;
   }
-  /* line 577, ../../../sass/atoms/_buttons.scss */
+  /* line 592, ../../../sass/atoms/_buttons.scss */
   .data-menu .data-button:hover, .data-menu .data-button:focus {
     color: #ebf5ff;
     background-color: #ff0033;
   }
-  /* line 583, ../../../sass/atoms/_buttons.scss */
+  /* line 598, ../../../sass/atoms/_buttons.scss */
   .data-menu .active {
     color: #ebf5ff;
     background-color: #ff0033;
   }
 
-  /* line 588, ../../../sass/atoms/_buttons.scss */
+  /* line 603, ../../../sass/atoms/_buttons.scss */
   .vb-submit {
     background-color: #ff0033;
     position: relative;
@@ -12769,13 +12785,13 @@ a .gallery-image {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 600, ../../../sass/atoms/_buttons.scss */
+  /* line 615, ../../../sass/atoms/_buttons.scss */
   .vb-submit:hover, .vb-submit:focus {
     color: #ff0033;
     background-color: #ebf5ff;
   }
 
-  /* line 606, ../../../sass/atoms/_buttons.scss */
+  /* line 621, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down {
     font-size: 0.5em;
     cursor: default;
@@ -12785,7 +12801,7 @@ a .gallery-image {
     -ms-border-radius: 0;
     border-radius: 0;
   }
-  /* line 612, ../../../sass/atoms/_buttons.scss */
+  /* line 627, ../../../sass/atoms/_buttons.scss */
   .vb-btn-down a:hover, .vb-btn-down a:focus, .vb-btn-down a:active {
     outline: none;
     border: none;
@@ -13274,37 +13290,46 @@ input[type="color"],
   }
 }
 /* line 1, ../../../sass/molecules/_d3.scss */
-body.diagram-body {
+article.js-container {
+  height: 100vh;
+  width: 100%;
+  display: block;
+  position: relative;
+}
+
+/* line 7, ../../../sass/molecules/_d3.scss */
+.diagram-body {
   background-color: #999;
   width: 100%;
   height: 100%;
+  display: block;
 }
-/* line 5, ../../../sass/molecules/_d3.scss */
-body.diagram-body #data-menu {
+/* line 12, ../../../sass/molecules/_d3.scss */
+.diagram-body #data-menu {
   border: none;
   background-color: transparent;
 }
-/* line 9, ../../../sass/molecules/_d3.scss */
-body.diagram-body .main {
+/* line 16, ../../../sass/molecules/_d3.scss */
+.diagram-body .svg {
   height: 100%;
 }
 
-/* line 14, ../../../sass/molecules/_d3.scss */
+/* line 21, ../../../sass/molecules/_d3.scss */
 .data-nav, .data-menu {
   width: auto;
 }
 
-/* line 19, ../../../sass/molecules/_d3.scss */
+/* line 26, ../../../sass/molecules/_d3.scss */
 .data-nav .data-button {
   opacity: 0;
 }
 
-/* line 25, ../../../sass/molecules/_d3.scss */
+/* line 32, ../../../sass/molecules/_d3.scss */
 .data-menu .data-button {
   opacity: 1;
 }
 
-/* line 30, ../../../sass/molecules/_d3.scss */
+/* line 37, ../../../sass/molecules/_d3.scss */
 .description {
   font-size: 18px;
   font-family: ubuntu;
@@ -13315,12 +13340,12 @@ body.diagram-body .main {
   text-transform: initial;
 }
 
-/* line 41, ../../../sass/molecules/_d3.scss */
+/* line 48, ../../../sass/molecules/_d3.scss */
 .navbar-brand:hover, .navbar-brand:focus {
   cursor: pointer;
 }
 
-/* line 47, ../../../sass/molecules/_d3.scss */
+/* line 54, ../../../sass/molecules/_d3.scss */
 .axis path,
 .axis line {
   fill: none;
@@ -13329,7 +13354,7 @@ body.diagram-body .main {
   shape-rendering: crispEdges;
 }
 
-/* line 55, ../../../sass/molecules/_d3.scss */
+/* line 62, ../../../sass/molecules/_d3.scss */
 .axis text {
   font-family: ubuntu;
   font-weight: 200;
@@ -13338,7 +13363,7 @@ body.diagram-body .main {
 }
 
 @media (max-width: 2400px) and (min-width: 1279px) {
-  /* line 64, ../../../sass/molecules/_d3.scss */
+  /* line 71, ../../../sass/molecules/_d3.scss */
   .description {
     font-size: 18px;
     font-family: ubuntu;
@@ -13350,26 +13375,26 @@ body.diagram-body .main {
   }
 }
 @media (max-width: 960px) and (min-width: 815) {
-  /* line 79, ../../../sass/molecules/_d3.scss */
+  /* line 86, ../../../sass/molecules/_d3.scss */
   .yText {
     display: inline-block;
     width: 60%;
   }
 }
 @media (815) and (min-width: 480px) {
-  /* line 87, ../../../sass/molecules/_d3.scss */
+  /* line 94, ../../../sass/molecules/_d3.scss */
   .yText {
     width: 60%;
   }
 }
 @media (max-width: 480px) and (min-width: 320px) {
-  /* line 94, ../../../sass/molecules/_d3.scss */
+  /* line 101, ../../../sass/molecules/_d3.scss */
   .yText {
     display: inline-block;
     width: 60%;
   }
 
-  /* line 98, ../../../sass/molecules/_d3.scss */
+  /* line 105, ../../../sass/molecules/_d3.scss */
   .description {
     font-size: 18px;
     font-family: ubuntu;
@@ -13381,13 +13406,13 @@ body.diagram-body .main {
   }
 }
 @media (max-width: 320px) {
-  /* line 111, ../../../sass/molecules/_d3.scss */
+  /* line 118, ../../../sass/molecules/_d3.scss */
   .yText {
     display: inline-block;
     width: 60%;
   }
 
-  /* line 115, ../../../sass/molecules/_d3.scss */
+  /* line 122, ../../../sass/molecules/_d3.scss */
   .description {
     font-size: 18px;
     font-family: ubuntu;
